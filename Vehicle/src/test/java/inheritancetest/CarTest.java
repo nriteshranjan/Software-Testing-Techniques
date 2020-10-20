@@ -6,7 +6,7 @@ import static org.junit.jupiter.api.Assertions.*;
 
 class CarTest {
 
-    Car car = new Car("Honda", 4, 200);
+    Car car = new Car("Audi", 4, 200);
 
     @Test
     void getCapacity() {
