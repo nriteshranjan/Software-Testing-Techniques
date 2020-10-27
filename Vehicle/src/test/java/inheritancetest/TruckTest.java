@@ -10,7 +10,7 @@ class TruckTest {
 
     @Test
     void getCapacity() {
-        assertEquals(truck.getCapacity(), 200);
+        assertEquals(truck.getCapacity(), 250);
     }
 
     @Test
