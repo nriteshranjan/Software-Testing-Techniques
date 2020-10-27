@@ -1,7 +1,7 @@
 package Employee;
 
 public class Manager extends Employee {
-    Boolean isSalaried;
+    public Boolean isSalaried;
 
     public Manager(String name, float payRate, Boolean isSalaried) {
         super(name, payRate);
@@ -18,7 +18,7 @@ public class Manager extends Employee {
 
     @Override
     public float pay(float hoursWorked) {
-        if(isSalaried) return payRate;
+        if (isSalaried) return payRate;
         return super.pay(hoursWorked);
     }
 }

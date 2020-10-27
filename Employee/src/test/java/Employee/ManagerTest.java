@@ -4,35 +4,28 @@ import static org.junit.jupiter.api.Assertions.*;
 
 class ManagerTest {
 
-    @org.junit.jupiter.api.Test
-    void getName() {
-    }
+    Manager manager = new Manager("Ajay Kumar", 20, true);
 
     @org.junit.jupiter.api.Test
-    void setName() {
+    void getName() {
+        assertEquals("Ajay Kumar", "Ajay Kumar");
     }
 
     @org.junit.jupiter.api.Test
     void getPayRate() {
-    }
-
-    @org.junit.jupiter.api.Test
-    void setPayRate() {
+        assertEquals(20, 20);
     }
 
     @org.junit.jupiter.api.Test
     void pay() {
+        manager.isSalaried = false;
+        assertEquals(20 * manager.getPayRate(), manager.pay(20));
+        manager.isSalaried = true;
+        assertEquals(manager.getPayRate(), manager.pay(20));
     }
 
     @org.junit.jupiter.api.Test
     void getSalaried() {
-    }
-
-    @org.junit.jupiter.api.Test
-    void setSalaried() {
-    }
-
-    @org.junit.jupiter.api.Test
-    void testPay() {
+        assertEquals(manager.isSalaried, manager.getSalaried());
     }
 }

@@ -6,23 +6,20 @@ import static org.junit.jupiter.api.Assertions.*;
 
 class SupervisorTest {
 
-    @Test
-    void getName() {
-    }
+    Supervisor supervisor = new Supervisor("Kanishk Yadav", 200);
 
     @Test
-    void setName() {
+    void getName() {
+        assertEquals(supervisor.name, supervisor.getName());
     }
 
     @Test
     void getPayRate() {
-    }
-
-    @Test
-    void setPayRate() {
+        assertEquals(supervisor.payRate, supervisor.getPayRate());
     }
 
     @Test
     void pay() {
+        assertEquals(20 * supervisor.payRate, supervisor.pay(20));
     }
 }
