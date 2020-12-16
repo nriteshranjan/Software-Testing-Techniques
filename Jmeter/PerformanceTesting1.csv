@@ -1,0 +1,609 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1607097469505,18246,Microsoft Home Page,200,OK,User Group 2 2-3,text,true,,180871,240,60,90,https://www.microsoft.com/en-in,494,0,287
+1607097469505,494,Microsoft Home Page-0,301,Moved Permanently,User Group 2 2-3,,true,,441,120,60,90,http://www.microsoft.com/en-in,494,0,287
+1607097470001,17750,Microsoft Home Page-1,200,OK,User Group 2 2-3,text,true,,180430,120,60,90,https://www.microsoft.com/en-in,5903,0,4620
+1607097469961,26748,Microsoft Home Page,200,OK,User Group 1 1-20,text,true,,183701,240,30,90,https://www.microsoft.com/en-in,676,0,97
+1607097469961,676,Microsoft Home Page-0,301,Moved Permanently,User Group 1 1-20,,true,,441,120,30,90,http://www.microsoft.com/en-in,676,0,97
+1607097470638,26071,Microsoft Home Page-1,200,OK,User Group 1 1-20,text,true,,183260,120,30,90,https://www.microsoft.com/en-in,5021,0,3388
+1607097469928,26906,Microsoft Home Page,200,OK,User Group 1 1-19,text,true,,180883,240,30,90,https://www.microsoft.com/en-in,703,0,92
+1607097469928,703,Microsoft Home Page-0,301,Moved Permanently,User Group 1 1-19,,true,,441,120,30,90,http://www.microsoft.com/en-in,703,0,92
+1607097470632,26202,Microsoft Home Page-1,200,OK,User Group 1 1-19,text,true,,180442,120,30,90,https://www.microsoft.com/en-in,5024,0,3367
+1607097469863,27577,Microsoft Home Page,200,OK,User Group 1 1-17,text,true,,180885,240,30,90,https://www.microsoft.com/en-in,686,0,115
+1607097469863,686,Microsoft Home Page-0,301,Moved Permanently,User Group 1 1-17,,true,,441,120,30,90,http://www.microsoft.com/en-in,686,0,115
+1607097470550,26890,Microsoft Home Page-1,200,OK,User Group 1 1-17,text,true,,180444,120,30,90,https://www.microsoft.com/en-in,6986,0,4086
+1607097469959,27652,Microsoft Home Page,200,OK,User Group 2 2-35,text,true,,180684,240,60,90,https://www.microsoft.com/en-in,680,0,105
+1607097469959,680,Microsoft Home Page-0,301,Moved Permanently,User Group 2 2-35,,true,,441,120,60,90,http://www.microsoft.com/en-in,680,0,105
+1607097470651,26960,Microsoft Home Page-1,200,OK,User Group 2 2-35,text,true,,180243,120,60,90,https://www.microsoft.com/en-in,6619,0,3379
+1607097469797,28000,Microsoft Home Page,200,OK,User Group 2 2-26,text,true,,182651,240,60,90,https://www.microsoft.com/en-in,730,0,114
+1607097469797,730,Microsoft Home Page-0,301,Moved Permanently,User Group 2 2-26,,true,,441,120,60,90,http://www.microsoft.com/en-in,730,0,114
+1607097470529,27268,Microsoft Home Page-1,200,OK,User Group 2 2-26,text,true,,182210,120,60,90,https://www.microsoft.com/en-in,5176,0,3493
+1607097469507,28290,Microsoft Home Page,200,OK,User Group 2 2-6,text,true,,180939,240,60,90,https://www.microsoft.com/en-in,510,0,292
+1607097469507,510,Microsoft Home Page-0,301,Moved Permanently,User Group 2 2-6,,true,,441,120,60,90,http://www.microsoft.com/en-in,510,0,292
+1607097470019,27778,Microsoft Home Page-1,200,OK,User Group 2 2-6,text,true,,180498,120,60,90,https://www.microsoft.com/en-in,10276,0,4397
+1607097470293,27524,Microsoft Home Page,200,OK,User Group 2 2-55,text,true,,180704,240,60,90,https://www.microsoft.com/en-in,1051,0,105
+1607097470293,1051,Microsoft Home Page-0,301,Moved Permanently,User Group 2 2-55,,true,,441,120,60,90,http://www.microsoft.com/en-in,1051,0,105
+1607097471345,26472,Microsoft Home Page-1,200,OK,User Group 2 2-55,text,true,,180263,120,60,90,https://www.microsoft.com/en-in,7372,0,3953
+1607097469506,28379,Microsoft Home Page,200,OK,User Group 1 1-1,text,true,,183685,240,30,90,https://www.microsoft.com/en-in,673,0,336
+1607097469506,673,Microsoft Home Page-0,301,Moved Permanently,User Group 1 1-1,,true,,439,120,30,90,http://www.microsoft.com/en-in,673,0,336
+1607097470182,27703,Microsoft Home Page-1,200,OK,User Group 1 1-1,text,true,,183246,120,30,90,https://www.microsoft.com/en-in,5875,0,4436
+1607097470235,27770,Microsoft Home Page,200,OK,User Group 2 2-51,text,true,,180875,240,60,90,https://www.microsoft.com/en-in,1048,0,105
+1607097470235,1048,Microsoft Home Page-0,301,Moved Permanently,User Group 2 2-51,,true,,441,120,60,90,http://www.microsoft.com/en-in,1048,0,105
+1607097471284,26721,Microsoft Home Page-1,200,OK,User Group 2 2-51,text,true,,180434,120,60,90,https://www.microsoft.com/en-in,7607,0,3545
+1607097469507,28849,Microsoft Home Page,200,OK,User Group 1 1-4,text,true,,182760,240,30,90,https://www.microsoft.com/en-in,638,0,332
+1607097469507,638,Microsoft Home Page-0,301,Moved Permanently,User Group 1 1-4,,true,,441,120,30,90,http://www.microsoft.com/en-in,638,0,332
+1607097470146,28210,Microsoft Home Page-1,200,OK,User Group 1 1-4,text,true,,182319,120,30,90,https://www.microsoft.com/en-in,9298,0,4468
+1607097469872,28737,Microsoft Home Page,200,OK,User Group 2 2-30,text,true,,180883,240,60,90,https://www.microsoft.com/en-in,682,0,106
+1607097469872,682,Microsoft Home Page-0,301,Moved Permanently,User Group 2 2-30,,true,,441,120,60,90,http://www.microsoft.com/en-in,682,0,106
+1607097470555,28054,Microsoft Home Page-1,200,OK,User Group 2 2-30,text,true,,180442,120,60,90,https://www.microsoft.com/en-in,5707,0,4067
+1607097470099,28539,Microsoft Home Page,200,OK,User Group 1 1-24,text,true,,180678,240,30,90,https://www.microsoft.com/en-in,979,0,113
+1607097470099,979,Microsoft Home Page-0,301,Moved Permanently,User Group 1 1-24,,true,,441,120,30,90,http://www.microsoft.com/en-in,979,0,113
+1607097471079,27559,Microsoft Home Page-1,200,OK,User Group 1 1-24,text,true,,180237,120,30,90,https://www.microsoft.com/en-in,6291,0,3541
+1607097469539,29387,Microsoft Home Page,200,OK,User Group 2 2-11,text,true,,182573,240,60,90,https://www.microsoft.com/en-in,636,0,303
+1607097469539,636,Microsoft Home Page-0,301,Moved Permanently,User Group 2 2-11,,true,,441,120,60,90,http://www.microsoft.com/en-in,636,0,303
+1607097470176,28750,Microsoft Home Page-1,200,OK,User Group 2 2-11,text,true,,182132,120,60,90,https://www.microsoft.com/en-in,6279,0,4638
+1607097469742,29956,Microsoft Home Page,200,OK,User Group 2 2-23,text,true,,180690,240,60,90,https://www.microsoft.com/en-in,448,0,107
+1607097469742,448,Microsoft Home Page-0,301,Moved Permanently,User Group 2 2-23,,true,,441,120,60,90,http://www.microsoft.com/en-in,448,0,107
+1607097470192,29506,Microsoft Home Page-1,200,OK,User Group 2 2-23,text,true,,180249,120,60,90,https://www.microsoft.com/en-in,7187,0,3843
+1607097469940,29864,Microsoft Home Page,200,OK,User Group 2 2-34,text,true,,180700,240,60,90,https://www.microsoft.com/en-in,819,0,106
+1607097469940,819,Microsoft Home Page-0,301,Moved Permanently,User Group 2 2-34,,true,,441,120,60,90,http://www.microsoft.com/en-in,819,0,106
+1607097470760,29044,Microsoft Home Page-1,200,OK,User Group 2 2-34,text,true,,180259,120,60,90,https://www.microsoft.com/en-in,6314,0,3665
+1607097470026,30033,Microsoft Home Page,200,OK,User Group 1 1-22,text,true,,181064,240,30,90,https://www.microsoft.com/en-in,685,0,100
+1607097470026,685,Microsoft Home Page-0,301,Moved Permanently,User Group 1 1-22,,true,,441,120,30,90,http://www.microsoft.com/en-in,685,0,100
+1607097470712,29347,Microsoft Home Page-1,200,OK,User Group 1 1-22,text,true,,180623,120,30,90,https://www.microsoft.com/en-in,11504,0,3707
+1607097469922,30245,Microsoft Home Page,200,OK,User Group 2 2-33,text,true,,183689,240,60,90,https://www.microsoft.com/en-in,648,0,95
+1607097469922,648,Microsoft Home Page-0,301,Moved Permanently,User Group 2 2-33,,true,,441,120,60,90,http://www.microsoft.com/en-in,648,0,95
+1607097470571,29596,Microsoft Home Page-1,200,OK,User Group 2 2-33,text,true,,183248,120,60,90,https://www.microsoft.com/en-in,11169,0,4253
+1607097469510,33306,Microsoft Home Page,200,OK,User Group 2 2-9,text,true,,180875,240,60,90,https://www.microsoft.com/en-in,637,0,330
+1607097469510,637,Microsoft Home Page-0,301,Moved Permanently,User Group 2 2-9,,true,,441,120,60,90,http://www.microsoft.com/en-in,637,0,330
+1607097470148,32668,Microsoft Home Page-1,200,OK,User Group 2 2-9,text,true,,180434,120,60,90,https://www.microsoft.com/en-in,5509,0,3887
+1607097470217,34922,Microsoft Home Page,200,OK,User Group 1 1-27,text,true,,183759,240,30,90,https://www.microsoft.com/en-in,1081,0,127
+1607097470217,1081,Microsoft Home Page-0,301,Moved Permanently,User Group 1 1-27,,true,,441,120,30,90,http://www.microsoft.com/en-in,1081,0,127
+1607097471299,33840,Microsoft Home Page-1,200,OK,User Group 1 1-27,text,true,,183318,120,30,90,https://www.microsoft.com/en-in,10441,0,4008
+1607097469588,35663,Microsoft Home Page,200,OK,User Group 2 2-14,text,true,,180760,240,60,90,https://www.microsoft.com/en-in,592,0,254
+1607097469588,592,Microsoft Home Page-0,301,Moved Permanently,User Group 2 2-14,,true,,441,120,60,90,http://www.microsoft.com/en-in,592,0,254
+1607097470181,35070,Microsoft Home Page-1,200,OK,User Group 2 2-14,text,true,,180319,120,60,90,https://www.microsoft.com/en-in,12036,0,3855
+1607097469506,36002,Microsoft Home Page,200,OK,User Group 2 2-8,text,true,,181062,240,60,90,https://www.microsoft.com/en-in,674,0,334
+1607097469506,674,Microsoft Home Page-0,301,Moved Permanently,User Group 2 2-8,,true,,439,120,60,90,http://www.microsoft.com/en-in,674,0,334
+1607097470181,35327,Microsoft Home Page-1,200,OK,User Group 2 2-8,text,true,,180623,120,60,90,https://www.microsoft.com/en-in,13721,0,4636
+1607097469732,36192,Microsoft Home Page,200,OK,User Group 1 1-13,text,true,,180676,240,30,90,https://www.microsoft.com/en-in,765,0,127
+1607097469732,765,Microsoft Home Page-0,301,Moved Permanently,User Group 1 1-13,,true,,441,120,30,90,http://www.microsoft.com/en-in,765,0,127
+1607097470498,35426,Microsoft Home Page-1,200,OK,User Group 1 1-13,text,true,,180235,120,30,90,https://www.microsoft.com/en-in,13880,0,4166
+1607097469557,36711,Microsoft Home Page,200,OK,User Group 2 2-12,text,true,,180869,240,60,90,https://www.microsoft.com/en-in,565,0,263
+1607097469557,565,Microsoft Home Page-0,301,Moved Permanently,User Group 2 2-12,,true,,441,120,60,90,http://www.microsoft.com/en-in,565,0,263
+1607097470125,36143,Microsoft Home Page-1,200,OK,User Group 2 2-12,text,true,,180428,120,60,90,https://www.microsoft.com/en-in,12107,0,4493
+1607097469510,38833,Microsoft Home Page,200,OK,User Group 1 1-6,text,true,,180686,240,30,90,https://www.microsoft.com/en-in,619,0,310
+1607097469510,619,Microsoft Home Page-0,301,Moved Permanently,User Group 1 1-6,,true,,441,120,30,90,http://www.microsoft.com/en-in,619,0,310
+1607097470143,38200,Microsoft Home Page-1,200,OK,User Group 1 1-6,text,true,,180245,120,30,90,https://www.microsoft.com/en-in,13785,0,4521
+1607097469506,39303,Microsoft Home Page,200,OK,User Group 1 1-2,text,true,,183687,240,30,90,https://www.microsoft.com/en-in,547,0,299
+1607097469506,547,Microsoft Home Page-0,301,Moved Permanently,User Group 1 1-2,,true,,441,120,30,90,http://www.microsoft.com/en-in,547,0,299
+1607097470055,38754,Microsoft Home Page-1,200,OK,User Group 1 1-2,text,true,,183246,120,30,90,https://www.microsoft.com/en-in,7286,0,3974
+1607097469907,38932,Microsoft Home Page,200,OK,User Group 2 2-32,text,true,,181074,240,60,90,https://www.microsoft.com/en-in,669,0,107
+1607097469907,669,Microsoft Home Page-0,301,Moved Permanently,User Group 2 2-32,,true,,441,120,60,90,http://www.microsoft.com/en-in,669,0,107
+1607097470656,38183,Microsoft Home Page-1,200,OK,User Group 2 2-32,text,true,,180633,120,60,90,https://www.microsoft.com/en-in,6220,0,3372
+1607097469991,40310,Microsoft Home Page,200,OK,User Group 2 2-37,text,true,,180678,240,60,90,https://www.microsoft.com/en-in,716,0,87
+1607097469991,716,Microsoft Home Page-0,301,Moved Permanently,User Group 2 2-37,,true,,439,120,60,90,http://www.microsoft.com/en-in,716,0,87
+1607097470708,39593,Microsoft Home Page-1,200,OK,User Group 2 2-37,text,true,,180239,120,60,90,https://www.microsoft.com/en-in,6655,0,3708
+1607097469506,41068,Microsoft Home Page,200,OK,User Group 2 2-4,text,true,,180688,240,60,90,https://www.microsoft.com/en-in,534,0,294
+1607097469506,534,Microsoft Home Page-0,301,Moved Permanently,User Group 2 2-4,,true,,441,120,60,90,http://www.microsoft.com/en-in,534,0,294
+1607097470042,40532,Microsoft Home Page-1,200,OK,User Group 2 2-4,text,true,,180247,120,60,90,https://www.microsoft.com/en-in,12520,0,4575
+1607097496835,23550,Microsoft Windows,200,OK,User Group 1 1-19,text,true,,139126,128,30,90,http://www.microsoft.com/en-in/windows,2126,0,0
+1607097469778,51501,Microsoft Home Page,200,OK,User Group 2 2-25,text,true,,180694,240,60,90,https://www.microsoft.com/en-in,741,0,110
+1607097469778,741,Microsoft Home Page-0,301,Moved Permanently,User Group 2 2-25,,true,,441,120,60,90,http://www.microsoft.com/en-in,741,0,110
+1607097470520,50759,Microsoft Home Page-1,200,OK,User Group 2 2-25,text,true,,180253,120,60,90,https://www.microsoft.com/en-in,11236,0,4296
+1607097470184,51166,Microsoft Home Page,200,OK,User Group 2 2-45,text,true,,180690,240,60,90,https://www.microsoft.com/en-in,979,0,134
+1607097470184,979,Microsoft Home Page-0,301,Moved Permanently,User Group 2 2-45,,true,,439,120,60,90,http://www.microsoft.com/en-in,979,0,134
+1607097471164,50186,Microsoft Home Page-1,200,OK,User Group 2 2-45,text,true,,180251,120,60,90,https://www.microsoft.com/en-in,23942,0,3460
+1607097469797,53410,Microsoft Home Page,200,OK,User Group 1 1-15,text,true,,182571,240,30,90,https://www.microsoft.com/en-in,709,0,104
+1607097469797,709,Microsoft Home Page-0,301,Moved Permanently,User Group 1 1-15,,true,,441,120,30,90,http://www.microsoft.com/en-in,709,0,104
+1607097470507,52700,Microsoft Home Page-1,200,OK,User Group 1 1-15,text,true,,182130,120,30,90,https://www.microsoft.com/en-in,6154,0,3527
+1607097470076,53560,Microsoft Home Page,200,OK,User Group 2 2-42,text,true,,181056,240,60,90,https://www.microsoft.com/en-in,957,0,113
+1607097470076,957,Microsoft Home Page-0,301,Moved Permanently,User Group 2 2-42,,true,,441,120,60,90,http://www.microsoft.com/en-in,957,0,113
+1607097471034,52602,Microsoft Home Page-1,200,OK,User Group 2 2-42,text,true,,180615,120,60,90,https://www.microsoft.com/en-in,11594,0,3586
+1607097469831,59068,Microsoft Home Page,200,OK,User Group 1 1-16,text,true,,180700,240,30,90,https://www.microsoft.com/en-in,690,0,95
+1607097469831,690,Microsoft Home Page-0,301,Moved Permanently,User Group 1 1-16,,true,,441,120,30,90,http://www.microsoft.com/en-in,690,0,95
+1607097470522,58377,Microsoft Home Page-1,200,OK,User Group 1 1-16,text,true,,180259,120,30,90,https://www.microsoft.com/en-in,6853,0,3954
+1607097470191,61743,Microsoft Home Page,200,OK,User Group 2 2-47,text,true,,181074,240,60,90,https://www.microsoft.com/en-in,994,0,136
+1607097470191,994,Microsoft Home Page-0,301,Moved Permanently,User Group 2 2-47,,true,,441,120,60,90,http://www.microsoft.com/en-in,994,0,136
+1607097471186,60748,Microsoft Home Page-1,200,OK,User Group 2 2-47,text,true,,180633,120,60,90,https://www.microsoft.com/en-in,27931,0,3446
+1607097470212,62273,Microsoft Home Page,200,OK,User Group 2 2-50,text,true,,180875,240,60,90,https://www.microsoft.com/en-in,1084,0,128
+1607097470212,1084,Microsoft Home Page-0,301,Moved Permanently,User Group 2 2-50,,true,,441,120,60,90,http://www.microsoft.com/en-in,1084,0,128
+1607097471297,61188,Microsoft Home Page-1,200,OK,User Group 2 2-50,text,true,,180434,120,60,90,https://www.microsoft.com/en-in,5236,0,3984
+1607097498640,36086,Microsoft Windows,200,OK,User Group 1 1-24,text,true,,139126,128,30,90,http://www.microsoft.com/en-in/windows,4113,0,0
+1607097469712,66018,Microsoft Home Page,200,OK,User Group 2 2-21,text,true,,180682,240,60,90,https://www.microsoft.com/en-in,781,0,143
+1607097469712,781,Microsoft Home Page-0,301,Moved Permanently,User Group 2 2-21,,true,,441,120,60,90,http://www.microsoft.com/en-in,781,0,143
+1607097470494,65236,Microsoft Home Page-1,200,OK,User Group 2 2-21,text,true,,180241,120,60,90,https://www.microsoft.com/en-in,13731,0,3924
+1607097469693,66316,Microsoft Home Page,200,OK,User Group 2 2-20,text,true,,180694,240,60,90,https://www.microsoft.com/en-in,505,0,155
+1607097469693,505,Microsoft Home Page-0,301,Moved Permanently,User Group 2 2-20,,true,,443,120,60,90,http://www.microsoft.com/en-in,505,0,155
+1607097470199,65810,Microsoft Home Page-1,200,OK,User Group 2 2-20,text,true,,180251,120,60,90,https://www.microsoft.com/en-in,12709,0,4437
+1607097470242,66158,Microsoft Home Page,200,OK,User Group 1 1-28,text,true,,181450,240,30,90,https://www.microsoft.com/en-in,1083,0,106
+1607097470242,1083,Microsoft Home Page-0,301,Moved Permanently,User Group 1 1-28,,true,,441,120,30,90,http://www.microsoft.com/en-in,1083,0,106
+1607097471326,65074,Microsoft Home Page-1,200,OK,User Group 1 1-28,text,true,,181009,120,30,90,https://www.microsoft.com/en-in,10434,0,3955
+1607097498926,37812,Microsoft Windows,200,OK,User Group 2 2-11,text,true,,139126,128,60,90,http://www.microsoft.com/en-in/windows,2234,0,0
+1607097469896,66973,Microsoft Home Page,200,OK,User Group 1 1-18,text,true,,181064,240,30,90,https://www.microsoft.com/en-in,668,0,99
+1607097469896,668,Microsoft Home Page-0,301,Moved Permanently,User Group 1 1-18,,true,,439,120,30,90,http://www.microsoft.com/en-in,668,0,99
+1607097470565,66304,Microsoft Home Page-1,200,OK,User Group 1 1-18,text,true,,180625,120,30,90,https://www.microsoft.com/en-in,14223,0,4053
+1607097469607,67473,Microsoft Home Page,200,OK,User Group 1 1-9,text,true,,180885,240,30,90,https://www.microsoft.com/en-in,478,0,203
+1607097469607,478,Microsoft Home Page-0,301,Moved Permanently,User Group 1 1-9,,true,,441,120,30,90,http://www.microsoft.com/en-in,478,0,203
+1607097470085,66995,Microsoft Home Page-1,200,OK,User Group 1 1-9,text,true,,180444,120,30,90,https://www.microsoft.com/en-in,14949,0,4739
+1607097469994,67730,Microsoft Home Page,200,OK,User Group 1 1-21,text,true,,180951,240,30,90,https://www.microsoft.com/en-in,715,0,112
+1607097469994,715,Microsoft Home Page-0,301,Moved Permanently,User Group 1 1-21,,true,,443,120,30,90,http://www.microsoft.com/en-in,715,0,112
+1607097470710,67014,Microsoft Home Page-1,200,OK,User Group 1 1-21,text,true,,180508,120,30,90,https://www.microsoft.com/en-in,22610,0,3711
+1607097470062,69977,Microsoft Home Page,200,OK,User Group 2 2-41,text,true,,180698,240,60,90,https://www.microsoft.com/en-in,758,0,97
+1607097470062,758,Microsoft Home Page-0,301,Moved Permanently,User Group 2 2-41,,true,,441,120,60,90,http://www.microsoft.com/en-in,758,0,97
+1607097470821,69218,Microsoft Home Page-1,200,OK,User Group 2 2-41,text,true,,180257,120,60,90,https://www.microsoft.com/en-in,10533,0,3659
+1607097469678,70627,Microsoft Home Page,200,OK,User Group 1 1-11,text,true,,181432,240,30,90,https://www.microsoft.com/en-in,794,0,171
+1607097469678,794,Microsoft Home Page-0,301,Moved Permanently,User Group 1 1-11,,true,,441,120,30,90,http://www.microsoft.com/en-in,794,0,171
+1607097470473,69832,Microsoft Home Page-1,200,OK,User Group 1 1-11,text,true,,180991,120,30,90,https://www.microsoft.com/en-in,13504,0,4138
+1607097469856,70707,Microsoft Home Page,200,OK,User Group 2 2-29,text,true,,180688,240,60,90,https://www.microsoft.com/en-in,708,0,122
+1607097469856,708,Microsoft Home Page-0,301,Moved Permanently,User Group 2 2-29,,true,,441,120,60,90,http://www.microsoft.com/en-in,708,0,122
+1607097470565,69998,Microsoft Home Page-1,200,OK,User Group 2 2-29,text,true,,180247,120,60,90,https://www.microsoft.com/en-in,13684,0,4055
+1607097469506,71825,Microsoft Home Page,200,OK,User Group 1 1-3,text,true,,180686,240,30,90,https://www.microsoft.com/en-in,534,0,294
+1607097469506,534,Microsoft Home Page-0,301,Moved Permanently,User Group 1 1-3,,true,,441,120,30,90,http://www.microsoft.com/en-in,534,0,294
+1607097470042,71289,Microsoft Home Page-1,200,OK,User Group 1 1-3,text,true,,180245,120,30,90,https://www.microsoft.com/en-in,27045,0,4773
+1607097469837,75484,Microsoft Home Page,200,OK,User Group 2 2-28,text,true,,181076,240,60,90,https://www.microsoft.com/en-in,690,0,95
+1607097469837,690,Microsoft Home Page-0,301,Moved Permanently,User Group 2 2-28,,true,,441,120,60,90,http://www.microsoft.com/en-in,690,0,95
+1607097470529,74792,Microsoft Home Page-1,200,OK,User Group 2 2-28,text,true,,180635,120,60,90,https://www.microsoft.com/en-in,7089,0,4099
+1607097470092,75846,Microsoft Home Page,200,OK,User Group 2 2-43,text,true,,180875,240,60,90,https://www.microsoft.com/en-in,948,0,97
+1607097470092,948,Microsoft Home Page-0,301,Moved Permanently,User Group 2 2-43,,true,,441,120,60,90,http://www.microsoft.com/en-in,948,0,97
+1607097471041,74897,Microsoft Home Page-1,200,OK,User Group 2 2-43,text,true,,180434,120,60,90,https://www.microsoft.com/en-in,15180,0,3580
+1607097470380,78208,Microsoft Home Page,200,OK,User Group 2 2-60,text,true,,180684,240,60,90,https://www.microsoft.com/en-in,1107,0,112
+1607097470380,1107,Microsoft Home Page-0,301,Moved Permanently,User Group 2 2-60,,true,,441,120,60,90,http://www.microsoft.com/en-in,1107,0,112
+1607097471488,77100,Microsoft Home Page-1,200,OK,User Group 2 2-60,text,true,,180243,120,60,90,https://www.microsoft.com/en-in,10093,0,3733
+1607097540305,9209,Microsoft Windows,Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,User Group 1 1-11,text,false,Test failed: code expected to contain /200/,2630,0,30,90,http://www.microsoft.com/en-in/windows,0,0,4632
+1607097470109,80087,Microsoft Home Page,200,OK,User Group 2 2-44,text,true,,180692,240,60,90,https://www.microsoft.com/en-in,969,0,109
+1607097470109,969,Microsoft Home Page-0,301,Moved Permanently,User Group 2 2-44,,true,,441,120,60,90,http://www.microsoft.com/en-in,969,0,109
+1607097471079,79117,Microsoft Home Page-1,200,OK,User Group 2 2-44,text,true,,180251,120,60,90,https://www.microsoft.com/en-in,22281,0,3540
+1607097497818,54692,Microsoft Windows,200,OK,User Group 2 2-55,text,true,,139126,128,60,90,http://www.microsoft.com/en-in/windows,2211,0,0
+1607097469658,84222,Microsoft Home Page,200,OK,User Group 2 2-18,text,true,,182571,240,60,90,https://www.microsoft.com/en-in,416,0,148
+1607097469658,416,Microsoft Home Page-0,301,Moved Permanently,User Group 2 2-18,,true,,441,120,60,90,http://www.microsoft.com/en-in,416,0,148
+1607097470075,83805,Microsoft Home Page-1,200,OK,User Group 2 2-18,text,true,,182130,120,60,90,https://www.microsoft.com/en-in,12642,0,4545
+1607097499698,54355,Microsoft Windows,200,OK,User Group 2 2-23,text,true,,139126,128,60,90,http://www.microsoft.com/en-in/windows,5894,0,0
+1607097520386,35483,Microsoft Home Page,200,OK,User Group 1 1-19,text,true,,182591,240,30,90,https://www.microsoft.com/en-in,1631,0,0
+1607097520386,1631,Microsoft Home Page-0,301,Moved Permanently,User Group 1 1-19,,true,,441,120,30,90,http://www.microsoft.com/en-in,1631,0,0
+1607097522018,33851,Microsoft Home Page-1,200,OK,User Group 1 1-19,text,true,,182150,120,30,90,https://www.microsoft.com/en-in,7779,0,0
+1607097497797,58358,Microsoft Windows,200,OK,User Group 2 2-26,text,true,,139128,128,60,90,http://www.microsoft.com/en-in/windows,6226,0,0
+1607097505140,52049,Microsoft Windows,200,OK,User Group 1 1-27,text,true,,139123,128,30,90,http://www.microsoft.com/en-in/windows,2253,0,0
+1607097521279,36950,Microsoft Windows,200,OK,User Group 2 2-25,text,true,,139127,128,60,90,http://www.microsoft.com/en-in/windows,4618,0,0
+1607097469605,89128,Microsoft Home Page,200,OK,User Group 2 2-15,text,true,,181074,240,60,90,https://www.microsoft.com/en-in,337,0,188
+1607097469605,340,Microsoft Home Page-0,301,Moved Permanently,User Group 2 2-15,,true,,441,120,60,90,http://www.microsoft.com/en-in,337,0,188
+1607097469957,88776,Microsoft Home Page-1,200,OK,User Group 2 2-15,text,true,,180633,120,60,90,https://www.microsoft.com/en-in,15010,0,4864
+1607097498357,60913,Microsoft Windows,200,OK,User Group 1 1-4,text,true,,139126,128,30,90,http://www.microsoft.com/en-in/windows,4880,0,0
+1607097469524,90089,Microsoft Home Page,200,OK,User Group 2 2-10,text,true,,182565,240,60,90,https://www.microsoft.com/en-in,626,0,316
+1607097469524,626,Microsoft Home Page-0,301,Moved Permanently,User Group 2 2-10,,true,,441,120,60,90,http://www.microsoft.com/en-in,626,0,316
+1607097470151,89462,Microsoft Home Page-1,200,OK,User Group 2 2-10,text,true,,182124,120,60,90,https://www.microsoft.com/en-in,24079,0,4468
+1607097498006,61674,Microsoft Windows,200,OK,User Group 2 2-51,text,true,,139126,128,60,90,http://www.microsoft.com/en-in/windows,2175,0,0
+1607097469682,92246,Microsoft Home Page,200,OK,User Group 2 2-19,text,true,,181438,240,60,90,https://www.microsoft.com/en-in,531,0,167
+1607097469682,531,Microsoft Home Page-0,301,Moved Permanently,User Group 2 2-19,,true,,439,120,60,90,http://www.microsoft.com/en-in,531,0,167
+1607097470214,91714,Microsoft Home Page-1,200,OK,User Group 2 2-19,text,true,,180999,120,60,90,https://www.microsoft.com/en-in,14571,0,4251
+1607097470041,92135,Microsoft Home Page,200,OK,User Group 2 2-40,text,true,,181078,240,60,90,https://www.microsoft.com/en-in,690,0,107
+1607097470041,690,Microsoft Home Page-0,301,Moved Permanently,User Group 2 2-40,,true,,441,120,60,90,http://www.microsoft.com/en-in,690,0,107
+1607097470732,91444,Microsoft Home Page-1,200,OK,User Group 2 2-40,text,true,,180637,120,60,90,https://www.microsoft.com/en-in,13233,0,3692
+1607097510307,52966,Microsoft Windows,200,OK,User Group 2 2-37,text,true,,139123,128,60,90,http://www.microsoft.com/en-in/windows,7351,0,0
+1607097469766,94063,Microsoft Home Page,200,OK,User Group 1 1-14,text,true,,180686,240,30,90,https://www.microsoft.com/en-in,727,0,112
+1607097469766,727,Microsoft Home Page-0,301,Moved Permanently,User Group 1 1-14,,true,,441,120,30,90,http://www.microsoft.com/en-in,727,0,112
+1607097470494,93335,Microsoft Home Page-1,200,OK,User Group 1 1-14,text,true,,180245,120,30,90,https://www.microsoft.com/en-in,15655,0,4122
+1607097521350,43632,Microsoft Windows,200,OK,User Group 2 2-45,text,true,,139123,128,60,90,http://www.microsoft.com/en-in/windows,7208,0,0
+1607097541331,24306,Microsoft Windows,200,OK,User Group 1 1-3,text,true,,139126,128,30,90,http://www.microsoft.com/en-in/windows,3812,0,1613
+1607097499804,66001,Microsoft Windows,200,OK,User Group 2 2-34,text,true,,139123,128,60,90,http://www.microsoft.com/en-in/windows,2217,0,0
+1607097559679,6144,Microsoft Home Page,Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,User Group 2 2-51,text,false,Test failed: code expected to contain /200/,2630,0,60,90,http://www.microsoft.com/en-in,0,0,4593
+1607097532485,33404,Microsoft Windows,200,OK,User Group 2 2-50,text,true,,139126,128,60,90,http://www.microsoft.com/en-in/windows,8930,0,6622
+1607097497797,69866,Microsoft Windows,200,OK,User Group 2 2-6,text,true,,139128,128,60,90,http://www.microsoft.com/en-in/windows,5112,0,0
+1607097497440,71709,Microsoft Windows,200,OK,User Group 1 1-17,text,true,,139125,128,30,90,http://www.microsoft.com/en-in/windows,4445,0,0
+1607097469571,100845,Microsoft Home Page,200,OK,User Group 2 2-13,text,true,,180702,240,60,90,https://www.microsoft.com/en-in,512,0,244
+1607097469571,512,Microsoft Home Page-0,301,Moved Permanently,User Group 2 2-13,,true,,441,120,60,90,http://www.microsoft.com/en-in,512,0,244
+1607097470085,100331,Microsoft Home Page-1,200,OK,User Group 2 2-13,text,true,,180261,120,60,90,https://www.microsoft.com/en-in,16119,0,4734
+1607097470334,100319,Microsoft Home Page,200,OK,User Group 2 2-56,text,true,,181076,240,60,90,https://www.microsoft.com/en-in,1106,0,107
+1607097470334,1106,Microsoft Home Page-0,301,Moved Permanently,User Group 2 2-56,,true,,441,120,60,90,http://www.microsoft.com/en-in,1106,0,107
+1607097471441,99212,Microsoft Home Page-1,200,OK,User Group 2 2-56,text,true,,180635,120,60,90,https://www.microsoft.com/en-in,10315,0,3409
+1607097470185,101213,Microsoft Home Page,200,OK,User Group 1 1-25,text,true,,180702,240,30,90,https://www.microsoft.com/en-in,995,0,134
+1607097470185,995,Microsoft Home Page-0,301,Moved Permanently,User Group 1 1-25,,true,,441,120,30,90,http://www.microsoft.com/en-in,995,0,134
+1607097471181,100217,Microsoft Home Page-1,200,OK,User Group 1 1-25,text,true,,180261,120,30,90,https://www.microsoft.com/en-in,10425,0,3632
+1607097508839,63888,Microsoft Windows,200,OK,User Group 2 2-32,text,true,,139126,128,60,90,http://www.microsoft.com/en-in/windows,2223,0,0
+1607097496710,77775,Microsoft Windows,200,OK,User Group 1 1-20,text,true,,139128,128,30,90,http://www.microsoft.com/en-in/windows,3639,0,0
+1607097545938,28640,Microsoft Windows,200,OK,User Group 2 2-43,text,true,,139128,128,60,90,http://www.microsoft.com/en-in/windows,7151,0,2640
+1607097505252,69390,Microsoft Windows,200,OK,User Group 2 2-14,text,true,,139126,128,60,90,http://www.microsoft.com/en-in/windows,2128,0,0
+1607097537725,37060,Microsoft Windows,200,OK,User Group 1 1-21,text,true,,139126,128,30,90,http://www.microsoft.com/en-in/windows,6923,0,1613
+1607097565638,9371,Microsoft Home Page,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Connection reset,User Group 1 1-3,text,false,Test failed: code expected to contain /200/,5132,120,30,90,https://www.microsoft.com/en-in,1615,0,0
+1607097565638,1615,Microsoft Home Page-0,301,Moved Permanently,User Group 1 1-3,,true,,441,120,30,90,http://www.microsoft.com/en-in,1615,0,0
+1607097567254,7755,Microsoft Home Page-1,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Connection reset,User Group 1 1-3,text,false,,4691,0,30,90,https://www.microsoft.com/en-in,0,0,7755
+1607097470266,105095,Microsoft Home Page,200,OK,User Group 2 2-52,text,true,,180686,240,60,90,https://www.microsoft.com/en-in,1088,0,132
+1607097470266,1088,Microsoft Home Page-0,301,Moved Permanently,User Group 2 2-52,,true,,441,120,60,90,http://www.microsoft.com/en-in,1088,0,132
+1607097471354,104007,Microsoft Home Page-1,200,OK,User Group 2 2-52,text,true,,180245,120,60,90,https://www.microsoft.com/en-in,16003,0,3927
+1607097528899,47296,Microsoft Windows,200,OK,User Group 1 1-16,text,true,,139126,128,30,90,http://www.microsoft.com/en-in/windows,3863,0,0
+1607097523207,55133,Microsoft Windows,200,OK,User Group 1 1-15,text,true,,139126,128,30,90,http://www.microsoft.com/en-in/windows,3879,0,0
+1607097505508,73410,Microsoft Windows,200,OK,User Group 2 2-8,text,true,,139124,128,60,90,http://www.microsoft.com/en-in/windows,2838,0,0
+1607097469506,109865,Microsoft Home Page,200,OK,User Group 2 2-2,text,true,,183751,240,60,90,https://www.microsoft.com/en-in,648,0,333
+1607097469506,648,Microsoft Home Page-0,301,Moved Permanently,User Group 2 2-2,,true,,441,120,60,90,http://www.microsoft.com/en-in,648,0,333
+1607097470157,109214,Microsoft Home Page-1,200,OK,User Group 2 2-2,text,true,,183310,120,60,90,https://www.microsoft.com/en-in,17602,0,4269
+1607097553880,26425,Microsoft Windows,200,OK,User Group 2 2-18,text,true,,139126,128,60,90,http://www.microsoft.com/en-in/windows,7418,0,2606
+1607097469727,110745,Microsoft Home Page,200,OK,User Group 2 2-22,text,true,,182752,240,60,90,https://www.microsoft.com/en-in,702,0,122
+1607097469727,702,Microsoft Home Page-0,301,Moved Permanently,User Group 2 2-22,,true,,441,120,60,90,http://www.microsoft.com/en-in,702,0,122
+1607097470430,110042,Microsoft Home Page-1,200,OK,User Group 2 2-22,text,true,,182311,120,60,90,https://www.microsoft.com/en-in,15691,0,4189
+1607097470326,110323,Microsoft Home Page,200,OK,User Group 1 1-30,text,true,,180702,240,30,90,https://www.microsoft.com/en-in,1112,0,111
+1607097470326,1112,Microsoft Home Page-0,301,Moved Permanently,User Group 1 1-30,,true,,441,120,30,90,http://www.microsoft.com/en-in,1112,0,111
+1607097471439,109210,Microsoft Home Page-1,200,OK,User Group 1 1-30,text,true,,180261,120,30,90,https://www.microsoft.com/en-in,13349,0,3384
+1607097469538,111436,Microsoft Home Page,200,OK,User Group 1 1-7,text,true,,180686,240,30,90,https://www.microsoft.com/en-in,610,0,302
+1607097469538,610,Microsoft Home Page-0,301,Moved Permanently,User Group 1 1-7,,true,,441,120,30,90,http://www.microsoft.com/en-in,610,0,302
+1607097470149,110825,Microsoft Home Page-1,200,OK,User Group 1 1-7,text,true,,180245,120,30,90,https://www.microsoft.com/en-in,16223,0,5071
+1607097469508,112628,Microsoft Home Page,200,OK,User Group 2 2-7,text,true,,180684,240,60,90,https://www.microsoft.com/en-in,609,0,312
+1607097469508,609,Microsoft Home Page-0,301,Moved Permanently,User Group 2 2-7,,true,,441,120,60,90,http://www.microsoft.com/en-in,609,0,312
+1607097470118,112018,Microsoft Home Page-1,200,OK,User Group 2 2-7,text,true,,180243,120,60,90,https://www.microsoft.com/en-in,18776,0,4504
+1607097537080,46317,Microsoft Windows,200,OK,User Group 1 1-9,text,true,,139126,128,30,90,http://www.microsoft.com/en-in/windows,3902,0,1621
+1607097540563,43164,Microsoft Windows,200,OK,User Group 2 2-29,text,true,,139126,128,60,90,http://www.microsoft.com/en-in/windows,6298,0,1626
+1607097558734,25302,Microsoft Windows,200,OK,User Group 2 2-15,text,true,,139126,128,60,90,http://www.microsoft.com/en-in/windows,7519,0,2595
+1607097574643,10224,Microsoft Home Page,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Connection reset,User Group 2 2-14,text,false,Test failed: code expected to contain /200/,5132,120,60,90,https://www.microsoft.com/en-in,4237,0,2603
+1607097574643,4237,Microsoft Home Page-0,301,Moved Permanently,User Group 2 2-14,,true,,441,120,60,90,http://www.microsoft.com/en-in,4237,0,2603
+1607097578881,5986,Microsoft Home Page-1,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Connection reset,User Group 2 2-14,text,false,,4691,0,60,90,https://www.microsoft.com/en-in,0,0,5986
+1607097559270,27141,Microsoft Home Page,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,User Group 1 1-4,text,false,Test failed: code expected to contain /200/,4097,120,30,90,https://www.microsoft.com/en-in,3261,0,1608
+1607097559270,3261,Microsoft Home Page-0,301,Moved Permanently,User Group 1 1-4,,true,,441,120,30,90,http://www.microsoft.com/en-in,3261,0,1608
+1607097562530,23881,Microsoft Home Page-1,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,User Group 1 1-4,text,false,,3656,0,30,90,https://www.microsoft.com/en-in,0,0,23880
+1607097558230,28186,Microsoft Home Page,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,User Group 2 2-25,text,false,Test failed: code expected to contain /200/,4097,120,60,90,https://www.microsoft.com/en-in,3238,0,1605
+1607097558230,3238,Microsoft Home Page-0,301,Moved Permanently,User Group 2 2-25,,true,,441,120,60,90,http://www.microsoft.com/en-in,3238,0,1605
+1607097561467,24949,Microsoft Home Page-1,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,User Group 2 2-25,text,false,,3656,0,60,90,https://www.microsoft.com/en-in,0,0,24949
+1607097561929,25146,Microsoft Windows,200,OK,User Group 2 2-19,text,true,,139126,128,60,90,http://www.microsoft.com/en-in/windows,8870,0,2596
+1607097510574,77831,Microsoft Windows,200,OK,User Group 2 2-4,text,true,,139126,128,60,90,http://www.microsoft.com/en-in/windows,3333,0,0
+1607097470346,119751,Microsoft Home Page,200,OK,User Group 2 2-57,text,true,,182569,240,60,90,https://www.microsoft.com/en-in,1121,0,109
+1607097470346,1121,Microsoft Home Page-0,301,Moved Permanently,User Group 2 2-57,,true,,441,120,60,90,http://www.microsoft.com/en-in,1121,0,109
+1607097471468,118629,Microsoft Home Page-1,200,OK,User Group 2 2-57,text,true,,182128,120,60,90,https://www.microsoft.com/en-in,102305,0,3753
+1607097497886,92636,Microsoft Windows,200,OK,User Group 1 1-1,text,true,,139128,128,30,90,http://www.microsoft.com/en-in/windows,3639,0,0
+1607097549518,42125,Microsoft Home Page,200,OK,User Group 1 1-11,text,true,,180871,240,30,90,https://www.microsoft.com/en-in,4290,0,1618
+1607097549518,4290,Microsoft Home Page-0,301,Moved Permanently,User Group 1 1-11,,true,,439,120,30,90,http://www.microsoft.com/en-in,4290,0,1618
+1607097553808,37835,Microsoft Home Page-1,200,OK,User Group 1 1-11,text,true,,180432,120,30,90,https://www.microsoft.com/en-in,19622,0,11151
+1607097570422,21392,Microsoft Windows,200,OK,User Group 2 2-13,text,true,,139126,128,60,90,http://www.microsoft.com/en-in/windows,4818,0,2626
+1607097552510,39325,Microsoft Home Page,200,OK,User Group 2 2-55,text,true,,180873,240,60,90,https://www.microsoft.com/en-in,6446,0,3653
+1607097552510,6446,Microsoft Home Page-0,301,Moved Permanently,User Group 2 2-55,,true,,441,120,60,90,http://www.microsoft.com/en-in,6446,0,3653
+1607097558957,32878,Microsoft Home Page-1,200,OK,User Group 2 2-55,text,true,,180432,120,60,90,https://www.microsoft.com/en-in,17429,0,8806
+1607097487759,104287,Microsoft Windows,200,OK,User Group 2 2-3,text,true,,139126,128,60,90,http://www.microsoft.com/en-in/windows,3418,0,0
+1607097469700,122498,Microsoft Home Page,200,OK,User Group 1 1-12,text,true,,180680,240,30,90,https://www.microsoft.com/en-in,795,0,155
+1607097469700,795,Microsoft Home Page-0,301,Moved Permanently,User Group 1 1-12,,true,,441,120,30,90,http://www.microsoft.com/en-in,795,0,155
+1607097470496,121702,Microsoft Home Page-1,200,OK,User Group 1 1-12,text,true,,180239,120,30,90,https://www.microsoft.com/en-in,40471,0,4123
+1607097536869,55392,Microsoft Windows,200,OK,User Group 1 1-18,text,true,,139128,128,30,90,http://www.microsoft.com/en-in/windows,10381,0,2623
+1607097575361,17257,Microsoft Windows,200,OK,User Group 2 2-52,text,true,,139126,128,60,90,http://www.microsoft.com/en-in/windows,4503,0,2428
+1607097570652,21982,Microsoft Windows,200,OK,User Group 2 2-56,text,true,,139128,128,60,90,http://www.microsoft.com/en-in/windows,6472,0,2614
+1607097579371,13336,Microsoft Windows,200,OK,User Group 2 2-2,text,true,,139126,128,60,90,http://www.microsoft.com/en-in/windows,3620,0,1606
+1607097469511,123345,Microsoft Home Page,200,OK,User Group 2 2-5,text,true,,183755,240,60,90,https://www.microsoft.com/en-in,633,0,328
+1607097469511,633,Microsoft Home Page-0,301,Moved Permanently,User Group 2 2-5,,true,,439,120,60,90,http://www.microsoft.com/en-in,633,0,328
+1607097470145,122711,Microsoft Home Page-1,200,OK,User Group 2 2-5,text,true,,183316,120,60,90,https://www.microsoft.com/en-in,6602,0,5287
+1607097580649,12313,Microsoft Windows,200,OK,User Group 1 1-30,text,true,,139126,128,30,90,http://www.microsoft.com/en-in/windows,3432,0,1678
+1607097563274,29721,Microsoft Home Page,200,OK,User Group 2 2-37,text,true,,180873,240,60,90,https://www.microsoft.com/en-in,4205,0,2574
+1607097563274,4205,Microsoft Home Page-0,301,Moved Permanently,User Group 2 2-37,,true,,439,120,60,90,http://www.microsoft.com/en-in,4205,0,2574
+1607097567479,25516,Microsoft Home Page-1,200,OK,User Group 2 2-37,text,true,,180434,120,60,90,https://www.microsoft.com/en-in,15454,0,8867
+1607097469505,123602,Microsoft Home Page,200,OK,User Group 2 2-1,text,true,,182567,240,60,90,https://www.microsoft.com/en-in,590,0,309
+1607097469505,590,Microsoft Home Page-0,301,Moved Permanently,User Group 2 2-1,,true,,441,120,60,90,http://www.microsoft.com/en-in,590,0,309
+1607097470097,123010,Microsoft Home Page-1,200,OK,User Group 2 2-1,text,true,,182126,120,60,90,https://www.microsoft.com/en-in,11729,0,5201
+1607097571398,21765,Microsoft Windows,200,OK,User Group 1 1-25,text,true,,139126,128,30,90,http://www.microsoft.com/en-in/windows,5693,0,2559
+1607097508808,84378,Microsoft Windows,200,OK,User Group 1 1-2,text,true,,139126,128,30,90,http://www.microsoft.com/en-in/windows,2411,0,0
+1607097563830,29545,Microsoft Windows,200,OK,User Group 1 1-14,text,true,,139126,128,30,90,http://www.microsoft.com/en-in/windows,6901,0,1588
+1607097470276,123127,Microsoft Home Page,200,OK,User Group 2 2-53,text,true,,180756,240,60,90,https://www.microsoft.com/en-in,1078,0,122
+1607097470276,1078,Microsoft Home Page-0,301,Moved Permanently,User Group 2 2-53,,true,,441,120,60,90,http://www.microsoft.com/en-in,1078,0,122
+1607097471355,122048,Microsoft Home Page-1,200,OK,User Group 2 2-53,text,true,,180315,120,60,90,https://www.microsoft.com/en-in,11431,0,3952
+1607097580473,12996,Microsoft Windows,200,OK,User Group 2 2-22,text,true,,139126,128,60,90,http://www.microsoft.com/en-in/windows,3371,0,1604
+1607097565826,27758,Microsoft Windows,200,OK,User Group 2 2-51,text,true,,139126,128,60,90,http://www.microsoft.com/en-in/windows,8763,0,2582
+1607097469571,124078,Microsoft Home Page,200,OK,User Group 1 1-8,text,true,,180680,240,30,89,https://www.microsoft.com/en-in,597,0,269
+1607097469571,597,Microsoft Home Page-0,301,Moved Permanently,User Group 1 1-8,,true,,441,120,30,89,http://www.microsoft.com/en-in,597,0,269
+1607097470169,123480,Microsoft Home Page-1,200,OK,User Group 1 1-8,text,true,,180239,120,30,89,https://www.microsoft.com/en-in,16187,0,4442
+1607097470362,123365,Microsoft Home Page,200,OK,User Group 2 2-58,text,true,,180684,240,59,89,https://www.microsoft.com/en-in,1105,0,95
+1607097470362,1105,Microsoft Home Page-0,301,Moved Permanently,User Group 2 2-58,,true,,441,120,59,89,http://www.microsoft.com/en-in,1105,0,95
+1607097471468,122259,Microsoft Home Page-1,200,OK,User Group 2 2-58,text,true,,180243,120,59,89,https://www.microsoft.com/en-in,10280,0,3378
+1607097564983,28785,Microsoft Home Page,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: www.microsoft.com:443 failed to respond,User Group 2 2-45,text,false,Test failed: code expected to contain /200/,3035,120,59,89,https://www.microsoft.com/en-in,4284,0,1601
+1607097564983,4284,Microsoft Home Page-0,301,Moved Permanently,User Group 2 2-45,,true,,441,120,59,89,http://www.microsoft.com/en-in,4284,0,1601
+1607097569268,24500,Microsoft Home Page-1,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: www.microsoft.com:443 failed to respond,User Group 2 2-45,text,false,,2594,0,59,89,https://www.microsoft.com/en-in,0,0,24499
+1607097469886,123937,Microsoft Home Page,200,OK,User Group 2 2-31,text,true,,180700,240,59,89,https://www.microsoft.com/en-in,678,0,109
+1607097469886,678,Microsoft Home Page-0,301,Moved Permanently,User Group 2 2-31,,true,,441,120,59,89,http://www.microsoft.com/en-in,678,0,109
+1607097470566,123257,Microsoft Home Page-1,200,OK,User Group 2 2-31,text,true,,180259,120,59,89,https://www.microsoft.com/en-in,36165,0,4045
+1607097565806,28270,Microsoft Home Page,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,User Group 2 2-34,text,false,Test failed: code expected to contain /200/,4097,120,59,89,https://www.microsoft.com/en-in,4223,0,1610
+1607097565806,4223,Microsoft Home Page-0,301,Moved Permanently,User Group 2 2-34,,true,,441,120,59,89,http://www.microsoft.com/en-in,4223,0,1610
+1607097570029,24047,Microsoft Home Page-1,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,User Group 2 2-34,text,false,,3656,0,59,89,https://www.microsoft.com/en-in,0,0,24047
+1607097565890,28485,Microsoft Home Page,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: www.microsoft.com:443 failed to respond,User Group 2 2-50,text,false,Test failed: code expected to contain /200/,3035,120,59,89,https://www.microsoft.com/en-in,5085,0,0
+1607097565890,5085,Microsoft Home Page-0,301,Moved Permanently,User Group 2 2-50,,true,,441,120,59,89,http://www.microsoft.com/en-in,5085,0,0
+1607097570976,23399,Microsoft Home Page-1,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: www.microsoft.com:443 failed to respond,User Group 2 2-50,text,false,,2594,0,59,89,https://www.microsoft.com/en-in,0,0,23397
+1607097469822,125667,Microsoft Home Page,200,OK,User Group 2 2-27,text,true,,180652,240,59,89,https://www.microsoft.com/en-in,729,0,112
+1607097469822,729,Microsoft Home Page-0,301,Moved Permanently,User Group 2 2-27,,true,,441,120,59,89,http://www.microsoft.com/en-in,729,0,112
+1607097470552,124937,Microsoft Home Page-1,200,OK,User Group 2 2-27,text,true,,180211,120,59,89,https://www.microsoft.com/en-in,11059,0,4264
+1607097575010,21796,Microsoft Windows,200,OK,User Group 1 1-3,text,true,,139128,128,30,89,http://www.microsoft.com/en-in/windows,3838,0,0
+1607097569149,27775,Microsoft Home Page,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,User Group 1 1-17,text,false,Test failed: code expected to contain /200/,4097,120,29,88,https://www.microsoft.com/en-in,3228,0,1594
+1607097569149,3228,Microsoft Home Page-0,301,Moved Permanently,User Group 1 1-17,,true,,441,120,29,88,http://www.microsoft.com/en-in,3228,0,1594
+1607097572378,24546,Microsoft Home Page-1,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,User Group 1 1-17,text,false,,3656,0,29,88,https://www.microsoft.com/en-in,0,0,24546
+1607097469630,128119,Microsoft Home Page,200,OK,User Group 2 2-16,text,true,,180877,240,59,88,https://www.microsoft.com/en-in,593,0,219
+1607097469630,593,Microsoft Home Page-0,301,Moved Permanently,User Group 2 2-16,,true,,441,120,59,88,http://www.microsoft.com/en-in,593,0,219
+1607097470224,127525,Microsoft Home Page-1,200,OK,User Group 2 2-16,text,true,,180436,120,59,88,https://www.microsoft.com/en-in,11368,0,4390
+1607097500167,97861,Microsoft Windows,200,OK,User Group 2 2-33,text,true,,139126,128,59,88,http://www.microsoft.com/en-in/windows,3787,0,0
+1607097591834,6577,Microsoft Windows,200,OK,User Group 2 2-55,text,true,,139126,128,59,88,http://www.microsoft.com/en-in/windows,1662,0,0
+1607097591644,6865,Microsoft Windows,200,OK,User Group 1 1-11,text,true,,139126,128,29,87,http://www.microsoft.com/en-in/windows,1758,0,0
+1607097470197,128532,Microsoft Home Page,200,OK,User Group 1 1-26,text,true,,180696,240,28,86,https://www.microsoft.com/en-in,992,0,132
+1607097470197,992,Microsoft Home Page-0,301,Moved Permanently,User Group 1 1-26,,true,,441,120,28,86,http://www.microsoft.com/en-in,992,0,132
+1607097471190,127539,Microsoft Home Page-1,200,OK,User Group 1 1-26,text,true,,180255,120,28,86,https://www.microsoft.com/en-in,11661,0,3623
+1607097586416,12476,Microsoft Windows,200,OK,User Group 2 2-25,text,true,,139128,128,58,86,http://www.microsoft.com/en-in/windows,5082,0,0
+1607097567662,34296,Microsoft Home Page,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,User Group 2 2-6,text,false,Test failed: code expected to contain /200/,4097,120,57,85,https://www.microsoft.com/en-in,5190,0,3535
+1607097567662,5190,Microsoft Home Page-0,301,Moved Permanently,User Group 2 2-6,,true,,441,120,57,85,http://www.microsoft.com/en-in,5190,0,3535
+1607097572852,29106,Microsoft Home Page-1,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,User Group 2 2-6,text,false,,3656,0,57,85,https://www.microsoft.com/en-in,0,0,29106
+1607097592198,10301,Microsoft Windows,200,OK,User Group 1 1-12,text,true,,139126,128,28,85,http://www.microsoft.com/en-in/windows,2526,0,1074
+1607097576195,26372,Microsoft Home Page,200,OK,User Group 1 1-16,text,true,,182633,240,28,85,https://www.microsoft.com/en-in,3110,0,1567
+1607097576195,3110,Microsoft Home Page-0,301,Moved Permanently,User Group 1 1-16,,true,,441,120,28,85,http://www.microsoft.com/en-in,3110,0,1567
+1607097579305,23262,Microsoft Home Page-1,200,OK,User Group 1 1-16,text,true,,182192,120,28,85,https://www.microsoft.com/en-in,12651,0,7278
+1607097592995,9741,Microsoft Windows,200,OK,User Group 2 2-37,text,true,,139126,128,57,85,http://www.microsoft.com/en-in/windows,1332,0,0
+1607097590097,12688,Microsoft Windows,200,OK,User Group 2 2-57,text,true,,139126,128,56,84,http://www.microsoft.com/en-in/windows,3219,0,1545
+1607097536009,66931,Microsoft Windows,200,OK,User Group 2 2-20,text,true,,139128,128,56,84,http://www.microsoft.com/en-in/windows,9499,0,2157
+1607097531934,71678,Microsoft Windows,200,OK,User Group 2 2-47,text,true,,139126,128,56,84,http://www.microsoft.com/en-in/windows,8453,0,6232
+1607097578341,26064,Microsoft Home Page,200,OK,User Group 1 1-15,text,true,,182637,240,28,84,https://www.microsoft.com/en-in,3203,0,1576
+1607097578341,3203,Microsoft Home Page-0,301,Moved Permanently,User Group 1 1-15,,true,,441,120,28,84,http://www.microsoft.com/en-in,3203,0,1576
+1607097581545,22860,Microsoft Home Page-1,200,OK,User Group 1 1-15,text,true,,182196,120,28,84,https://www.microsoft.com/en-in,11904,0,10428
+1607097554053,51909,Microsoft Home Page,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,User Group 2 2-23,text,false,Test failed: code expected to contain /200/,4097,120,56,84,https://www.microsoft.com/en-in,4217,0,2612
+1607097554053,4217,Microsoft Home Page-0,301,Moved Permanently,User Group 2 2-23,,true,,441,120,56,84,http://www.microsoft.com/en-in,4217,0,2612
+1607097558271,47691,Microsoft Home Page-1,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,User Group 2 2-23,text,false,,3656,0,56,84,https://www.microsoft.com/en-in,0,0,47690
+1607097593726,12402,Microsoft Windows,200,OK,User Group 2 2-58,text,true,,139126,128,56,84,http://www.microsoft.com/en-in/windows,3010,0,808
+1607097580974,25676,Microsoft Windows,200,OK,User Group 1 1-7,text,true,,139126,128,28,84,http://www.microsoft.com/en-in/windows,7316,0,1617
+1607097592855,13991,Microsoft Windows,200,OK,User Group 2 2-5,text,true,,139126,128,56,84,http://www.microsoft.com/en-in/windows,2840,0,881
+1607097498610,108245,Microsoft Windows,200,OK,User Group 2 2-30,text,true,,139127,128,56,84,http://www.microsoft.com/en-in/windows,3255,0,0
+1607097596928,9979,Microsoft Windows,200,OK,User Group 1 1-17,text,true,,139126,128,28,84,http://www.microsoft.com/en-in/windows,2114,0,0
+1607097594375,12735,Microsoft Windows,200,OK,User Group 2 2-50,text,true,,139126,128,56,83,http://www.microsoft.com/en-in/windows,4562,0,2542
+1607097594078,13178,Microsoft Windows,200,OK,User Group 2 2-34,text,true,,139126,128,55,82,http://www.microsoft.com/en-in/windows,4563,0,0
+1607097534727,72556,Microsoft Home Page,200,OK,User Group 1 1-24,text,true,,180867,240,27,81,https://www.microsoft.com/en-in,52862,0,4439
+1607097534727,52862,Microsoft Home Page-0,301,Moved Permanently,User Group 1 1-24,,true,,441,120,27,81,http://www.microsoft.com/en-in,52862,0,4439
+1607097587588,19695,Microsoft Home Page-1,200,OK,User Group 1 1-24,text,true,,180426,120,27,81,https://www.microsoft.com/en-in,7214,0,5996
+1607097470366,136925,Microsoft Home Page,200,OK,User Group 2 2-59,text,true,,180688,240,54,81,https://www.microsoft.com/en-in,1082,0,89
+1607097470366,1082,Microsoft Home Page-0,301,Moved Permanently,User Group 2 2-59,,true,,441,120,54,81,http://www.microsoft.com/en-in,1082,0,89
+1607097471451,135840,Microsoft Home Page-1,200,OK,User Group 2 2-59,text,true,,180247,120,54,81,https://www.microsoft.com/en-in,33410,0,3769
+1607097584870,22491,Microsoft Windows,200,OK,User Group 2 2-14,text,true,,139128,128,54,81,http://www.microsoft.com/en-in/windows,4598,0,0
+1607097470187,137216,Microsoft Home Page,200,OK,User Group 2 2-46,text,true,,181438,240,53,80,https://www.microsoft.com/en-in,992,0,132
+1607097470187,992,Microsoft Home Page-0,301,Moved Permanently,User Group 2 2-46,,true,,441,120,53,80,http://www.microsoft.com/en-in,992,0,132
+1607097471179,136224,Microsoft Home Page-1,200,OK,User Group 2 2-46,text,true,,180997,120,53,80,https://www.microsoft.com/en-in,15051,0,3642
+1607097593769,14066,Microsoft Windows,200,OK,User Group 2 2-45,text,true,,139128,128,53,80,http://www.microsoft.com/en-in/windows,4764,0,0
+1607097470026,137810,Microsoft Home Page,200,OK,User Group 2 2-39,text,true,,180692,240,53,80,https://www.microsoft.com/en-in,699,0,102
+1607097470026,699,Microsoft Home Page-0,301,Moved Permanently,User Group 2 2-39,,true,,441,120,53,80,http://www.microsoft.com/en-in,699,0,102
+1607097470726,137110,Microsoft Home Page-1,200,OK,User Group 2 2-39,text,true,,180251,120,53,80,https://www.microsoft.com/en-in,12112,0,3694
+1607097505924,102355,Microsoft Windows,200,OK,User Group 1 1-13,text,true,,139128,128,27,79,http://www.microsoft.com/en-in/windows,4623,0,0
+1607097535731,72813,Microsoft Windows,200,OK,User Group 2 2-21,text,true,,139127,128,52,79,http://www.microsoft.com/en-in/windows,9568,0,2423
+1607097588405,20177,Microsoft Home Page,200,OK,User Group 2 2-4,text,true,,180871,240,52,79,https://www.microsoft.com/en-in,3176,0,1598
+1607097588405,3176,Microsoft Home Page-0,301,Moved Permanently,User Group 2 2-4,,true,,439,120,52,79,http://www.microsoft.com/en-in,3176,0,1598
+1607097591583,16999,Microsoft Home Page-1,200,OK,User Group 2 2-4,text,true,,180432,120,52,79,https://www.microsoft.com/en-in,10234,0,6478
+1607097583397,25200,Microsoft Home Page,200,OK,User Group 1 1-9,text,true,,182565,240,27,79,https://www.microsoft.com/en-in,5179,0,0
+1607097583397,5179,Microsoft Home Page-0,301,Moved Permanently,User Group 1 1-9,,true,,441,120,27,79,http://www.microsoft.com/en-in,5179,0,0
+1607097588575,20022,Microsoft Home Page-1,200,OK,User Group 1 1-9,text,true,,182124,120,27,79,https://www.microsoft.com/en-in,9349,0,5579
+1607097586411,22314,Microsoft Windows,200,OK,User Group 1 1-4,text,true,,139126,128,27,79,http://www.microsoft.com/en-in/windows,5990,0,0
+1607097593106,15762,Microsoft Windows,200,OK,User Group 2 2-1,text,true,,139126,128,52,78,http://www.microsoft.com/en-in/windows,2442,0,763
+1607097562177,46702,Microsoft Windows,200,OK,User Group 2 2-40,text,true,,139126,128,52,78,http://www.microsoft.com/en-in/windows,3852,0,1622
+1607097602567,6410,Microsoft Windows,200,OK,User Group 1 1-16,text,true,,139126,128,26,78,http://www.microsoft.com/en-in/windows,2057,0,0
+1607097470202,139272,Microsoft Home Page,200,OK,User Group 2 2-49,text,true,,183695,240,52,77,https://www.microsoft.com/en-in,985,0,124
+1607097470202,985,Microsoft Home Page-0,301,Moved Permanently,User Group 2 2-49,,true,,441,120,52,77,http://www.microsoft.com/en-in,985,0,124
+1607097471188,138286,Microsoft Home Page-1,200,OK,User Group 2 2-49,text,true,,183254,120,52,77,https://www.microsoft.com/en-in,10413,0,3436
+1607097550196,61552,Microsoft Windows,200,OK,User Group 2 2-44,text,true,,139126,128,52,77,http://www.microsoft.com/en-in/windows,13178,0,2632
+1607097593826,17999,Microsoft Windows,200,OK,User Group 2 2-31,text,true,,139126,128,52,77,http://www.microsoft.com/en-in/windows,3044,0,942
+1607097590522,22425,Microsoft Home Page,200,OK,User Group 1 1-1,text,true,,182569,240,25,77,https://www.microsoft.com/en-in,2664,0,1550
+1607097590522,2664,Microsoft Home Page-0,301,Moved Permanently,User Group 1 1-1,,true,,443,120,25,77,http://www.microsoft.com/en-in,2664,0,1550
+1607097593186,19761,Microsoft Home Page-1,200,OK,User Group 1 1-1,text,true,,182126,120,25,77,https://www.microsoft.com/en-in,8760,0,4976
+1607097557191,55868,Microsoft Home Page,200,OK,User Group 1 1-27,text,true,,180935,240,25,77,https://www.microsoft.com/en-in,5270,0,3652
+1607097557191,5270,Microsoft Home Page-0,301,Moved Permanently,User Group 1 1-27,,true,,441,120,25,77,http://www.microsoft.com/en-in,5270,0,3652
+1607097562460,50599,Microsoft Home Page-1,200,OK,User Group 1 1-27,text,true,,180494,120,25,77,https://www.microsoft.com/en-in,22065,0,16731
+1607097604405,8920,Microsoft Windows,200,OK,User Group 1 1-15,text,true,,139126,128,25,77,http://www.microsoft.com/en-in/windows,2082,0,0
+1607097559613,53783,Microsoft Windows,200,OK,User Group 2 2-10,text,true,,139128,128,52,76,http://www.microsoft.com/en-in/windows,5270,0,1583
+1607097580305,33571,Microsoft Home Page,200,OK,User Group 2 2-18,text,true,,182639,240,52,76,https://www.microsoft.com/en-in,1627,0,0
+1607097580305,1627,Microsoft Home Page-0,301,Moved Permanently,User Group 2 2-18,,true,,441,120,52,76,http://www.microsoft.com/en-in,1627,0,0
+1607097581932,31944,Microsoft Home Page-1,200,OK,User Group 2 2-18,text,true,,182198,120,52,76,https://www.microsoft.com/en-in,20363,0,16819
+1607097597750,16235,Microsoft Windows,200,OK,User Group 2 2-16,text,true,,139126,128,52,76,http://www.microsoft.com/en-in/windows,5222,0,2625
+1607097593403,20587,Microsoft Windows,200,OK,User Group 2 2-53,text,true,,139126,128,52,76,http://www.microsoft.com/en-in/windows,6143,0,779
+1607097606650,7743,Microsoft Home Page,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Connection reset,User Group 1 1-7,text,false,Test failed: code expected to contain /200/,5132,120,24,76,https://www.microsoft.com/en-in,1603,0,0
+1607097606650,1603,Microsoft Home Page-0,301,Moved Permanently,User Group 1 1-7,,true,,441,120,24,76,http://www.microsoft.com/en-in,1603,0,0
+1607097608253,6140,Microsoft Home Page-1,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Connection reset,User Group 1 1-7,text,false,,4691,0,24,76,https://www.microsoft.com/en-in,0,0,6140
+1607097572728,42301,Microsoft Home Page,200,OK,User Group 2 2-32,text,true,,180827,240,52,76,https://www.microsoft.com/en-in,4125,0,2497
+1607097572728,4125,Microsoft Home Page-0,301,Moved Permanently,User Group 2 2-32,,true,,441,120,52,76,http://www.microsoft.com/en-in,4125,0,2497
+1607097576853,38176,Microsoft Home Page-1,200,OK,User Group 2 2-32,text,true,,180386,120,52,76,https://www.microsoft.com/en-in,15772,0,9238
+1607097470274,145346,Microsoft Home Page,200,OK,User Group 1 1-29,text,true,,180873,240,24,76,https://www.microsoft.com/en-in,1089,0,132
+1607097470274,1089,Microsoft Home Page-0,301,Moved Permanently,User Group 1 1-29,,true,,441,120,24,76,http://www.microsoft.com/en-in,1089,0,132
+1607097471364,144256,Microsoft Home Page-1,200,OK,User Group 1 1-29,text,true,,180432,120,24,76,https://www.microsoft.com/en-in,5165,0,4066
+1607097592635,23490,Microsoft Home Page,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: www.microsoft.com:443 failed to respond,User Group 2 2-56,text,false,Test failed: code expected to contain /200/,3035,120,52,76,https://www.microsoft.com/en-in,997,0,0
+1607097592635,997,Microsoft Home Page-0,301,Moved Permanently,User Group 2 2-56,,true,,441,120,52,76,http://www.microsoft.com/en-in,997,0,0
+1607097593632,22493,Microsoft Home Page-1,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: www.microsoft.com:443 failed to respond,User Group 2 2-56,text,false,,2594,0,52,76,https://www.microsoft.com/en-in,0,0,21297
+1607097587075,30770,Microsoft Home Page,200,OK,User Group 2 2-19,text,true,,180869,240,52,76,https://www.microsoft.com/en-in,5015,0,0
+1607097587075,5015,Microsoft Home Page-0,301,Moved Permanently,User Group 2 2-19,,true,,441,120,52,76,http://www.microsoft.com/en-in,5015,0,0
+1607097592091,25754,Microsoft Home Page-1,200,OK,User Group 2 2-19,text,true,,180428,120,52,76,https://www.microsoft.com/en-in,6291,0,4584
+1607097584036,33813,Microsoft Home Page,200,OK,User Group 2 2-15,text,true,,180875,240,52,76,https://www.microsoft.com/en-in,8397,0,0
+1607097584036,8397,Microsoft Home Page-0,301,Moved Permanently,User Group 2 2-15,,true,,441,120,52,76,http://www.microsoft.com/en-in,8397,0,0
+1607097592434,25415,Microsoft Home Page-1,200,OK,User Group 2 2-15,text,true,,180434,120,52,76,https://www.microsoft.com/en-in,6772,0,4874
+1607097591814,26255,Microsoft Home Page,200,OK,User Group 2 2-13,text,true,,182569,240,52,76,https://www.microsoft.com/en-in,1141,0,0
+1607097591814,1141,Microsoft Home Page-0,301,Moved Permanently,User Group 2 2-13,,true,,441,120,52,76,http://www.microsoft.com/en-in,1141,0,0
+1607097592956,25113,Microsoft Home Page-1,200,OK,User Group 2 2-13,text,true,,182128,120,52,76,https://www.microsoft.com/en-in,11929,0,6755
+1607097469650,148476,Microsoft Home Page,200,OK,User Group 2 2-17,text,true,,183693,240,52,76,https://www.microsoft.com/en-in,350,0,143
+1607097469650,350,Microsoft Home Page-0,301,Moved Permanently,User Group 2 2-17,,true,,441,120,52,76,http://www.microsoft.com/en-in,350,0,143
+1607097470001,148125,Microsoft Home Page-1,200,OK,User Group 2 2-17,text,true,,183252,120,52,76,https://www.microsoft.com/en-in,14921,0,4816
+1607097593186,26324,Microsoft Home Page,200,OK,User Group 1 1-2,text,true,,180871,240,24,76,https://www.microsoft.com/en-in,1862,0,829
+1607097593186,1862,Microsoft Home Page-0,301,Moved Permanently,User Group 1 1-2,,true,,441,120,24,76,http://www.microsoft.com/en-in,1862,0,829
+1607097595049,24461,Microsoft Home Page-1,200,OK,User Group 1 1-2,text,true,,180430,120,24,76,https://www.microsoft.com/en-in,12653,0,11039
+1607097583728,35952,Microsoft Home Page,200,OK,User Group 2 2-29,text,true,,180885,240,52,76,https://www.microsoft.com/en-in,4816,0,0
+1607097583728,4816,Microsoft Home Page-0,301,Moved Permanently,User Group 2 2-29,,true,,441,120,52,76,http://www.microsoft.com/en-in,4816,0,0
+1607097588543,31137,Microsoft Home Page-1,200,OK,User Group 2 2-29,text,true,,180444,120,52,76,https://www.microsoft.com/en-in,10642,0,5611
+1607097470061,151106,Microsoft Home Page,200,OK,User Group 1 1-23,text,true,,180881,240,24,76,https://www.microsoft.com/en-in,757,0,94
+1607097470061,757,Microsoft Home Page-0,301,Moved Permanently,User Group 1 1-23,,true,,441,120,24,76,http://www.microsoft.com/en-in,757,0,94
+1607097470819,150348,Microsoft Home Page-1,200,OK,User Group 1 1-23,text,true,,180440,120,24,76,https://www.microsoft.com/en-in,48906,0,3657
+1607097592047,30402,Microsoft Home Page,200,OK,User Group 2 2-3,text,true,,180754,240,52,76,https://www.microsoft.com/en-in,1944,0,1112
+1607097592047,1944,Microsoft Home Page-0,301,Moved Permanently,User Group 2 2-3,,true,,441,120,52,76,http://www.microsoft.com/en-in,1944,0,1112
+1607097593991,28458,Microsoft Home Page-1,200,OK,User Group 2 2-3,text,true,,180313,120,52,76,https://www.microsoft.com/en-in,14278,0,12243
+1607097593163,30432,Microsoft Home Page,200,OK,User Group 1 1-25,text,true,,180688,240,24,76,https://www.microsoft.com/en-in,828,0,0
+1607097593163,828,Microsoft Home Page-0,301,Moved Permanently,User Group 1 1-25,,true,,441,120,24,76,http://www.microsoft.com/en-in,828,0,0
+1607097593991,29604,Microsoft Home Page-1,200,OK,User Group 1 1-25,text,true,,180247,120,24,76,https://www.microsoft.com/en-in,13756,0,12137
+1607097469764,154792,Microsoft Home Page,200,OK,User Group 2 2-24,text,true,,180688,240,52,76,https://www.microsoft.com/en-in,735,0,120
+1607097469764,735,Microsoft Home Page-0,301,Moved Permanently,User Group 2 2-24,,true,,441,120,52,76,http://www.microsoft.com/en-in,735,0,120
+1607097470500,154056,Microsoft Home Page-1,200,OK,User Group 2 2-24,text,true,,180247,120,52,76,https://www.microsoft.com/en-in,21195,0,3975
+1607097613876,12411,Microsoft Windows,200,OK,User Group 2 2-18,text,true,,139126,128,52,76,http://www.microsoft.com/en-in/windows,2188,0,0
+1607097609475,17244,Microsoft Windows,200,OK,User Group 2 2-49,text,true,,139126,128,51,75,http://www.microsoft.com/en-in/windows,4732,0,2597
+1607097617845,9148,Microsoft Windows,200,OK,User Group 2 2-19,text,true,,139126,128,51,75,http://www.microsoft.com/en-in/windows,2194,0,0
+1607097592708,34496,Microsoft Home Page,200,OK,User Group 2 2-2,text,true,,180684,240,50,74,https://www.microsoft.com/en-in,978,0,0
+1607097592708,978,Microsoft Home Page-0,301,Moved Permanently,User Group 2 2-2,,true,,441,120,50,74,http://www.microsoft.com/en-in,978,0,0
+1607097593687,33517,Microsoft Home Page-1,200,OK,User Group 2 2-2,text,true,,180243,120,50,74,https://www.microsoft.com/en-in,13646,0,10354
+1607097582135,45787,Microsoft Windows,200,OK,User Group 2 2-7,text,true,,139128,128,50,74,http://www.microsoft.com/en-in/windows,11632,0,1262
+1607097602786,25495,Microsoft Home Page,200,OK,User Group 2 2-57,text,true,,180704,240,50,74,https://www.microsoft.com/en-in,1567,0,0
+1607097602786,1567,Microsoft Home Page-0,301,Moved Permanently,User Group 2 2-57,,true,,441,120,50,74,http://www.microsoft.com/en-in,1567,0,0
+1607097604353,23928,Microsoft Home Page-1,200,OK,User Group 2 2-57,text,true,,180263,120,50,74,https://www.microsoft.com/en-in,7688,0,5889
+1607097523636,105055,Microsoft Windows,200,OK,User Group 2 2-42,text,true,,139126,128,50,74,http://www.microsoft.com/en-in/windows,21842,0,0
+1607097540040,88826,Microsoft Windows,200,OK,User Group 2 2-41,text,true,,139126,128,50,74,http://www.microsoft.com/en-in/windows,4871,0,2634
+1607097607290,21615,Microsoft Windows,200,OK,User Group 2 2-59,text,true,,139126,128,50,74,http://www.microsoft.com/en-in/windows,4288,0,2164
+1607097616126,12913,Microsoft Windows,200,OK,User Group 2 2-56,text,true,,139126,128,50,74,http://www.microsoft.com/en-in/windows,3883,0,0
+1607097608598,23045,Microsoft Windows,200,OK,User Group 1 1-9,text,true,,139127,128,24,73,http://www.microsoft.com/en-in/windows,4514,0,1606
+1607097607285,24390,Microsoft Windows,200,OK,User Group 1 1-24,text,true,,139126,128,24,73,http://www.microsoft.com/en-in/windows,4333,0,2173
+1607097598730,33022,Microsoft Windows,200,OK,User Group 1 1-26,text,true,,139126,128,23,72,http://www.microsoft.com/en-in/windows,5518,0,2334
+1607097606854,26832,Microsoft Home Page,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Connection reset,User Group 2 2-30,text,false,Test failed: code expected to contain /200/,5132,120,49,72,https://www.microsoft.com/en-in,3315,0,1681
+1607097606854,3315,Microsoft Home Page-0,301,Moved Permanently,User Group 2 2-30,,true,,441,120,49,72,http://www.microsoft.com/en-in,3315,0,1681
+1607097610169,23517,Microsoft Home Page-1,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Connection reset,User Group 2 2-30,text,false,,4691,0,49,72,https://www.microsoft.com/en-in,0,0,23517
+1607097607836,26923,Microsoft Windows,200,OK,User Group 2 2-39,text,true,,139127,128,49,72,http://www.microsoft.com/en-in/windows,6506,0,2382
+1607097618070,17878,Microsoft Windows,200,OK,User Group 2 2-13,text,true,,139126,128,49,72,http://www.microsoft.com/en-in/windows,2685,0,0
+1607097593648,42557,Microsoft Windows,200,OK,User Group 1 1-8,text,true,,139126,128,23,71,http://www.microsoft.com/en-in/windows,2960,0,828
+1607097607403,28976,Microsoft Windows,200,OK,User Group 2 2-46,text,true,,139126,128,48,71,http://www.microsoft.com/en-in/windows,4346,0,2190
+1607097622450,14534,Microsoft Windows,200,OK,User Group 2 2-3,text,true,,139126,128,48,71,http://www.microsoft.com/en-in/windows,2196,0,0
+1607097615620,21884,Microsoft Windows,200,OK,User Group 1 1-29,text,true,,139126,128,23,70,http://www.microsoft.com/en-in/windows,4650,0,1606
+1607097469639,168707,Microsoft Home Page,200,OK,User Group 1 1-10,text,true,,182756,240,23,70,https://www.microsoft.com/en-in,450,0,167
+1607097469639,450,Microsoft Home Page-0,301,Moved Permanently,User Group 1 1-10,,true,,441,120,23,70,http://www.microsoft.com/en-in,450,0,167
+1607097470090,168256,Microsoft Home Page-1,200,OK,User Group 1 1-10,text,true,,182315,120,23,70,https://www.microsoft.com/en-in,19069,0,4736
+1607097574786,63817,Microsoft Home Page,200,OK,User Group 1 1-21,text,true,,180867,240,23,70,https://www.microsoft.com/en-in,5031,0,0
+1607097574786,5031,Microsoft Home Page-0,301,Moved Permanently,User Group 1 1-21,,true,,441,120,23,70,http://www.microsoft.com/en-in,5031,0,0
+1607097579817,58786,Microsoft Home Page-1,200,OK,User Group 1 1-21,text,true,,180426,120,23,70,https://www.microsoft.com/en-in,14238,0,13014
+1607097602941,36150,Microsoft Home Page,200,OK,User Group 2 2-20,text,true,,180686,240,47,70,https://www.microsoft.com/en-in,3159,0,1517
+1607097602941,3159,Microsoft Home Page-0,301,Moved Permanently,User Group 2 2-20,,true,,439,120,47,70,http://www.microsoft.com/en-in,3159,0,1517
+1607097606100,32991,Microsoft Home Page-1,200,OK,User Group 2 2-20,text,true,,180247,120,47,70,https://www.microsoft.com/en-in,15326,0,5457
+1607097617850,21284,Microsoft Windows,200,OK,User Group 2 2-15,text,true,,139126,128,47,70,http://www.microsoft.com/en-in/windows,2189,0,0
+1607097618126,21033,Microsoft Windows,200,OK,User Group 2 2-17,text,true,,139126,128,46,69,http://www.microsoft.com/en-in/windows,4189,0,1611
+1607097545321,93917,Microsoft Windows,200,OK,User Group 2 2-28,text,true,,139126,128,46,69,http://www.microsoft.com/en-in/windows,4728,0,2591
+1607097611749,27601,Microsoft Home Page,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,User Group 2 2-44,text,false,Test failed: code expected to contain /200/,4095,120,46,69,https://www.microsoft.com/en-in,3230,0,1604
+1607097611749,3230,Microsoft Home Page-0,301,Moved Permanently,User Group 2 2-44,,true,,439,120,46,69,http://www.microsoft.com/en-in,3230,0,1604
+1607097614980,24370,Microsoft Home Page-1,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,User Group 2 2-44,text,false,,3656,0,46,69,https://www.microsoft.com/en-in,0,0,24370
+1607097613397,26078,Microsoft Home Page,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,User Group 2 2-10,text,false,Test failed: code expected to contain /200/,4097,120,46,69,https://www.microsoft.com/en-in,1648,0,0
+1607097613397,1648,Microsoft Home Page-0,301,Moved Permanently,User Group 2 2-10,,true,,441,120,46,69,http://www.microsoft.com/en-in,1648,0,0
+1607097615045,24430,Microsoft Home Page-1,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,User Group 2 2-10,text,false,,3656,0,46,69,https://www.microsoft.com/en-in,0,0,24430
+1607097613059,26437,Microsoft Windows,200,OK,User Group 1 1-27,text,true,,139126,128,23,69,http://www.microsoft.com/en-in/windows,2226,0,0
+1607097615029,24715,Microsoft Windows,200,OK,User Group 2 2-32,text,true,,139126,128,46,68,http://www.microsoft.com/en-in/windows,2103,0,0
+1607097598031,41878,Microsoft Home Page,200,OK,User Group 2 2-33,text,true,,180686,240,45,67,https://www.microsoft.com/en-in,3250,0,1653
+1607097598031,3250,Microsoft Home Page-0,301,Moved Permanently,User Group 2 2-33,,true,,441,120,45,67,http://www.microsoft.com/en-in,3250,0,1653
+1607097601280,38629,Microsoft Home Page-1,200,OK,User Group 2 2-33,text,true,,180245,120,45,67,https://www.microsoft.com/en-in,10825,0,7267
+1607097555871,84051,Microsoft Windows,200,OK,User Group 1 1-19,text,true,,139126,128,22,67,http://www.microsoft.com/en-in/windows,7728,0,1584
+1607097627204,12717,Microsoft Windows,200,OK,User Group 2 2-2,text,true,,139126,128,45,67,http://www.microsoft.com/en-in/windows,4439,0,0
+1607097619681,20257,Microsoft Windows,200,OK,User Group 2 2-29,text,true,,139126,128,44,65,http://www.microsoft.com/en-in/windows,4694,0,2577
+1607097628281,11708,Microsoft Windows,200,OK,User Group 2 2-57,text,true,,139126,128,43,64,http://www.microsoft.com/en-in/windows,2148,0,0
+1607097623596,16418,Microsoft Windows,200,OK,User Group 1 1-25,text,true,,139126,128,21,63,http://www.microsoft.com/en-in/windows,2192,0,0
+1607097593375,47000,Microsoft Home Page,200,OK,User Group 1 1-14,text,true,,180947,240,20,62,https://www.microsoft.com/en-in,814,0,0
+1607097593375,814,Microsoft Home Page-0,301,Moved Permanently,User Group 1 1-14,,true,,441,120,20,62,http://www.microsoft.com/en-in,814,0,0
+1607097594190,46185,Microsoft Home Page-1,200,OK,User Group 1 1-14,text,true,,180506,120,20,62,https://www.microsoft.com/en-in,18645,0,13645
+1607097624555,16022,Microsoft Windows,200,OK,User Group 2 2-24,text,true,,139126,128,42,62,http://www.microsoft.com/en-in/windows,3753,0,1616
+1607097612948,28106,Microsoft Windows,200,OK,User Group 1 1-1,text,true,,139126,128,20,62,http://www.microsoft.com/en-in/windows,3765,0,0
+1607097608583,32653,Microsoft Windows,200,OK,User Group 2 2-4,text,true,,139126,128,42,61,http://www.microsoft.com/en-in/windows,8130,0,0
+1607097592619,48689,Microsoft Home Page,200,OK,User Group 2 2-52,text,true,,180877,240,41,60,https://www.microsoft.com/en-in,1013,0,0
+1607097592619,1013,Microsoft Home Page-0,301,Moved Permanently,User Group 2 2-52,,true,,441,120,41,60,http://www.microsoft.com/en-in,1013,0,0
+1607097593632,47676,Microsoft Home Page-1,200,OK,User Group 2 2-52,text,true,,180436,120,41,60,https://www.microsoft.com/en-in,18480,0,14909
+1607097613985,28350,Microsoft Home Page,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,User Group 2 2-16,text,false,Test failed: code expected to contain /200/,4097,120,41,60,https://www.microsoft.com/en-in,1608,0,0
+1607097613985,1608,Microsoft Home Page-0,301,Moved Permanently,User Group 2 2-16,,true,,441,120,41,60,http://www.microsoft.com/en-in,1608,0,0
+1607097615593,26742,Microsoft Home Page-1,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,User Group 2 2-16,text,false,,3656,0,41,60,https://www.microsoft.com/en-in,0,0,26742
+1607097621167,23647,Microsoft Windows,200,OK,User Group 1 1-23,text,true,,139126,128,19,60,http://www.microsoft.com/en-in/windows,4528,0,2371
+1607097614395,31353,Microsoft Windows,200,OK,User Group 1 1-7,text,true,,139126,128,19,60,http://www.microsoft.com/en-in/windows,2118,0,0
+1607097633689,12800,Microsoft Windows,200,OK,User Group 2 2-30,text,true,,139127,128,41,59,http://www.microsoft.com/en-in/windows,2935,0,0
+1607097595489,51072,Microsoft Windows,200,OK,User Group 2 2-27,text,true,,139126,128,40,58,http://www.microsoft.com/en-in/windows,3754,0,1568
+1607097606847,40820,Microsoft Home Page,200,OK,User Group 2 2-5,text,true,,180684,240,40,58,https://www.microsoft.com/en-in,1686,0,0
+1607097606847,1686,Microsoft Home Page-0,301,Moved Permanently,User Group 2 2-5,,true,,441,120,40,58,http://www.microsoft.com/en-in,1686,0,0
+1607097608533,39134,Microsoft Home Page-1,200,OK,User Group 2 2-5,text,true,,180243,120,40,58,https://www.microsoft.com/en-in,21662,0,15005
+1607097606129,46089,Microsoft Home Page,200,OK,User Group 2 2-58,text,true,,182569,240,40,58,https://www.microsoft.com/en-in,1278,0,0
+1607097606129,1278,Microsoft Home Page-0,301,Moved Permanently,User Group 2 2-58,,true,,441,120,40,58,http://www.microsoft.com/en-in,1278,0,0
+1607097607407,44811,Microsoft Home Page-1,200,OK,User Group 2 2-58,text,true,,182128,120,40,58,https://www.microsoft.com/en-in,20402,0,11838
+1607097602499,49813,Microsoft Home Page,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,User Group 1 1-12,text,false,Test failed: code expected to contain /200/,4097,120,18,58,https://www.microsoft.com/en-in,4727,0,0
+1607097602499,4727,Microsoft Home Page-0,301,Moved Permanently,User Group 1 1-12,,true,,441,120,18,58,http://www.microsoft.com/en-in,4727,0,0
+1607097607227,45085,Microsoft Home Page-1,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,User Group 1 1-12,text,false,,3656,0,18,58,https://www.microsoft.com/en-in,0,0,45085
+1607097613990,38489,Microsoft Home Page,200,OK,User Group 2 2-53,text,true,,180871,240,40,58,https://www.microsoft.com/en-in,8775,0,0
+1607097613990,8775,Microsoft Home Page-0,301,Moved Permanently,User Group 2 2-53,,true,,443,120,40,58,http://www.microsoft.com/en-in,8775,0,0
+1607097622765,29714,Microsoft Home Page-1,200,OK,User Group 2 2-53,text,true,,180428,120,40,58,https://www.microsoft.com/en-in,14198,0,8878
+1607097619510,33098,Microsoft Windows,200,OK,User Group 1 1-2,text,true,,139126,128,18,58,http://www.microsoft.com/en-in/windows,2144,0,0
+1607097642336,10524,Microsoft Windows,200,OK,User Group 2 2-16,text,true,,139126,128,40,57,http://www.microsoft.com/en-in/windows,2122,0,0
+1607097627923,26305,Microsoft Home Page,200,OK,User Group 2 2-7,text,true,,182561,240,39,56,https://www.microsoft.com/en-in,4672,0,0
+1607097627923,4672,Microsoft Home Page-0,301,Moved Permanently,User Group 2 2-7,,true,,441,120,39,56,http://www.microsoft.com/en-in,4672,0,0
+1607097632596,21632,Microsoft Home Page-1,200,OK,User Group 2 2-7,text,true,,182120,120,39,56,https://www.microsoft.com/en-in,8163,0,6583
+1607097641309,18399,Microsoft Windows,200,OK,User Group 2 2-52,text,true,,139124,128,39,56,http://www.microsoft.com/en-in/windows,4597,0,1617
+1607097647668,16717,Microsoft Windows,200,OK,User Group 2 2-5,text,true,,139126,128,38,55,http://www.microsoft.com/en-in/windows,2168,0,0
+1607097603613,61231,Microsoft Home Page,200,OK,User Group 2 2-47,text,true,,180682,240,38,55,https://www.microsoft.com/en-in,3048,0,1562
+1607097603613,3048,Microsoft Home Page-0,301,Moved Permanently,User Group 2 2-47,,true,,441,120,38,55,http://www.microsoft.com/en-in,3048,0,1562
+1607097606661,58183,Microsoft Home Page-1,200,OK,User Group 2 2-47,text,true,,180241,120,38,55,https://www.microsoft.com/en-in,22895,0,17456
+1607097638603,28677,Microsoft Windows,200,OK,User Group 1 1-21,text,true,,139126,128,17,55,http://www.microsoft.com/en-in/windows,3489,0,1282
+1607097608280,59478,Microsoft Home Page,200,OK,User Group 1 1-13,text,true,,180871,240,16,54,https://www.microsoft.com/en-in,3255,0,1611
+1607097608280,3255,Microsoft Home Page-0,301,Moved Permanently,User Group 1 1-13,,true,,441,120,16,54,http://www.microsoft.com/en-in,3255,0,1611
+1607097611535,56223,Microsoft Home Page-1,200,OK,User Group 1 1-13,text,true,,180430,120,16,54,https://www.microsoft.com/en-in,23287,0,16281
+1607097593470,76146,Microsoft Home Page,200,OK,User Group 2 2-22,text,true,,180756,240,38,54,https://www.microsoft.com/en-in,789,0,0
+1607097593470,789,Microsoft Home Page-0,301,Moved Permanently,User Group 2 2-22,,true,,441,120,38,54,http://www.microsoft.com/en-in,789,0,0
+1607097594259,75357,Microsoft Home Page-1,200,OK,User Group 2 2-22,text,true,,180315,120,38,54,https://www.microsoft.com/en-in,11862,0,5420
+1607097652218,17460,Microsoft Windows,200,OK,User Group 2 2-58,text,true,,139125,128,38,54,http://www.microsoft.com/en-in/windows,4689,0,0
+1607097639476,30680,Microsoft Windows,200,OK,User Group 2 2-10,text,true,,139127,128,37,53,http://www.microsoft.com/en-in/windows,4279,0,1302
+1607097652480,17816,Microsoft Windows,200,OK,User Group 2 2-53,text,true,,139125,128,36,52,http://www.microsoft.com/en-in/windows,4653,0,0
+1607097592962,78633,Microsoft Home Page,200,OK,User Group 1 1-30,text,true,,180877,240,16,51,https://www.microsoft.com/en-in,794,0,0
+1607097592962,794,Microsoft Home Page-0,301,Moved Permanently,User Group 1 1-30,,true,,441,120,16,51,http://www.microsoft.com/en-in,794,0,0
+1607097593756,77839,Microsoft Home Page-1,200,OK,User Group 1 1-30,text,true,,180436,120,16,51,https://www.microsoft.com/en-in,13570,0,10288
+1607097639091,41534,Microsoft Windows,200,OK,User Group 2 2-20,text,true,,139123,128,35,51,http://www.microsoft.com/en-in/windows,13801,0,0
+1607097667758,13792,Microsoft Windows,200,OK,User Group 1 1-13,text,true,,139123,128,16,50,http://www.microsoft.com/en-in/windows,2204,0,0
+1607097644815,36980,Microsoft Home Page,200,OK,User Group 1 1-23,text,true,,180875,240,15,49,https://www.microsoft.com/en-in,5087,0,0
+1607097644815,5087,Microsoft Home Page-0,301,Moved Permanently,User Group 1 1-23,,true,,441,120,15,49,http://www.microsoft.com/en-in,5087,0,0
+1607097649903,31892,Microsoft Home Page-1,200,OK,User Group 1 1-23,text,true,,180434,120,15,49,https://www.microsoft.com/en-in,17223,0,11056
+1607097664845,17111,Microsoft Windows,200,OK,User Group 2 2-47,text,true,,139124,128,34,49,http://www.microsoft.com/en-in/windows,4234,0,1593
+1607097646561,35395,Microsoft Home Page,200,OK,User Group 2 2-27,text,true,,180877,240,34,49,https://www.microsoft.com/en-in,4165,0,0
+1607097646561,4165,Microsoft Home Page-0,301,Moved Permanently,User Group 2 2-27,,true,,441,120,34,49,http://www.microsoft.com/en-in,4165,0,0
+1607097650726,31230,Microsoft Home Page-1,200,OK,User Group 2 2-27,text,true,,180436,120,34,49,https://www.microsoft.com/en-in,18302,0,11392
+1607097500059,182642,Microsoft Windows,200,OK,User Group 1 1-22,text,true,,139126,128,15,48,http://www.microsoft.com/en-in/windows,2137,0,0
+1607097611825,70936,Microsoft Home Page,200,OK,User Group 2 2-31,text,true,,180688,240,33,48,https://www.microsoft.com/en-in,1643,0,0
+1607097611825,1643,Microsoft Home Page-0,301,Moved Permanently,User Group 2 2-31,,true,,441,120,33,48,http://www.microsoft.com/en-in,1643,0,0
+1607097613468,69293,Microsoft Home Page-1,200,OK,User Group 2 2-31,text,true,,180247,120,33,48,https://www.microsoft.com/en-in,21048,0,12347
+1607097640377,42720,Microsoft Windows,200,OK,User Group 1 1-14,text,true,,139123,128,15,48,http://www.microsoft.com/en-in/windows,5852,0,3629
+1607097637505,45739,Microsoft Home Page,200,OK,User Group 1 1-29,text,true,,180871,240,14,47,https://www.microsoft.com/en-in,1475,0,0
+1607097637505,1475,Microsoft Home Page-0,301,Moved Permanently,User Group 1 1-29,,true,,441,120,14,47,http://www.microsoft.com/en-in,1475,0,0
+1607097638980,44264,Microsoft Home Page-1,200,OK,User Group 1 1-29,text,true,,180430,120,14,47,https://www.microsoft.com/en-in,15410,0,8355
+1607097628866,55269,Microsoft Home Page,200,OK,User Group 2 2-41,text,true,,182565,240,33,47,https://www.microsoft.com/en-in,3050,0,1610
+1607097628866,3050,Microsoft Home Page-0,301,Moved Permanently,User Group 2 2-41,,true,,441,120,33,47,http://www.microsoft.com/en-in,3050,0,1610
+1607097631917,52218,Microsoft Home Page-1,200,OK,User Group 2 2-41,text,true,,182124,120,33,47,https://www.microsoft.com/en-in,21839,0,10250
+1607097669617,16210,Microsoft Windows,200,OK,User Group 2 2-22,text,true,,139127,128,33,47,http://www.microsoft.com/en-in/windows,7673,0,5093
+1607097671596,14542,Microsoft Windows,200,OK,User Group 1 1-30,text,true,,139123,128,14,46,http://www.microsoft.com/en-in/windows,4917,0,2600
+1607097639352,46944,Microsoft Windows,200,OK,User Group 2 2-44,text,true,,139126,128,32,45,http://www.microsoft.com/en-in/windows,2234,0,0
+1607097605964,80452,Microsoft Windows,200,OK,User Group 2 2-23,text,true,,139126,128,31,44,http://www.microsoft.com/en-in/windows,1827,0,0
+1607097636380,50115,Microsoft Home Page,200,OK,User Group 2 2-46,text,true,,180873,240,30,43,https://www.microsoft.com/en-in,1635,0,0
+1607097636380,1635,Microsoft Home Page-0,301,Moved Permanently,User Group 2 2-46,,true,,441,120,30,43,http://www.microsoft.com/en-in,1635,0,0
+1607097638015,48480,Microsoft Home Page-1,200,OK,User Group 2 2-46,text,true,,180432,120,30,43,https://www.microsoft.com/en-in,20541,0,8732
+1607097639911,46684,Microsoft Windows,200,OK,User Group 2 2-33,text,true,,139127,128,30,43,http://www.microsoft.com/en-in/windows,4243,0,0
+1607097592262,94429,Microsoft Home Page,200,OK,User Group 1 1-18,text,true,,182571,240,13,42,https://www.microsoft.com/en-in,1201,0,0
+1607097592262,1201,Microsoft Home Page-0,301,Moved Permanently,User Group 1 1-18,,true,,441,120,13,42,http://www.microsoft.com/en-in,1201,0,0
+1607097593463,93228,Microsoft Home Page-1,200,OK,User Group 1 1-18,text,true,,182130,120,13,42,https://www.microsoft.com/en-in,14760,0,5065
+1607097634759,52739,Microsoft Home Page,200,OK,User Group 2 2-39,text,true,,180869,240,29,42,https://www.microsoft.com/en-in,1615,0,0
+1607097634759,1615,Microsoft Home Page-0,301,Moved Permanently,User Group 2 2-39,,true,,439,120,29,42,http://www.microsoft.com/en-in,1615,0,0
+1607097636375,51123,Microsoft Home Page-1,200,OK,User Group 2 2-39,text,true,,180430,120,29,42,https://www.microsoft.com/en-in,15260,0,8516
+1607097631753,56066,Microsoft Home Page,200,OK,User Group 1 1-26,text,true,,180877,240,13,42,https://www.microsoft.com/en-in,1647,0,0
+1607097631753,1647,Microsoft Home Page-0,301,Moved Permanently,User Group 1 1-26,,true,,439,120,13,42,http://www.microsoft.com/en-in,1647,0,0
+1607097633400,54419,Microsoft Home Page-1,200,OK,User Group 1 1-26,text,true,,180438,120,13,42,https://www.microsoft.com/en-in,18884,0,6783
+1607097683245,12145,Microsoft Windows,200,OK,User Group 1 1-29,text,true,,139123,128,13,42,http://www.microsoft.com/en-in/windows,3448,0,1593
+1607097681796,14411,Microsoft Windows,200,OK,User Group 1 1-23,text,true,,139124,128,13,42,http://www.microsoft.com/en-in/windows,4135,0,1461
+1607097628906,68149,Microsoft Home Page,200,OK,User Group 2 2-59,text,true,,180887,240,29,41,https://www.microsoft.com/en-in,5072,0,0
+1607097628906,5072,Microsoft Home Page-0,301,Moved Permanently,User Group 2 2-59,,true,,441,120,29,41,http://www.microsoft.com/en-in,5072,0,0
+1607097633979,63076,Microsoft Home Page-1,200,OK,User Group 2 2-59,text,true,,180446,120,29,41,https://www.microsoft.com/en-in,19750,0,6204
+1607097681957,15251,Microsoft Windows,200,OK,User Group 2 2-27,text,true,,139123,128,29,41,http://www.microsoft.com/en-in/windows,3642,0,1461
+1607097684135,14529,Microsoft Windows,200,OK,User Group 2 2-41,text,true,,139125,128,28,40,http://www.microsoft.com/en-in/windows,3138,0,0
+1607097636205,66227,Microsoft Home Page,200,OK,User Group 1 1-8,text,true,,180877,240,12,39,https://www.microsoft.com/en-in,1620,0,0
+1607097636205,1620,Microsoft Home Page-0,301,Moved Permanently,User Group 1 1-8,,true,,441,120,12,39,http://www.microsoft.com/en-in,1620,0,0
+1607097637825,64607,Microsoft Home Page-1,200,OK,User Group 1 1-8,text,true,,180436,120,12,39,https://www.microsoft.com/en-in,21688,0,8551
+1607097682762,19820,Microsoft Windows,200,OK,User Group 2 2-31,text,true,,139123,128,27,39,http://www.microsoft.com/en-in/windows,6643,0,2557
+1607097686495,16443,Microsoft Windows,200,OK,User Group 2 2-46,text,true,,139126,128,26,38,http://www.microsoft.com/en-in/windows,3977,0,1520
+1607097687818,16738,Microsoft Windows,200,OK,User Group 1 1-26,text,true,,139127,128,12,37,http://www.microsoft.com/en-in/windows,4563,0,1587
+1607097687499,17233,Microsoft Windows,200,OK,User Group 2 2-39,text,true,,139123,128,25,36,http://www.microsoft.com/en-in/windows,3828,0,1629
+1607097686692,18354,Microsoft Windows,200,OK,User Group 1 1-18,text,true,,139123,128,11,35,http://www.microsoft.com/en-in/windows,3720,0,1474
+1607097652313,54446,Microsoft Windows,200,OK,User Group 1 1-12,text,true,,139123,128,10,34,http://www.microsoft.com/en-in/windows,6310,0,3657
+1607097697055,10363,Microsoft Windows,200,OK,User Group 2 2-59,text,true,,139126,128,24,33,http://www.microsoft.com/en-in/windows,4162,0,1529
+1607097702433,6481,Microsoft Windows,200,OK,User Group 1 1-8,text,true,,139126,128,9,32,http://www.microsoft.com/en-in/windows,3525,0,2612
+1607097682701,26931,Microsoft Home Page,200,OK,User Group 1 1-22,text,true,,180873,240,8,31,https://www.microsoft.com/en-in,3924,0,2575
+1607097682701,3924,Microsoft Home Page-0,301,Moved Permanently,User Group 1 1-22,,true,,441,120,8,31,http://www.microsoft.com/en-in,3924,0,2575
+1607097686625,23007,Microsoft Home Page-1,200,OK,User Group 1 1-22,text,true,,180432,120,8,31,https://www.microsoft.com/en-in,19512,0,18644
+1607097628692,81649,Microsoft Home Page,200,OK,User Group 2 2-42,text,true,,182641,240,23,31,https://www.microsoft.com/en-in,3091,0,1603
+1607097628692,3091,Microsoft Home Page-0,301,Moved Permanently,User Group 2 2-42,,true,,441,120,23,31,http://www.microsoft.com/en-in,3091,0,1603
+1607097631784,78557,Microsoft Home Page-1,200,OK,User Group 2 2-42,text,true,,182200,120,23,31,https://www.microsoft.com/en-in,28041,0,11972
+1607097709633,2586,Microsoft Windows,200,OK,User Group 1 1-22,text,true,,139123,128,8,31,http://www.microsoft.com/en-in/windows,763,0,0
+1607097639239,73218,Microsoft Home Page,200,OK,User Group 2 2-28,text,true,,180939,240,23,30,https://www.microsoft.com/en-in,3581,0,1135
+1607097639239,3581,Microsoft Home Page-0,301,Moved Permanently,User Group 2 2-28,,true,,441,120,23,30,http://www.microsoft.com/en-in,3581,0,1135
+1607097642821,69636,Microsoft Home Page-1,200,OK,User Group 2 2-28,text,true,,180498,120,23,30,https://www.microsoft.com/en-in,23930,0,10980
+1607097710341,3097,Microsoft Windows,200,OK,User Group 2 2-42,text,true,,139126,128,23,30,http://www.microsoft.com/en-in/windows,1371,0,273
+1607097712457,2416,Microsoft Windows,200,OK,User Group 2 2-28,text,true,,139123,128,22,29,http://www.microsoft.com/en-in/windows,1169,0,454
+1607097608880,107528,Microsoft Home Page,200,OK,User Group 2 2-40,text,true,,180873,240,21,28,https://www.microsoft.com/en-in,4399,0,0
+1607097608880,4399,Microsoft Home Page-0,301,Moved Permanently,User Group 2 2-40,,true,,441,120,21,28,http://www.microsoft.com/en-in,4399,0,0
+1607097613279,103129,Microsoft Home Page-1,200,OK,User Group 2 2-40,text,true,,180432,120,21,28,https://www.microsoft.com/en-in,28882,0,14117
+1607097716409,2137,Microsoft Windows,200,OK,User Group 2 2-40,text,true,,139126,128,21,28,http://www.microsoft.com/en-in/windows,832,0,140
+1607097626719,99048,Microsoft Home Page,200,OK,User Group 2 2-49,text,true,,182565,240,20,27,https://www.microsoft.com/en-in,1638,0,0
+1607097626719,1638,Microsoft Home Page-0,301,Moved Permanently,User Group 2 2-49,,true,,439,120,20,27,http://www.microsoft.com/en-in,1638,0,0
+1607097628357,97410,Microsoft Home Page-1,200,OK,User Group 2 2-49,text,true,,182126,120,20,27,https://www.microsoft.com/en-in,15452,0,11369
+1607097654227,75316,Microsoft Windows,200,OK,User Group 2 2-7,text,true,,139123,128,20,27,http://www.microsoft.com/en-in/windows,5331,0,2646
+1607097638346,104177,Microsoft Windows,200,OK,User Group 1 1-10,text,true,,139126,128,7,26,http://www.microsoft.com/en-in/windows,3568,0,1367
+1607097742524,3010,Microsoft Home Page,200,OK,User Group 1 1-10,text,true,,182571,240,7,26,https://www.microsoft.com/en-in,342,0,222
+1607097742524,342,Microsoft Home Page-0,301,Moved Permanently,User Group 1 1-10,,tr

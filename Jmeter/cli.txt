@@ -1,0 +1,1 @@
+jmeter -n -t C:\Users\rrite\OneDrive\Desktop\Jmeter\PerformanceTesting1.jmx -l C:\Users\rrite\OneDrive\Desktop\Jmeter\PerformanceTesting1.csv -f -e -o C:\Users\rrite\OneDrive\Desktop\Jmeter\P1Report

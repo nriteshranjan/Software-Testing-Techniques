@@ -1,0 +1,1755 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1607000023199,13819,Notices,200,OK,Thread Group 1-7,text,false,"Test failed: text expected to equal /
+
+****** received  : [[[<title>NSUT NOTICES / CIRCULARS</title><LINK href='css/METAL/app.css' type=text/css rel=stylesheet>...]]]
+
+****** comparison: [[[200                                                                                                    ]]]
+
+/",45396,138,20,20,https://www.imsnsit.org/imsnsit/notifications.php,8905,0,6376
+1607000023195,14405,Notices,200,OK,Thread Group 1-5,text,false,"Test failed: text expected to equal /
+
+****** received  : [[[<title>NSUT NOTICES / CIRCULARS</title><LINK href='css/METAL/app.css' type=text/css rel=stylesheet>...]]]
+
+****** comparison: [[[200                                                                                                    ]]]
+
+/",45396,138,20,20,https://www.imsnsit.org/imsnsit/notifications.php,9419,0,6699
+1607000037603,4,HelpDoc,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: www.imsnsit.org:443 failed to respond,Thread Group 1-5,text,false,"Test failed: text expected to equal /
+
+****** received  : [[[org.apache.http.NoHttpResponseException: www.imsnsit.org:443 failed to respond
+	at org.apache.http....]]]
+
+****** comparison: [[[200                                                                                                    ]]]
+
+/",2096,0,20,20,https://www.imsnsit.org/imsnsit/nsithelp_doc.php,0,0,0
+1607000023536,17369,Notices,200,OK,Thread Group 1-15,text,false,"Test failed: text expected to equal /
+
+****** received  : [[[<title>NSUT NOTICES / CIRCULARS</title><LINK href='css/METAL/app.css' type=text/css rel=stylesheet>...]]]
+
+****** comparison: [[[200                                                                                                    ]]]
+
+/",45396,138,20,20,https://www.imsnsit.org/imsnsit/notifications.php,12569,0,7953
+1607000040912,2,HelpDoc,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: www.imsnsit.org:443 failed to respond,Thread Group 1-15,text,false,"Test failed: text expected to equal /
+
+****** received  : [[[org.apache.http.NoHttpResponseException: www.imsnsit.org:443 failed to respond
+	at org.apache.http....]]]
+
+****** comparison: [[[200                                                                                                    ]]]
+
+/",2096,0,20,20,https://www.imsnsit.org/imsnsit/nsithelp_doc.php,0,0,0
+1607000023248,17909,Notices,200,OK,Thread Group 1-9,text,false,"Test failed: text expected to equal /
+
+****** received  : [[[<title>NSUT NOTICES / CIRCULARS</title><LINK href='css/METAL/app.css' type=text/css rel=stylesheet>...]]]
+
+****** comparison: [[[200                                                                                                    ]]]
+
+/",45396,138,20,20,https://www.imsnsit.org/imsnsit/notifications.php,9761,0,6999
+1607000041159,1,HelpDoc,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: www.imsnsit.org:443 failed to respond,Thread Group 1-9,text,false,"Test failed: text expected to equal /
+
+****** received  : [[[org.apache.http.NoHttpResponseException: www.imsnsit.org:443 failed to respond
+	at org.apache.http....]]]
+
+****** comparison: [[[200                                                                                                    ]]]
+
+/",2096,0,20,20,https://www.imsnsit.org/imsnsit/nsithelp_doc.php,0,0,0
+1607000023731,17884,Notices,200,OK,Thread Group 1-19,text,false,"Test failed: text expected to equal /
+
+****** received  : [[[<title>NSUT NOTICES / CIRCULARS</title><LINK href='css/METAL/app.css' type=text/css rel=stylesheet>...]]]
+
+****** comparison: [[[200                                                                                                    ]]]
+
+/",45396,138,20,20,https://www.imsnsit.org/imsnsit/notifications.php,9868,0,6808
+1607000041617,2,HelpDoc,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: www.imsnsit.org:443 failed to respond,Thread Group 1-19,text,false,"Test failed: text expected to equal /
+
+****** received  : [[[org.apache.http.NoHttpResponseException: www.imsnsit.org:443 failed to respond
+	at org.apache.http....]]]
+
+****** comparison: [[[200                                                                                                    ]]]
+
+/",2096,0,20,20,https://www.imsnsit.org/imsnsit/nsithelp_doc.php,0,0,0
+1607000023195,19493,Notices,200,OK,Thread Group 1-2,text,false,"Test failed: text expected to equal /
+
+****** received  : [[[<title>NSUT NOTICES / CIRCULARS</title><LINK href='css/METAL/app.css' type=text/css rel=stylesheet>...]]]
+
+****** comparison: [[[200                                                                                                    ]]]
+
+/",45396,138,20,20,https://www.imsnsit.org/imsnsit/notifications.php,14881,0,8611
+1607000042690,2,HelpDoc,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: www.imsnsit.org:443 failed to respond,Thread Group 1-2,text,false,"Test failed: text expected to equal /
+
+****** received  : [[[org.apache.http.NoHttpResponseException: www.imsnsit.org:443 failed to respond
+	at org.apache.http....]]]
+
+****** comparison: [[[200                                                                                                    ]]]
+
+/",2096,0,20,20,https://www.imsnsit.org/imsnsit/nsithelp_doc.php,0,0,0
+1607000037024,7425,HelpDoc,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: www.imsnsit.org:443 failed to respond,Thread Group 1-7,text,false,"Test failed: text expected to equal /
+
+****** received  : [[[org.apache.http.NoHttpResponseException: www.imsnsit.org:443 failed to respond
+	at org.apache.http....]]]
+
+****** comparison: [[[200                                                                                                    ]]]
+
+/",3374,137,20,20,https://www.imsnsit.org/imsnsit/blank.htm,7423,0,0
+1607000037024,7423,HelpDoc-0,302,Found,Thread Group 1-7,text,true,,782,137,20,20,https://www.imsnsit.org/imsnsit/nsithelp_doc.php,7423,0,0
+1607000044448,1,HelpDoc-1,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: www.imsnsit.org:443 failed to respond,Thread Group 1-7,text,false,,2592,0,20,20,https://www.imsnsit.org/imsnsit/blank.htm,0,0,0
+1607000023443,21212,Notices,200,OK,Thread Group 1-13,text,false,"Test failed: text expected to equal /
+
+****** received  : [[[<title>NSUT NOTICES / CIRCULARS</title><LINK href='css/METAL/app.css' type=text/css rel=stylesheet>...]]]
+
+****** comparison: [[[200                                                                                                    ]]]
+
+/",45396,138,20,20,https://www.imsnsit.org/imsnsit/notifications.php,8930,0,6331
+1607000044658,1,HelpDoc,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: www.imsnsit.org:443 failed to respond,Thread Group 1-13,text,false,"Test failed: text expected to equal /
+
+****** received  : [[[org.apache.http.NoHttpResponseException: www.imsnsit.org:443 failed to respond
+	at org.apache.http....]]]
+
+****** comparison: [[[200                                                                                                    ]]]
+
+/",2096,0,20,20,https://www.imsnsit.org/imsnsit/nsithelp_doc.php,0,0,0
+1607000023780,25663,Notices,200,OK,Thread Group 1-20,text,false,"Test failed: text expected to equal /
+
+****** received  : [[[<title>NSUT NOTICES / CIRCULARS</title><LINK href='css/METAL/app.css' type=text/css rel=stylesheet>...]]]
+
+****** comparison: [[[200                                                                                                    ]]]
+
+/",45396,138,20,20,https://www.imsnsit.org/imsnsit/notifications.php,15939,0,8050
+1607000049446,2,HelpDoc,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: www.imsnsit.org:443 failed to respond,Thread Group 1-20,text,false,"Test failed: text expected to equal /
+
+****** received  : [[[org.apache.http.NoHttpResponseException: www.imsnsit.org:443 failed to respond
+	at org.apache.http....]]]
+
+****** comparison: [[[200                                                                                                    ]]]
+
+/",2096,0,20,20,https://www.imsnsit.org/imsnsit/nsithelp_doc.php,0,0,0
+1607000037609,15377,Notices,200,OK,Thread Group 1-5,text,false,"Test failed: text expected to equal /
+
+****** received  : [[[<title>NSUT NOTICES / CIRCULARS</title><LINK href='css/METAL/app.css' type=text/css rel=stylesheet>...]]]
+
+****** comparison: [[[200                                                                                                    ]]]
+
+/",45396,138,20,20,https://www.imsnsit.org/imsnsit/notifications.php,7548,0,4534
+1607000052987,2,HelpDoc,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: www.imsnsit.org:443 failed to respond,Thread Group 1-5,text,false,"Test failed: text expected to equal /
+
+****** received  : [[[org.apache.http.NoHttpResponseException: www.imsnsit.org:443 failed to respond
+	at org.apache.http....]]]
+
+****** comparison: [[[200                                                                                                    ]]]
+
+/",2096,0,20,20,https://www.imsnsit.org/imsnsit/nsithelp_doc.php,0,0,0
+1607000023494,29992,Notices,200,OK,Thread Group 1-14,text,false,"Test failed: text expected to equal /
+
+****** received  : [[[<title>NSUT NOTICES / CIRCULARS</title><LINK href='css/METAL/app.css' type=text/css rel=stylesheet>...]]]
+
+****** comparison: [[[200                                                                                                    ]]]
+
+/",45396,138,20,20,https://www.imsnsit.org/imsnsit/notifications.php,20516,0,14187
+1607000053488,2,HelpDoc,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: www.imsnsit.org:443 failed to respond,Thread Group 1-14,text,false,"Test failed: text expected to equal /
+
+****** received  : [[[org.apache.http.NoHttpResponseException: www.imsnsit.org:443 failed to respond
+	at org.apache.http....]]]
+
+****** comparison: [[[200                                                                                                    ]]]
+
+/",2096,0,20,20,https://www.imsnsit.org/imsnsit/nsithelp_doc.php,0,0,0
+1607000023681,30519,Notices,200,OK,Thread Group 1-18,text,false,"Test failed: text expected to equal /
+
+****** received  : [[[<title>NSUT NOTICES / CIRCULARS</title><LINK href='css/METAL/app.css' type=text/css rel=stylesheet>...]]]
+
+****** comparison: [[[200                                                                                                    ]]]
+
+/",45396,138,20,20,https://www.imsnsit.org/imsnsit/notifications.php,16104,0,8220
+1607000054202,1,HelpDoc,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: www.imsnsit.org:443 failed to respond,Thread Group 1-18,text,false,"Test failed: text expected to equal /
+
+****** received  : [[[org.apache.http.NoHttpResponseException: www.imsnsit.org:443 failed to respond
+	at org.apache.http....]]]
+
+****** comparison: [[[200                                                                                                    ]]]
+
+/",2096,0,20,20,https://www.imsnsit.org/imsnsit/nsithelp_doc.php,0,0,0
+1607000023306,32011,Notices,200,OK,Thread Group 1-10,text,false,"Test failed: text expected to equal /
+
+****** received  : [[[<title>NSUT NOTICES / CIRCULARS</title><LINK href='css/METAL/app.css' type=text/css rel=stylesheet>...]]]
+
+****** comparison: [[[200                                                                                                    ]]]
+
+/",45396,138,20,20,https://www.imsnsit.org/imsnsit/notifications.php,22602,0,9660
+1607000055319,1,HelpDoc,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: www.imsnsit.org:443 failed to respond,Thread Group 1-10,text,false,"Test failed: text expected to equal /
+
+****** received  : [[[org.apache.http.NoHttpResponseException: www.imsnsit.org:443 failed to respond
+	at org.apache.http....]]]
+
+****** comparison: [[[200                                                                                                    ]]]
+
+/",2096,0,20,20,https://www.imsnsit.org/imsnsit/nsithelp_doc.php,0,0,0
+1607000023347,32613,Notices,200,OK,Thread Group 1-11,text,false,"Test failed: text expected to equal /
+
+****** received  : [[[<title>NSUT NOTICES / CIRCULARS</title><LINK href='css/METAL/app.css' type=text/css rel=stylesheet>...]]]
+
+****** comparison: [[[200                                                                                                    ]]]
+
+/",45396,138,20,20,https://www.imsnsit.org/imsnsit/notifications.php,13483,0,8525
+1607000055962,1,HelpDoc,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: www.imsnsit.org:443 failed to respond,Thread Group 1-11,text,false,"Test failed: text expected to equal /
+
+****** received  : [[[org.apache.http.NoHttpResponseException: www.imsnsit.org:443 failed to respond
+	at org.apache.http....]]]
+
+****** comparison: [[[200                                                                                                    ]]]
+
+/",2096,0,20,20,https://www.imsnsit.org/imsnsit/nsithelp_doc.php,0,0,0
+1607000023194,37642,Notices,200,OK,Thread Group 1-6,text,false,"Test failed: text expected to equal /
+
+****** received  : [[[<title>NSUT NOTICES / CIRCULARS</title><LINK href='css/METAL/app.css' type=text/css rel=stylesheet>...]]]
+
+****** comparison: [[[200                                                                                                    ]]]
+
+/",45396,138,20,20,https://www.imsnsit.org/imsnsit/notifications.php,25713,0,9567
+1607000060837,1,HelpDoc,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: www.imsnsit.org:443 failed to respond,Thread Group 1-6,text,false,"Test failed: text expected to equal /
+
+****** received  : [[[org.apache.http.NoHttpResponseException: www.imsnsit.org:443 failed to respond
+	at org.apache.http....]]]
+
+****** comparison: [[[200                                                                                                    ]]]
+
+/",2096,0,20,20,https://www.imsnsit.org/imsnsit/nsithelp_doc.php,0,0,0
+1607000023409,37458,Notices,200,OK,Thread Group 1-12,text,false,"Test failed: text expected to equal /
+
+****** received  : [[[<title>NSUT NOTICES / CIRCULARS</title><LINK href='css/METAL/app.css' type=text/css rel=stylesheet>...]]]
+
+****** comparison: [[[200                                                                                                    ]]]
+
+/",45396,138,20,20,https://www.imsnsit.org/imsnsit/notifications.php,18495,0,8917
+1607000060869,1,HelpDoc,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: www.imsnsit.org:443 failed to respond,Thread Group 1-12,text,false,"Test failed: text expected to equal /
+
+****** received  : [[[org.apache.http.NoHttpResponseException: www.imsnsit.org:443 failed to respond
+	at org.apache.http....]]]
+
+****** comparison: [[[200                                                                                                    ]]]
+
+/",2096,0,20,20,https://www.imsnsit.org/imsnsit/nsithelp_doc.php,0,0,0
+1607000023206,37822,Notices,200,OK,Thread Group 1-8,text,false,"Test failed: text expected to equal /
+
+****** received  : [[[<title>NSUT NOTICES / CIRCULARS</title><LINK href='css/METAL/app.css' type=text/css rel=stylesheet>...]]]
+
+****** comparison: [[[200                                                                                                    ]]]
+
+/",45396,138,20,20,https://www.imsnsit.org/imsnsit/notifications.php,30909,0,9319
+1607000061030,2,HelpDoc,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: www.imsnsit.org:443 failed to respond,Thread Group 1-8,text,false,"Test failed: text expected to equal /
+
+****** received  : [[[org.apache.http.NoHttpResponseException: www.imsnsit.org:443 failed to respond
+	at org.apache.http....]]]
+
+****** comparison: [[[200                                                                                                    ]]]
+
+/",2096,0,20,20,https://www.imsnsit.org/imsnsit/nsithelp_doc.php,0,0,0
+1607000023633,37772,Notices,200,OK,Thread Group 1-17,text,false,"Test failed: text expected to equal /
+
+****** received  : [[[<title>NSUT NOTICES / CIRCULARS</title><LINK href='css/METAL/app.css' type=text/css rel=stylesheet>...]]]
+
+****** comparison: [[[200                                                                                                    ]]]
+
+/",45396,138,20,20,https://www.imsnsit.org/imsnsit/notifications.php,15018,0,8569
+1607000061407,1,HelpDoc,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: www.imsnsit.org:443 failed to respond,Thread Group 1-17,text,false,"Test failed: text expected to equal /
+
+****** received  : [[[org.apache.http.NoHttpResponseException: www.imsnsit.org:443 failed to respond
+	at org.apache.http....]]]
+
+****** comparison: [[[200                                                                                                    ]]]
+
+/",2096,0,20,20,https://www.imsnsit.org/imsnsit/nsithelp_doc.php,0,0,0
+1607000023195,39427,Notices,200,OK,Thread Group 1-1,text,false,"Test failed: text expected to equal /
+
+****** received  : [[[<title>NSUT NOTICES / CIRCULARS</title><LINK href='css/METAL/app.css' type=text/css rel=stylesheet>...]]]
+
+****** comparison: [[[200                                                                                                    ]]]
+
+/",45396,138,20,20,https://www.imsnsit.org/imsnsit/notifications.php,24461,0,9330
+1607000062624,1,HelpDoc,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: www.imsnsit.org:443 failed to respond,Thread Group 1-1,text,false,"Test failed: text expected to equal /
+
+****** received  : [[[org.apache.http.NoHttpResponseException: www.imsnsit.org:443 failed to respond
+	at org.apache.http....]]]
+
+****** comparison: [[[200                                                                                                    ]]]
+
+/",2096,0,20,20,https://www.imsnsit.org/imsnsit/nsithelp_doc.php,0,0,0
+1607000042692,21084,Notices,200,OK,Thread Group 1-2,text,false,"Test failed: text expected to equal /
+
+****** received  : [[[<title>NSUT NOTICES / CIRCULARS</title><LINK href='css/METAL/app.css' type=text/css rel=stylesheet>...]]]
+
+****** comparison: [[[200                                                                                                    ]]]
+
+/",45396,138,20,20,https://www.imsnsit.org/imsnsit/notifications.php,18917,0,14609
+1607000063777,1,HelpDoc,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: www.imsnsit.org:443 failed to respond,Thread Group 1-2,text,false,"Test failed: text expected to equal /
+
+****** received  : [[[org.apache.http.NoHttpResponseException: www.imsnsit.org:443 failed to respond
+	at org.apache.http....]]]
+
+****** comparison: [[[200                                                                                                    ]]]
+
+/",2096,0,20,20,https://www.imsnsit.org/imsnsit/nsithelp_doc.php,0,0,0
+1607000061034,3340,Notices,200,OK,Thread Group 1-8,text,false,"Test failed: text expected to equal /
+
+****** received  : [[[<title>NSUT NOTICES / CIRCULARS</title><LINK href='css/METAL/app.css' type=text/css rel=stylesheet>...]]]
+
+****** comparison: [[[200                                                                                                    ]]]
+
+/",45396,138,20,20,https://www.imsnsit.org/imsnsit/notifications.php,2592,0,2180
+1607000023200,41293,Notices,200,OK,Thread Group 1-4,text,false,"Test failed: text expected to equal /
+
+****** received  : [[[<title>NSUT NOTICES / CIRCULARS</title><LINK href='css/METAL/app.css' type=text/css rel=stylesheet>...]]]
+
+****** comparison: [[[200                                                                                                    ]]]
+
+/",45396,138,20,20,https://www.imsnsit.org/imsnsit/notifications.php,32244,0,13861
+1607000064495,1,HelpDoc,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: www.imsnsit.org:443 failed to respond,Thread Group 1-4,text,false,"Test failed: text expected to equal /
+
+****** received  : [[[org.apache.http.NoHttpResponseException: www.imsnsit.org:443 failed to respond
+	at org.apache.http....]]]
+
+****** comparison: [[[200                                                                                                    ]]]
+
+/",2096,0,20,20,https://www.imsnsit.org/imsnsit/nsithelp_doc.php,0,0,0
+1607000023194,41655,Notices,200,OK,Thread Group 1-3,text,false,"Test failed: text expected to equal /
+
+****** received  : [[[<title>NSUT NOTICES / CIRCULARS</title><LINK href='css/METAL/app.css' type=text/css rel=stylesheet>...]]]
+
+****** comparison: [[[200                                                                                                    ]]]
+
+/",45396,138,20,20,https://www.imsnsit.org/imsnsit/notifications.php,25572,0,9975
+1607000064851,1,HelpDoc,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: www.imsnsit.org:443 failed to respond,Thread Group 1-3,text,false,"Test failed: text expected to equal /
+
+****** received  : [[[org.apache.http.NoHttpResponseException: www.imsnsit.org:443 failed to respond
+	at org.apache.http....]]]
+
+****** comparison: [[[200                                                                                                    ]]]
+
+/",2096,0,20,20,https://www.imsnsit.org/imsnsit/nsithelp_doc.php,0,0,0
+1607000062626,2310,Notices,200,OK,Thread Group 1-1,text,false,"Test failed: text expected to equal /
+
+****** received  : [[[<title>NSUT NOTICES / CIRCULARS</title><LINK href='css/METAL/app.css' type=text/css rel=stylesheet>...]]]
+
+****** comparison: [[[200                                                                                                    ]]]
+
+/",45396,138,20,20,https://www.imsnsit.org/imsnsit/notifications.php,1560,0,826
+1607000023586,42231,Notices,200,OK,Thread Group 1-16,text,false,"Test failed: text expected to equal /
+
+****** received  : [[[<title>NSUT NOTICES / CIRCULARS</title><LINK href='css/METAL/app.css' type=text/css rel=stylesheet>...]]]
+
+****** comparison: [[[200                                                                                                    ]]]
+
+/",45396,138,20,20,https://www.imsnsit.org/imsnsit/notifications.php,23477,0,7903
+1607000065819,2,HelpDoc,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: www.imsnsit.org:443 failed to respond,Thread Group 1-16,text,false,"Test failed: text expected to equal /
+
+****** received  : [[[org.apache.http.NoHttpResponseException: www.imsnsit.org:443 failed to respond
+	at org.apache.http....]]]
+
+****** comparison: [[[200                                                                                                    ]]]
+
+/",2096,0,20,20,https://www.imsnsit.org/imsnsit/nsithelp_doc.php,0,0,0
+1607000064375,3658,HelpDoc,200,OK,Thread Group 1-8,text,false,"Test failed: text expected to equal /
+
+****** received  : [[[<LINK href='theme_grey/main.css' type=text/css rel=stylesheet>
+
+<script language=javascript>
+	functi...]]]
+
+****** comparison: [[[200                                                                                                    ]]]
+
+/",2571,267,20,20,https://www.imsnsit.org/imsnsit/blank.htm,887,0,0
+1607000064375,887,HelpDoc-0,302,Found,Thread Group 1-8,text,true,,782,137,20,20,https://www.imsnsit.org/imsnsit/nsithelp_doc.php,887,0,0
+1607000065262,2771,HelpDoc-1,200,OK,Thread Group 1-8,text,true,,1789,130,20,20,https://www.imsnsit.org/imsnsit/blank.htm,2771,0,0
+1607000064937,4214,HelpDoc,200,OK,Thread Group 1-1,text,false,"Test failed: text expected to equal /
+
+****** received  : [[[<LINK href='theme_grey/main.css' type=text/css rel=stylesheet>
+
+<script language=javascript>
+	functi...]]]
+
+****** comparison: [[[200                                                                                                    ]]]
+
+/",2571,267,20,20,https://www.imsnsit.org/imsnsit/blank.htm,2285,0,0
+1607000064937,2285,HelpDoc-0,302,Found,Thread Group 1-1,text,true,,782,137,20,20,https://www.imsnsit.org/imsnsit/nsithelp_doc.php,2285,0,0
+1607000067222,1929,HelpDoc-1,200,OK,Thread Group 1-1,text,true,,1789,130,20,20,https://www.imsnsit.org/imsnsit/blank.htm,1929,0,0
+1607000041161,41181,Notices,200,OK,Thread Group 1-9,text,false,"Test failed: text expected to equal /
+
+****** received  : [[[<title>NSUT NOTICES / CIRCULARS</title><LINK href='css/METAL/app.css' type=text/css rel=stylesheet>...]]]
+
+****** comparison: [[[200                                                                                                    ]]]
+
+/",45396,138,20,20,https://www.imsnsit.org/imsnsit/notifications.php,24180,0,17485
+1607000082342,2,HelpDoc,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: www.imsnsit.org:443 failed to respond,Thread Group 1-9,text,false,"Test failed: text expected to equal /
+
+****** received  : [[[org.apache.http.NoHttpResponseException: www.imsnsit.org:443 failed to respond
+	at org.apache.http....]]]
+
+****** comparison: [[[200                                                                                                    ]]]
+
+/",2096,0,20,20,https://www.imsnsit.org/imsnsit/nsithelp_doc.php,0,0,0
+1607000049449,35553,Notices,200,OK,Thread Group 1-20,text,false,"Test failed: text expected to equal /
+
+****** received  : [[[<title>NSUT NOTICES / CIRCULARS</title><LINK href='css/METAL/app.css' type=text/css rel=stylesheet>...]]]
+
+****** comparison: [[[200                                                                                                    ]]]
+
+/",45396,138,20,20,https://www.imsnsit.org/imsnsit/notifications.php,24029,0,9992
+1607000085003,1,HelpDoc,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: www.imsnsit.org:443 failed to respond,Thread Group 1-20,text,false,"Test failed: text expected to equal /
+
+****** received  : [[[org.apache.http.NoHttpResponseException: www.imsnsit.org:443 failed to respond
+	at org.apache.http....]]]
+
+****** comparison: [[[200                                                                                                    ]]]
+
+/",2096,0,20,20,https://www.imsnsit.org/imsnsit/nsithelp_doc.php,0,0,0
+1607000040915,44834,Notices,200,OK,Thread Group 1-15,text,false,"Test failed: text expected to equal /
+
+****** received  : [[[<title>NSUT NOTICES / CIRCULARS</title><LINK href='css/METAL/app.css' type=text/css rel=stylesheet>...]]]
+
+****** comparison: [[[200                                                                                                    ]]]
+
+/",45396,138,20,20,https://www.imsnsit.org/imsnsit/notifications.php,20064,0,14275
+1607000085750,1,HelpDoc,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: www.imsnsit.org:443 failed to respond,Thread Group 1-15,text,false,"Test failed: text expected to equal /
+
+****** received  : [[[org.apache.http.NoHttpResponseException: www.imsnsit.org:443 failed to respond
+	at org.apache.http....]]]
+
+****** comparison: [[[200                                                                                                    ]]]
+
+/",2096,0,20,20,https://www.imsnsit.org/imsnsit/nsithelp_doc.php,0,0,0
+1607000064853,29651,Notices,200,OK,Thread Group 1-3,text,false,"Test failed: text expected to equal /
+
+****** received  : [[[<title>NSUT NOTICES / CIRCULARS</title><LINK href='css/METAL/app.css' type=text/css rel=stylesheet>...]]]
+
+****** comparison: [[[200                                                                                                    ]]]
+
+/",45396,138,20,20,https://www.imsnsit.org/imsnsit/notifications.php,19719,0,4640
+1607000094505,1,HelpDoc,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: www.imsnsit.org:443 failed to respond,Thread Group 1-3,text,false,"Test failed: text expected to equal /
+
+****** received  : [[[org.apache.http.NoHttpResponseException: www.imsnsit.org:443 failed to respond
+	at org.apache.http....]]]
+
+****** comparison: [[[200                                                                                                    ]]]
+
+/",2096,0,20,20,https://www.imsnsit.org/imsnsit/nsithelp_doc.php,0,0,0
+1607000052990,50875,Notices,200,OK,Thread Group 1-5,text,false,"Test failed: text expected to equal /
+
+****** received  : [[[<title>NSUT NOTICES / CIRCULARS</title><LINK href='css/METAL/app.css' type=text/css rel=stylesheet>...]]]
+
+****** comparison: [[[200                                                                                                    ]]]
+
+/",45396,138,20,20,https://www.imsnsit.org/imsnsit/notifications.php,30752,0,7468
+1607000103868,2,HelpDoc,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: www.imsnsit.org:443 failed to respond,Thread Group 1-5,text,false,"Test failed: text expected to equal /
+
+****** received  : [[[org.apache.http.NoHttpResponseException: www.imsnsit.org:443 failed to respond
+	at org.apache.http....]]]
+
+****** comparison: [[[200                                                                                                    ]]]
+
+/",2096,0,20,20,https://www.imsnsit.org/imsnsit/nsithelp_doc.php,0,0,0
+1607000103871,8279,Notices,200,OK,Thread Group 1-5,text,false,"Test failed: text expected to equal /
+
+****** received  : [[[<title>NSUT NOTICES / CIRCULARS</title><LINK href='css/METAL/app.css' type=text/css rel=stylesheet>...]]]
+
+****** comparison: [[[200                                                                                                    ]]]
+
+/",45396,138,20,20,https://www.imsnsit.org/imsnsit/notifications.php,7923,0,7408
+1607000053490,58697,Notices,200,OK,Thread Group 1-14,text,false,"Test failed: text expected to equal /
+
+****** received  : [[[<title>NSUT NOTICES / CIRCULARS</title><LINK href='css/METAL/app.css' type=text/css rel=stylesheet>...]]]
+
+****** comparison: [[[200                                                                                                    ]]]
+
+/",45396,138,20,20,https://www.imsnsit.org/imsnsit/notifications.php,23837,0,4000
+1607000112188,1,HelpDoc,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: www.imsnsit.org:443 failed to respond,Thread Group 1-14,text,false,"Test failed: text expected to equal /
+
+****** received  : [[[org.apache.http.NoHttpResponseException: www.imsnsit.org:443 failed to respond
+	at org.apache.http....]]]
+
+****** comparison: [[[200                                                                                                    ]]]
+
+/",2096,0,20,20,https://www.imsnsit.org/imsnsit/nsithelp_doc.php,0,0,0
+1607000112151,227,HelpDoc,200,OK,Thread Group 1-5,text,false,"Test failed: text expected to equal /
+
+****** received  : [[[<LINK href='theme_grey/main.css' type=text/css rel=stylesheet>
+
+<script language=javascript>
+	functi...]]]
+
+****** comparison: [[[200                                                                                                    ]]]
+
+/",2571,267,20,20,https://www.imsnsit.org/imsnsit/blank.htm,123,0,0
+1607000112151,123,HelpDoc-0,302,Found,Thread Group 1-5,text,true,,782,137,20,20,https://www.imsnsit.org/imsnsit/nsithelp_doc.php,123,0,0
+1607000112274,104,HelpDoc-1,200,OK,Thread Group 1-5,text,true,,1789,130,20,20,https://www.imsnsit.org/imsnsit/blank.htm,104,0,0
+1607000085752,26765,Notices,200,OK,Thread Group 1-15,text,false,"Test failed: text expected to equal /
+
+****** received  : [[[<title>NSUT NOTICES / CIRCULARS</title><LINK href='css/METAL/app.css' type=text/css rel=stylesheet>...]]]
+
+****** comparison: [[[200                                                                                                    ]]]
+
+/",45396,138,20,20,https://www.imsnsit.org/imsnsit/notifications.php,26160,0,14863
+1607000112518,1,HelpDoc,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: www.imsnsit.org:443 failed to respond,Thread Group 1-15,text,false,"Test failed: text expected to equal /
+
+****** received  : [[[org.apache.http.NoHttpResponseException: www.imsnsit.org:443 failed to respond
+	at org.apache.http....]]]
+
+****** comparison: [[[200                                                                                                    ]]]
+
+/",2096,0,20,20,https://www.imsnsit.org/imsnsit/nsithelp_doc.php,0,0,0
+1607000112379,571,Notices,200,OK,Thread Group 1-5,text,false,"Test failed: text expected to equal /
+
+****** received  : [[[<title>NSUT NOTICES / CIRCULARS</title><LINK href='css/METAL/app.css' type=text/css rel=stylesheet>...]]]
+
+****** comparison: [[[200                                                                                                    ]]]
+
+/",45395,138,20,20,https://www.imsnsit.org/imsnsit/notifications.php,282,0,0
+1607000112190,983,Notices,200,OK,Thread Group 1-14,text,false,"Test failed: text expected to equal /
+
+****** received  : [[[<title>NSUT NOTICES / CIRCULARS</title><LINK href='css/METAL/app.css' type=text/css rel=stylesheet>...]]]
+
+****** comparison: [[[200                                                                                                    ]]]
+
+/",45396,138,20,20,https://www.imsnsit.org/imsnsit/notifications.php,687,0,389
+1607000041619,71559,Notices,200,OK,Thread Group 1-19,text,false,"Test failed: text expected to equal /
+
+****** received  : [[[<title>NSUT NOTICES / CIRCULARS</title><LINK href='css/METAL/app.css' type=text/css rel=stylesheet>...]]]
+
+****** comparison: [[[200                                                                                                    ]]]
+
+/",45396,138,20,20,https://www.imsnsit.org/imsnsit/notifications.php,18644,0,13838
+1607000112951,375,HelpDoc,200,OK,Thread Group 1-5,text,false,"Test failed: text expected to equal /
+
+****** received  : [[[<LINK href='theme_grey/main.css' type=text/css rel=stylesheet>
+
+<script language=javascript>
+	functi...]]]
+
+****** comparison: [[[200                                                                                                    ]]]
+
+/",2571,267,20,20,https://www.imsnsit.org/imsnsit/blank.htm,139,0,0
+1607000112951,139,HelpDoc-0,302,Found,Thread Group 1-5,text,true,,782,137,20,20,https://www.imsnsit.org/imsnsit/nsithelp_doc.php,139,0,0
+1607000113091,235,HelpDoc-1,200,OK,Thread Group 1-5,text,true,,1789,130,20,20,https://www.imsnsit.org/imsnsit/blank.htm,235,0,0
+1607000065822,47583,Notices,200,OK,Thread Group 1-16,text,false,"Test failed: text expected to equal /
+
+****** received  : [[[<title>NSUT NOTICES / CIRCULARS</title><LINK href='css/METAL/app.css' type=text/css rel=stylesheet>...]]]
+
+****** comparison: [[[200                                                                                                    ]]]
+
+/",45396,138,19,19,https://www.imsnsit.org/imsnsit/notifications.php,38759,0,13870
+1607000113406,1,HelpDoc,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: www.imsnsit.org:443 failed to respond,Thread Group 1-16,text,false,"Test failed: text expected to equal /
+
+****** received  : [[[org.apache.http.NoHttpResponseException: www.imsnsit.org:443 failed to respond
+	at org.apache.http....]]]
+
+****** comparison: [[[200                                                                                                    ]]]
+
+/",2096,0,19,19,https://www.imsnsit.org/imsnsit/nsithelp_doc.php,0,0,0
+1607000064497,49006,Notices,200,OK,Thread Group 1-4,text,false,"Test failed: text expected to equal /
+
+****** received  : [[[<title>NSUT NOTICES / CIRCULARS</title><LINK href='css/METAL/app.css' type=text/css rel=stylesheet>...]]]
+
+****** comparison: [[[200                                                                                                    ]]]
+
+/",45396,138,19,19,https://www.imsnsit.org/imsnsit/notifications.php,48331,0,47726
+1607000113174,379,HelpDoc,200,OK,Thread Group 1-14,text,false,"Test failed: text expected to equal /
+
+****** received  : [[[<LINK href='theme_grey/main.css' type=text/css rel=stylesheet>
+
+<script language=javascript>
+	functi...]]]
+
+****** comparison: [[[200                                                                                                    ]]]
+
+/",2571,267,19,19,https://www.imsnsit.org/imsnsit/blank.htm,223,0,0
+1607000113174,223,HelpDoc-0,302,Found,Thread Group 1-14,text,true,,782,137,19,19,https://www.imsnsit.org/imsnsit/nsithelp_doc.php,223,0,0
+1607000113398,155,HelpDoc-1,200,OK,Thread Group 1-14,text,true,,1789,130,19,19,https://www.imsnsit.org/imsnsit/blank.htm,155,0,0
+1607000060839,52885,Notices,200,OK,Thread Group 1-6,text,false,"Test failed: text expected to equal /
+
+****** received  : [[[<title>NSUT NOTICES / CIRCULARS</title><LINK href='css/METAL/app.css' type=text/css rel=stylesheet>...]]]
+
+****** comparison: [[[200                                                                                                    ]]]
+
+/",45396,138,19,19,https://www.imsnsit.org/imsnsit/notifications.php,42024,0,4968
+1607000113724,1,HelpDoc,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: www.imsnsit.org:443 failed to respond,Thread Group 1-6,text,false,"Test failed: text expected to equal /
+
+****** received  : [[[org.apache.http.NoHttpResponseException: www.imsnsit.org:443 failed to respond
+	at org.apache.http....]]]
+
+****** comparison: [[[200                                                                                                    ]]]
+
+/",2096,0,19,19,https://www.imsnsit.org/imsnsit/nsithelp_doc.php,0,0,0
+1607000112520,1382,Notices,200,OK,Thread Group 1-15,text,false,"Test failed: text expected to equal /
+
+****** received  : [[[<title>NSUT NOTICES / CIRCULARS</title><LINK href='css/METAL/app.css' type=text/css rel=stylesheet>...]]]
+
+****** comparison: [[[200                                                                                                    ]]]
+
+/",45396,138,19,19,https://www.imsnsit.org/imsnsit/notifications.php,890,0,455
+1607000113504,407,HelpDoc,200,OK,Thread Group 1-4,text,false,"Test failed: text expected to equal /
+
+****** received  : [[[<LINK href='theme_grey/main.css' type=text/css rel=stylesheet>
+
+<script language=javascript>
+	functi...]]]
+
+****** comparison: [[[200                                                                                                    ]]]
+
+/",2571,267,19,19,https://www.imsnsit.org/imsnsit/blank.htm,215,0,0
+1607000113504,215,HelpDoc-0,302,Found,Thread Group 1-4,text,true,,782,137,19,19,https://www.imsnsit.org/imsnsit/nsithelp_doc.php,215,0,0
+1607000113720,191,HelpDoc-1,200,OK,Thread Group 1-4,text,true,,1789,130,19,19,https://www.imsnsit.org/imsnsit/blank.htm,191,0,0
+1607000113179,1104,HelpDoc,200,OK,Thread Group 1-19,text,false,"Test failed: text expected to equal /
+
+****** received  : [[[<LINK href='theme_grey/main.css' type=text/css rel=stylesheet>
+
+<script language=javascript>
+	functi...]]]
+
+****** comparison: [[[200                                                                                                    ]]]
+
+/",2572,267,19,19,https://www.imsnsit.org/imsnsit/blank.htm,881,0,700
+1607000113179,881,HelpDoc-0,302,Found,Thread Group 1-19,text,true,,783,137,19,19,https://www.imsnsit.org/imsnsit/nsithelp_doc.php,881,0,700
+1607000114060,223,HelpDoc-1,200,OK,Thread Group 1-19,text,true,,1789,130,19,19,https://www.imsnsit.org/imsnsit/blank.htm,223,0,0
+1607000113903,399,HelpDoc,200,OK,Thread Group 1-15,text,false,"Test failed: text expected to equal /
+
+****** received  : [[[<LINK href='theme_grey/main.css' type=text/css rel=stylesheet>
+
+<script language=javascript>
+	functi...]]]
+
+****** comparison: [[[200                                                                                                    ]]]
+
+/",2571,267,19,19,https://www.imsnsit.org/imsnsit/blank.htm,208,0,0
+1607000113903,208,HelpDoc-0,302,Found,Thread Group 1-15,text,true,,782,137,19,19,https://www.imsnsit.org/imsnsit/nsithelp_doc.php,208,0,0
+1607000114111,191,HelpDoc-1,200,OK,Thread Group 1-15,text,true,,1789,130,19,19,https://www.imsnsit.org/imsnsit/blank.htm,191,0,0
+1607000113554,749,Notices,200,OK,Thread Group 1-14,text,false,"Test failed: text expected to equal /
+
+****** received  : [[[<title>NSUT NOTICES / CIRCULARS</title><LINK href='css/METAL/app.css' type=text/css rel=stylesheet>...]]]
+
+****** comparison: [[[200                                                                                                    ]]]
+
+/",45395,138,19,19,https://www.imsnsit.org/imsnsit/notifications.php,407,0,0
+1607000054204,60241,Notices,200,OK,Thread Group 1-18,text,false,"Test failed: text expected to equal /
+
+****** received  : [[[<title>NSUT NOTICES / CIRCULARS</title><LINK href='css/METAL/app.css' type=text/css rel=stylesheet>...]]]
+
+****** comparison: [[[200                                                                                                    ]]]
+
+/",45396,138,19,19,https://www.imsnsit.org/imsnsit/notifications.php,50055,0,6457
+1607000114304,354,HelpDoc,200,OK,Thread Group 1-14,text,false,"Test failed: text expected to equal /
+
+****** received  : [[[<LINK href='theme_grey/main.css' type=text/css rel=stylesheet>
+
+<script language=javascript>
+	functi...]]]
+
+****** comparison: [[[200                                                                                                    ]]]
+
+/",2571,267,19,19,https://www.imsnsit.org/imsnsit/blank.htm,141,0,0
+1607000114304,141,HelpDoc-0,302,Found,Thread Group 1-14,text,true,,782,137,19,19,https://www.imsnsit.org/imsnsit/nsithelp_doc.php,141,0,0
+1607000114445,213,HelpDoc-1,200,OK,Thread Group 1-14,text,true,,1789,130,19,19,https://www.imsnsit.org/imsnsit/blank.htm,213,0,0
+1607000113408,1344,Notices,200,OK,Thread Group 1-16,text,false,"Test failed: text expected to equal /
+
+****** received  : [[[<title>NSUT NOTICES / CIRCULARS</title><LINK href='css/METAL/app.css' type=text/css rel=stylesheet>...]]]
+
+****** comparison: [[[200                                                                                                    ]]]
+
+/",45396,138,19,19,https://www.imsnsit.org/imsnsit/notifications.php,979,0,566
+1607000113912,977,Notices,200,OK,Thread Group 1-4,text,false,"Test failed: text expected to equal /
+
+****** received  : [[[<title>NSUT NOTICES / CIRCULARS</title><LINK href='css/METAL/app.css' type=text/css rel=stylesheet>...]]]
+
+****** comparison: [[[200                                                                                                    ]]]
+
+/",45395,138,19,19,https://www.imsnsit.org/imsnsit/notifications.php,448,0,0
+1607000114303,709,Notices,200,OK,Thread Group 1-15,text,false,"Test failed: text expected to equal /
+
+****** received  : [[[<title>NSUT NOTICES / CIRCULARS</title><LINK href='css/METAL/app.css' type=text/css rel=stylesheet>...]]]
+
+****** comparison: [[[200                                                                                                    ]]]
+
+/",45395,138,19,19,https://www.imsnsit.org/imsnsit/notifications.php,424,0,0
+1607000114284,789,Notices,200,OK,Thread Group 1-19,text,false,"Test failed: text expected to equal /
+
+****** received  : [[[<title>NSUT NOTICES / CIRCULARS</title><LINK href='css/METAL/app.css' type=text/css rel=stylesheet>...]]]
+
+****** comparison: [[[200                                                                                                    ]]]
+
+/",45395,138,19,19,https://www.imsnsit.org/imsnsit/notifications.php,379,0,0
+1607000114753,412,HelpDoc,200,OK,Thread Group 1-16,text,false,"Test failed: text expected to equal /
+
+****** received  : [[[<LINK href='theme_grey/main.css' type=text/css rel=stylesheet>
+
+<script language=javascript>
+	functi...]]]
+
+****** comparison: [[[200                                                                                                    ]]]
+
+/",2571,267,19,19,https://www.imsnsit.org/imsnsit/blank.htm,246,0,0
+1607000114753,246,HelpDoc-0,302,Found,Thread Group 1-16,text,true,,782,137,19,19,https://www.imsnsit.org/imsnsit/nsithelp_doc.php,246,0,0
+1607000115000,165,HelpDoc-1,200,OK,Thread Group 1-16,text,true,,1789,130,19,19,https://www.imsnsit.org/imsnsit/blank.htm,165,0,0
+1607000113726,1473,Notices,200,OK,Thread Group 1-6,text,false,"Test failed: text expected to equal /
+
+****** received  : [[[<title>NSUT NOTICES / CIRCULARS</title><LINK href='css/METAL/app.css' type=text/css rel=stylesheet>...]]]
+
+****** comparison: [[[200                                                                                                    ]]]
+
+/",45396,138,19,19,https://www.imsnsit.org/imsnsit/notifications.php,1051,0,660
+1607000114658,588,Notices,200,OK,Thread Group 1-14,text,false,"Test failed: text expected to equal /
+
+****** received  : [[[<title>NSUT NOTICES / CIRCULARS</title><LINK href='css/METAL/app.css' type=text/css rel=stylesheet>...]]]
+
+****** comparison: [[[200                                                                                                    ]]]
+
+/",45395,138,19,19,https://www.imsnsit.org/imsnsit/notifications.php,451,0,0
+1607000114890,356,HelpDoc,200,OK,Thread Group 1-4,text,false,"Test failed: text expected to equal /
+
+****** received  : [[[<LINK href='theme_grey/main.css' type=text/css rel=stylesheet>
+
+<script language=javascript>
+	functi...]]]
+
+****** comparison: [[[200                                                                                                    ]]]
+
+/",2571,267,19,19,https://www.imsnsit.org/imsnsit/blank.htm,206,0,0
+1607000114890,206,HelpDoc-0,302,Found,Thread Group 1-4,text,true,,782,137,19,19,https://www.imsnsit.org/imsnsit/nsithelp_doc.php,206,0,0
+1607000115097,149,HelpDoc-1,200,OK,Thread Group 1-4,text,true,,1789,130,19,19,https://www.imsnsit.org/imsnsit/blank.htm,149,0,0
+1607000115074,232,HelpDoc,200,OK,Thread Group 1-19,text,false,"Test failed: text expected to equal /
+
+****** received  : [[[<LINK href='theme_grey/main.css' type=text/css rel=stylesheet>
+
+<script language=javascript>
+	functi...]]]
+
+****** comparison: [[[200                                                                                                    ]]]
+
+/",2571,267,19,19,https://www.imsnsit.org/imsnsit/blank.htm,135,0,0
+1607000115074,135,HelpDoc-0,302,Found,Thread Group 1-19,text,true,,782,137,19,19,https://www.imsnsit.org/imsnsit/nsithelp_doc.php,135,0,0
+1607000115209,97,HelpDoc-1,200,OK,Thread Group 1-19,text,true,,1789,130,19,19,https://www.imsnsit.org/imsnsit/blank.htm,97,0,0
+1607000115012,300,HelpDoc,200,OK,Thread Group 1-15,text,false,"Test failed: text expected to equal /
+
+****** received  : [[[<LINK href='theme_grey/main.css' type=text/css rel=stylesheet>
+
+<script language=javascript>
+	functi...]]]
+
+****** comparison: [[[200                                                                                                    ]]]
+
+/",2571,267,19,19,https://www.imsnsit.org/imsnsit/blank.htm,187,0,0
+1607000115012,187,HelpDoc-0,302,Found,Thread Group 1-15,text,true,,782,137,19,19,https://www.imsnsit.org/imsnsit/nsithelp_doc.php,187,0,0
+1607000115199,113,HelpDoc-1,200,OK,Thread Group 1-15,text,true,,1789,130,19,19,https://www.imsnsit.org/imsnsit/blank.htm,113,0,0
+1607000114446,926,HelpDoc,200,OK,Thread Group 1-18,text,false,"Test failed: text expected to equal /
+
+****** received  : [[[<LINK href='theme_grey/main.css' type=text/css rel=stylesheet>
+
+<script language=javascript>
+	functi...]]]
+
+****** comparison: [[[200                                                                                                    ]]]
+
+/",2572,267,18,18,https://www.imsnsit.org/imsnsit/blank.htm,800,0,696
+1607000114446,800,HelpDoc-0,302,Found,Thread Group 1-18,text,true,,783,137,18,18,https://www.imsnsit.org/imsnsit/nsithelp_doc.php,800,0,696
+1607000115247,125,HelpDoc-1,200,OK,Thread Group 1-18,text,true,,1789,130,18,18,https://www.imsnsit.org/imsnsit/blank.htm,125,0,0
+1607000063779,51602,Notices,200,OK,Thread Group 1-2,text,false,"Test failed: text expected to equal /
+
+****** received  : [[[<title>NSUT NOTICES / CIRCULARS</title><LINK href='css/METAL/app.css' type=text/css rel=stylesheet>...]]]
+
+****** comparison: [[[200                                                                                                    ]]]
+
+/",45396,138,18,18,https://www.imsnsit.org/imsnsit/notifications.php,30942,0,6274
+1607000115382,1,HelpDoc,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: www.imsnsit.org:443 failed to respond,Thread Group 1-2,text,false,"Test failed: text expected to equal /
+
+****** received  : [[[org.apache.http.NoHttpResponseException: www.imsnsit.org:443 failed to respond
+	at org.apache.http....]]]
+
+****** comparison: [[[200                                                                                                    ]]]
+
+/",2096,0,18,18,https://www.imsnsit.org/imsnsit/nsithelp_doc.php,0,0,0
+1607000115200,230,HelpDoc,200,OK,Thread Group 1-6,text,false,"Test failed: text expected to equal /
+
+****** received  : [[[<LINK href='theme_grey/main.css' type=text/css rel=stylesheet>
+
+<script language=javascript>
+	functi...]]]
+
+****** comparison: [[[200                                                                                                    ]]]
+
+/",2571,267,18,18,https://www.imsnsit.org/imsnsit/blank.htm,106,0,0
+1607000115200,106,HelpDoc-0,302,Found,Thread Group 1-6,text,true,,782,137,18,18,https://www.imsnsit.org/imsnsit/nsithelp_doc.php,106,0,0
+1607000115306,124,HelpDoc-1,200,OK,Thread Group 1-6,text,true,,1789,130,18,18,https://www.imsnsit.org/imsnsit/blank.htm,124,0,0
+1607000115247,242,HelpDoc,200,OK,Thread Group 1-14,text,false,"Test failed: text expected to equal /
+
+****** received  : [[[<LINK href='theme_grey/main.css' type=text/css rel=stylesheet>
+
+<script language=javascript>
+	functi...]]]
+
+****** comparison: [[[200                                                                                                    ]]]
+
+/",2571,267,18,18,https://www.imsnsit.org/imsnsit/blank.htm,110,0,0
+1607000115247,110,HelpDoc-0,302,Found,Thread Group 1-14,text,true,,782,137,18,18,https://www.imsnsit.org/imsnsit/nsithelp_doc.php,110,0,0
+1607000115357,132,HelpDoc-1,200,OK,Thread Group 1-14,text,true,,1789,130,18,18,https://www.imsnsit.org/imsnsit/blank.htm,132,0,0
+1607000115165,472,Notices,200,OK,Thread Group 1-16,text,false,"Test failed: text expected to equal /
+
+****** received  : [[[<title>NSUT NOTICES / CIRCULARS</title><LINK href='css/METAL/app.css' type=text/css rel=stylesheet>...]]]
+
+****** comparison: [[[200                                                                                                    ]]]
+
+/",45395,138,17,17,https://www.imsnsit.org/imsnsit/notifications.php,305,0,0
+1607000115307,444,Notices,200,OK,Thread Group 1-19,text,false,"Test failed: text expected to equal /
+
+****** received  : [[[<title>NSUT NOTICES / CIRCULARS</title><LINK href='css/METAL/app.css' type=text/css rel=stylesheet>...]]]
+
+****** comparison: [[[200                                                                                                    ]]]
+
+/",45395,138,17,17,https://www.imsnsit.org/imsnsit/notifications.php,271,0,0
+1607000115247,504,Notices,200,OK,Thread Group 1-4,text,false,"Test failed: text expected to equal /
+
+****** received  : [[[<title>NSUT NOTICES / CIRCULARS</title><LINK href='css/METAL/app.css' type=text/css rel=stylesheet>...]]]
+
+****** comparison: [[[200                                                                                                    ]]]
+
+/",45395,138,17,17,https://www.imsnsit.org/imsnsit/notifications.php,257,0,0
+1607000115637,240,HelpDoc,200,OK,Thread Group 1-16,text,false,"Test failed: text expected to equal /
+
+****** received  : [[[<LINK href='theme_grey/main.css' type=text/css rel=stylesheet>
+
+<script language=javascript>
+	functi...]]]
+
+****** comparison: [[[200                                                                                                    ]]]
+
+/",2571,267,17,17,https://www.imsnsit.org/imsnsit/blank.htm,114,0,0
+1607000115637,114,HelpDoc-0,302,Found,Thread Group 1-16,text,true,,782,137,17,17,https://www.imsnsit.org/imsnsit/nsithelp_doc.php,114,0,0
+1607000115751,126,HelpDoc-1,200,OK,Thread Group 1-16,text,true,,1789,130,17,17,https://www.imsnsit.org/imsnsit/blank.htm,126,0,0
+1607000115430,459,Notices,200,OK,Thread Group 1-6,text,false,"Test failed: text expected to equal /
+
+****** received  : [[[<title>NSUT NOTICES / CIRCULARS</title><LINK href='css/METAL/app.css' type=text/css rel=stylesheet>...]]]
+
+****** comparison: [[[200                                                                                                    ]]]
+
+/",45395,138,17,17,https://www.imsnsit.org/imsnsit/notifications.php,253,0,0
+1607000115373,555,Notices,200,OK,Thread Group 1-18,text,false,"Test failed: text expected to equal /
+
+****** received  : [[[<title>NSUT NOTICES / CIRCULARS</title><LINK href='css/METAL/app.css' type=text/css rel=stylesheet>...]]]
+
+****** comparison: [[[200                                                                                                    ]]]
+
+/",45395,138,17,17,https://www.imsnsit.org/imsnsit/notifications.php,292,0,0
+1607000115751,230,HelpDoc,200,OK,Thread Group 1-19,text,false,"Test failed: text expected to equal /
+
+****** received  : [[[<LINK href='theme_grey/main.css' type=text/css rel=stylesheet>
+
+<script language=javascript>
+	functi...]]]
+
+****** comparison: [[[200                                                                                                    ]]]
+
+/",2571,267,17,17,https://www.imsnsit.org/imsnsit/blank.htm,126,0,0
+1607000115751,126,HelpDoc-0,302,Found,Thread Group 1-19,text,true,,782,137,17,17,https://www.imsnsit.org/imsnsit/nsithelp_doc.php,126,0,0
+1607000115877,104,HelpDoc-1,200,OK,Thread Group 1-19,text,true,,1789,130,17,17,https://www.imsnsit.org/imsnsit/blank.htm,104,0,0
+1607000115752,234,HelpDoc,200,OK,Thread Group 1-4,text,false,"Test failed: text expected to equal /
+
+****** received  : [[[<LINK href='theme_grey/main.css' type=text/css rel=stylesheet>
+
+<script language=javascript>
+	functi...]]]
+
+****** comparison: [[[200                                                                                                    ]]]
+
+/",2571,267,17,17,https://www.imsnsit.org/imsnsit/blank.htm,125,0,0
+1607000115752,125,HelpDoc-0,302,Found,Thread Group 1-4,text,true,,782,137,17,17,https://www.imsnsit.org/imsnsit/nsithelp_doc.php,125,0,0
+1607000115877,109,HelpDoc-1,200,OK,Thread Group 1-4,text,true,,1789,130,17,17,https://www.imsnsit.org/imsnsit/blank.htm,109,0,0
+1607000055320,60778,Notices,200,OK,Thread Group 1-10,text,false,"Test failed: text expected to equal /
+
+****** received  : [[[<title>NSUT NOTICES / CIRCULARS</title><LINK href='css/METAL/app.css' type=text/css rel=stylesheet>...]]]
+
+****** comparison: [[[200                                                                                                    ]]]
+
+/",45396,138,17,17,https://www.imsnsit.org/imsnsit/notifications.php,45185,0,19033
+1607000115890,228,HelpDoc,200,OK,Thread Group 1-6,text,false,"Test failed: text expected to equal /
+
+****** received  : [[[<LINK href='theme_grey/main.css' type=text/css rel=stylesheet>
+
+<script language=javascript>
+	functi...]]]
+
+****** comparison: [[[200                                                                                                    ]]]
+
+/",2571,267,17,17,https://www.imsnsit.org/imsnsit/blank.htm,102,0,0
+1607000115890,102,HelpDoc-0,302,Found,Thread Group 1-6,text,true,,782,137,17,17,https://www.imsnsit.org/imsnsit/nsithelp_doc.php,102,0,0
+1607000115992,126,HelpDoc-1,200,OK,Thread Group 1-6,text,true,,1789,130,17,17,https://www.imsnsit.org/imsnsit/blank.htm,126,0,0
+1607000085005,31120,Notices,200,OK,Thread Group 1-20,text,false,"Test failed: text expected to equal /
+
+****** received  : [[[<title>NSUT NOTICES / CIRCULARS</title><LINK href='css/METAL/app.css' type=text/css rel=stylesheet>...]]]
+
+****** comparison: [[[200                                                                                                    ]]]
+
+/",45396,138,17,17,https://www.imsnsit.org/imsnsit/notifications.php,30543,0,19570
+1607000116125,2,HelpDoc,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: www.imsnsit.org:443 failed to respond,Thread Group 1-20,text,false,"Test failed: text expected to equal /
+
+****** received  : [[[org.apache.http.NoHttpResponseException: www.imsnsit.org:443 failed to respond
+	at org.apache.http....]]]
+
+****** comparison: [[[200                                                                                                    ]]]
+
+/",2096,0,17,17,https://www.imsnsit.org/imsnsit/nsithelp_doc.php,0,0,0
+1607000115928,296,HelpDoc,200,OK,Thread Group 1-18,text,false,"Test failed: text expected to equal /
+
+****** received  : [[[<LINK href='theme_grey/main.css' type=text/css rel=stylesheet>
+
+<script language=javascript>
+	functi...]]]
+
+****** comparison: [[[200                                                                                                    ]]]
+
+/",2571,267,17,17,https://www.imsnsit.org/imsnsit/blank.htm,145,0,0
+1607000115928,145,HelpDoc-0,302,Found,Thread Group 1-18,text,true,,782,137,17,17,https://www.imsnsit.org/imsnsit/nsithelp_doc.php,145,0,0
+1607000116073,151,HelpDoc-1,200,OK,Thread Group 1-18,text,true,,1789,130,17,17,https://www.imsnsit.org/imsnsit/blank.htm,151,0,0
+1607000115878,416,Notices,200,OK,Thread Group 1-16,text,false,"Test failed: text expected to equal /
+
+****** received  : [[[<title>NSUT NOTICES / CIRCULARS</title><LINK href='css/METAL/app.css' type=text/css rel=stylesheet>...]]]
+
+****** comparison: [[[200                                                                                                    ]]]
+
+/",45395,138,17,17,https://www.imsnsit.org/imsnsit/notifications.php,289,0,0
+1607000115384,1006,Notices,200,OK,Thread Group 1-2,text,false,"Test failed: text expected to equal /
+
+****** received  : [[[<title>NSUT NOTICES / CIRCULARS</title><LINK href='css/METAL/app.css' type=text/css rel=stylesheet>...]]]
+
+****** comparison: [[[200                                                                                                    ]]]
+
+/",45396,138,17,17,https://www.imsnsit.org/imsnsit/notifications.php,714,0,412
+1607000115982,654,Notices,200,OK,Thread Group 1-19,text,false,"Test failed: text expected to equal /
+
+****** received  : [[[<title>NSUT NOTICES / CIRCULARS</title><LINK href='css/METAL/app.css' type=text/css rel=stylesheet>...]]]
+
+****** comparison: [[[200                                                                                                    ]]]
+
+/",45395,138,17,17,https://www.imsnsit.org/imsnsit/notifications.php,350,0,0
+1607000116119,693,Notices,200,OK,Thread Group 1-6,text,false,"Test failed: text expected to equal /
+
+****** received  : [[[<title>NSUT NOTICES / CIRCULARS</title><LINK href='css/METAL/app.css' type=text/css rel=stylesheet>...]]]
+
+****** comparison: [[[200                                                                                                    ]]]
+
+/",45395,138,17,17,https://www.imsnsit.org/imsnsit/notifications.php,187,0,0
+1607000115987,846,Notices,200,OK,Thread Group 1-4,text,false,"Test failed: text expected to equal /
+
+****** received  : [[[<title>NSUT NOTICES / CIRCULARS</title><LINK href='css/METAL/app.css' type=text/css rel=stylesheet>...]]]
+
+****** comparison: [[[200                                                                                                    ]]]
+
+/",45395,138,17,17,https://www.imsnsit.org/imsnsit/notifications.php,324,0,0
+1607000116295,563,HelpDoc,200,OK,Thread Group 1-16,text,false,"Test failed: text expected to equal /
+
+****** received  : [[[<LINK href='theme_grey/main.css' type=text/css rel=stylesheet>
+
+<script language=javascript>
+	functi...]]]
+
+****** comparison: [[[200                                                                                                    ]]]
+
+/",2571,267,17,17,https://www.imsnsit.org/imsnsit/blank.htm,284,0,0
+1607000116295,284,HelpDoc-0,302,Found,Thread Group 1-16,text,true,,782,137,17,17,https://www.imsnsit.org/imsnsit/nsithelp_doc.php,284,0,0
+1607000116579,279,HelpDoc-1,200,OK,Thread Group 1-16,text,true,,1789,130,17,17,https://www.imsnsit.org/imsnsit/blank.htm,279,0,0
+1607000116391,637,HelpDoc,200,OK,Thread Group 1-2,text,false,"Test failed: text expected to equal /
+
+****** received  : [[[<LINK href='theme_grey/main.css' type=text/css rel=stylesheet>
+
+<script language=javascript>
+	functi...]]]
+
+****** comparison: [[[200                                                                                                    ]]]
+
+/",2571,267,16,16,https://www.imsnsit.org/imsnsit/blank.htm,339,0,0
+1607000116391,339,HelpDoc-0,302,Found,Thread Group 1-2,text,true,,782,137,16,16,https://www.imsnsit.org/imsnsit/nsithelp_doc.php,339,0,0
+1607000116731,297,HelpDoc-1,200,OK,Thread Group 1-2,text,true,,1789,130,16,16,https://www.imsnsit.org/imsnsit/blank.htm,297,0,0
+1607000116224,890,Notices,200,OK,Thread Group 1-18,text,false,"Test failed: text expected to equal /
+
+****** received  : [[[<title>NSUT NOTICES / CIRCULARS</title><LINK href='css/METAL/app.css' type=text/css rel=stylesheet>...]]]
+
+****** comparison: [[[200                                                                                                    ]]]
+
+/",45395,138,16,16,https://www.imsnsit.org/imsnsit/notifications.php,420,0,0
+1607000116637,554,HelpDoc,200,OK,Thread Group 1-19,text,false,"Test failed: text expected to equal /
+
+****** received  : [[[<LINK href='theme_grey/main.css' type=text/css rel=stylesheet>
+
+<script language=javascript>
+	functi...]]]
+
+****** comparison: [[[200                                                                                                    ]]]
+
+/",2571,267,16,16,https://www.imsnsit.org/imsnsit/blank.htm,273,0,0
+1607000116637,273,HelpDoc-0,302,Found,Thread Group 1-19,text,true,,782,137,16,16,https://www.imsnsit.org/imsnsit/nsithelp_doc.php,273,0,0
+1607000116910,281,HelpDoc-1,200,OK,Thread Group 1-19,text,true,,1789,130,16,16,https://www.imsnsit.org/imsnsit/blank.htm,281,0,0
+1607000094507,22847,Notices,200,OK,Thread Group 1-3,text,false,"Test failed: text expected to equal /
+
+****** received  : [[[<title>NSUT NOTICES / CIRCULARS</title><LINK href='css/METAL/app.css' type=text/css rel=stylesheet>...]]]
+
+****** comparison: [[[200                                                                                                    ]]]
+
+/",45396,138,15,15,https://www.imsnsit.org/imsnsit/notifications.php,10421,0,9472
+1607000117355,1,HelpDoc,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: www.imsnsit.org:443 failed to respond,Thread Group 1-3,text,false,"Test failed: text expected to equal /
+
+****** received  : [[[org.apache.http.NoHttpResponseException: www.imsnsit.org:443 failed to respond
+	at org.apache.http....]]]
+
+****** comparison: [[[200                                                                                                    ]]]
+
+/",2096,0,15,15,https://www.imsnsit.org/imsnsit/nsithelp_doc.php,0,0,0
+1607000116813,650,HelpDoc,200,OK,Thread Group 1-6,text,false,"Test failed: text expected to equal /
+
+****** received  : [[[<LINK href='theme_grey/main.css' type=text/css rel=stylesheet>
+
+<script language=javascript>
+	functi...]]]
+
+****** comparison: [[[200                                                                                                    ]]]
+
+/",2571,267,15,15,https://www.imsnsit.org/imsnsit/blank.htm,293,0,0
+1607000116813,293,HelpDoc-0,302,Found,Thread Group 1-6,text,true,,782,137,15,15,https://www.imsnsit.org/imsnsit/nsithelp_doc.php,293,0,0
+1607000117107,356,HelpDoc-1,200,OK,Thread Group 1-6,text,true,,1789,130,15,15,https://www.imsnsit.org/imsnsit/blank.htm,356,0,0
+1607000116834,664,HelpDoc,200,OK,Thread Group 1-4,text,false,"Test failed: text expected to equal /
+
+****** received  : [[[<LINK href='theme_grey/main.css' type=text/css rel=stylesheet>
+
+<script language=javascript>
+	functi...]]]
+
+****** comparison: [[[200                                                                                                    ]]]
+
+/",2571,267,14,14,https://www.imsnsit.org/imsnsit/blank.htm,291,0,0
+1607000116834,291,HelpDoc-0,302,Found,Thread Group 1-4,text,true,,782,137,14,14,https://www.imsnsit.org/imsnsit/nsithelp_doc.php,291,0,0
+1607000117125,373,HelpDoc-1,200,OK,Thread Group 1-4,text,true,,1789,130,14,14,https://www.imsnsit.org/imsnsit/blank.htm,373,0,0
+1607000116099,1428,HelpDoc,200,OK,Thread Group 1-10,text,false,"Test failed: text expected to equal /
+
+****** received  : [[[<LINK href='theme_grey/main.css' type=text/css rel=stylesheet>
+
+<script language=javascript>
+	functi...]]]
+
+****** comparison: [[[200                                                                                                    ]]]
+
+/",2572,267,13,13,https://www.imsnsit.org/imsnsit/blank.htm,1092,0,776
+1607000116099,1092,HelpDoc-0,302,Found,Thread Group 1-10,text,true,,783,137,13,13,https://www.imsnsit.org/imsnsit/nsithelp_doc.php,1092,0,776
+1607000117191,336,HelpDoc-1,200,OK,Thread Group 1-10,text,true,,1789,130,13,13,https://www.imsnsit.org/imsnsit/blank.htm,336,0,0
+1607000117114,671,HelpDoc,200,OK,Thread Group 1-18,text,false,"Test failed: text expected to equal /
+
+****** received  : [[[<LINK href='theme_grey/main.css' type=text/css rel=stylesheet>
+
+<script language=javascript>
+	functi...]]]
+
+****** comparison: [[[200                                                                                                    ]]]
+
+/",2571,267,13,13,https://www.imsnsit.org/imsnsit/blank.htm,350,0,0
+1607000117114,350,HelpDoc-0,302,Found,Thread Group 1-18,text,true,,782,137,13,13,https://www.imsnsit.org/imsnsit/nsithelp_doc.php,350,0,0
+1607000117464,321,HelpDoc-1,200,OK,Thread Group 1-18,text,true,,1789,130,13,13,https://www.imsnsit.org/imsnsit/blank.htm,321,0,0
+1607000117028,1031,Notices,200,OK,Thread Group 1-2,text,false,"Test failed: text expected to equal /
+
+****** received  : [[[<title>NSUT NOTICES / CIRCULARS</title><LINK href='css/METAL/app.css' type=text/css rel=stylesheet>...]]]
+
+****** comparison: [[[200                                                                                                    ]]]
+
+/",45395,138,13,13,https://www.imsnsit.org/imsnsit/notifications.php,682,0,0
+1607000060871,57206,Notices,200,OK,Thread Group 1-12,text,false,"Test failed: text expected to equal /
+
+****** received  : [[[<title>NSUT NOTICES / CIRCULARS</title><LINK href='css/METAL/app.css' type=text/css rel=stylesheet>...]]]
+
+****** comparison: [[[200                                                                                                    ]]]
+
+/",45396,138,13,13,https://www.imsnsit.org/imsnsit/notifications.php,19016,0,6258
+1607000118077,1,HelpDoc,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: www.imsnsit.org:443 failed to respond,Thread Group 1-12,text,false,"Test failed: text expected to equal /
+
+****** received  : [[[org.apache.http.NoHttpResponseException: www.imsnsit.org:443 failed to respond
+	at org.apache.http....]]]
+
+****** comparison: [[[200                                                                                                    ]]]
+
+/",2096,0,13,13,https://www.imsnsit.org/imsnsit/nsithelp_doc.php,0,0,0
+1607000116127,2100,Notices,200,OK,Thread Group 1-20,text,false,"Test failed: text expected to equal /
+
+****** received  : [[[<title>NSUT NOTICES / CIRCULARS</title><LINK href='css/METAL/app.css' type=text/css rel=stylesheet>...]]]
+
+****** comparison: [[[200                                                                                                    ]]]
+
+/",45396,138,13,13,https://www.imsnsit.org/imsnsit/notifications.php,1466,0,748
+1607000118060,359,HelpDoc,200,OK,Thread Group 1-2,text,false,"Test failed: text expected to equal /
+
+****** received  : [[[<LINK href='theme_grey/main.css' type=text/css rel=stylesheet>
+
+<script language=javascript>
+	functi...]]]
+
+****** comparison: [[[200                                                                                                    ]]]
+
+/",2571,267,13,13,https://www.imsnsit.org/imsnsit/blank.htm,213,0,0
+1607000118060,213,HelpDoc-0,302,Found,Thread Group 1-2,text,true,,782,137,13,13,https://www.imsnsit.org/imsnsit/nsithelp_doc.php,213,0,0
+1607000118272,147,HelpDoc-1,200,OK,Thread Group 1-2,text,true,,1789,130,13,13,https://www.imsnsit.org/imsnsit/blank.htm,147,0,0
+1607000044450,73970,Notices,200,OK,Thread Group 1-7,text,false,"Test failed: text expected to equal /
+
+****** received  : [[[<title>NSUT NOTICES / CIRCULARS</title><LINK href='css/METAL/app.css' type=text/css rel=stylesheet>...]]]
+
+****** comparison: [[[200                                                                                                    ]]]
+
+/",45396,138,13,13,https://www.imsnsit.org/imsnsit/notifications.php,72849,0,12866
+1607000117786,692,Notices,200,OK,Thread Group 1-18,text,false,"Test failed: text expected to equal /
+
+****** received  : [[[<title>NSUT NOTICES / CIRCULARS</title><LINK href='css/METAL/app.css' type=text/css rel=stylesheet>...]]]
+
+****** comparison: [[[200                                                                                                    ]]]
+
+/",45395,138,12,12,https://www.imsnsit.org/imsnsit/notifications.php,495,0,0
+1607000117527,960,Notices,200,OK,Thread Group 1-10,text,false,"Test failed: text expected to equal /
+
+****** received  : [[[<title>NSUT NOTICES / CIRCULARS</title><LINK href='css/METAL/app.css' type=text/css rel=stylesheet>...]]]
+
+****** comparison: [[[200                                                                                                    ]]]
+
+/",45395,138,12,12,https://www.imsnsit.org/imsnsit/notifications.php,643,0,0
+1607000118227,328,HelpDoc,200,OK,Thread Group 1-20,text,false,"Test failed: text expected to equal /
+
+****** received  : [[[<LINK href='theme_grey/main.css' type=text/css rel=stylesheet>
+
+<script language=javascript>
+	functi...]]]
+
+****** comparison: [[[200                                                                                                    ]]]
+
+/",2571,267,12,12,https://www.imsnsit.org/imsnsit/blank.htm,201,0,0
+1607000118227,201,HelpDoc-0,302,Found,Thread Group 1-20,text,true,,782,137,12,12,https://www.imsnsit.org/imsnsit/nsithelp_doc.php,201,0,0
+1607000118428,127,HelpDoc-1,200,OK,Thread Group 1-20,text,true,,1789,130,12,12,https://www.imsnsit.org/imsnsit/blank.htm,127,0,0
+1607000118478,249,HelpDoc,200,OK,Thread Group 1-18,text,false,"Test failed: text expected to equal /
+
+****** received  : [[[<LINK href='theme_grey/main.css' type=text/css rel=stylesheet>
+
+<script language=javascript>
+	functi...]]]
+
+****** comparison: [[[200                                                                                                    ]]]
+
+/",2571,267,12,12,https://www.imsnsit.org/imsnsit/blank.htm,129,0,0
+1607000118478,129,HelpDoc-0,302,Found,Thread Group 1-18,text,true,,782,137,12,12,https://www.imsnsit.org/imsnsit/nsithelp_doc.php,129,0,0
+1607000118607,120,HelpDoc-1,200,OK,Thread Group 1-18,text,true,,1789,130,12,12,https://www.imsnsit.org/imsnsit/blank.htm,120,0,0
+1607000118487,240,HelpDoc,200,OK,Thread Group 1-10,text,false,"Test failed: text expected to equal /
+
+****** received  : [[[<LINK href='theme_grey/main.css' type=text/css rel=stylesheet>
+
+<script language=javascript>
+	functi...]]]
+
+****** comparison: [[[200                                                                                                    ]]]
+
+/",2571,267,12,12,https://www.imsnsit.org/imsnsit/blank.htm,130,0,0
+1607000118487,130,HelpDoc-0,302,Found,Thread Group 1-10,text,true,,782,137,12,12,https://www.imsnsit.org/imsnsit/nsithelp_doc.php,130,0,0
+1607000118617,110,HelpDoc-1,200,OK,Thread Group 1-10,text,true,,1789,130,12,12,https://www.imsnsit.org/imsnsit/blank.htm,110,0,0
+1607000117356,1432,Notices,200,OK,Thread Group 1-3,text,false,"Test failed: text expected to equal /
+
+****** received  : [[[<title>NSUT NOTICES / CIRCULARS</title><LINK href='css/METAL/app.css' type=text/css rel=stylesheet>...]]]
+
+****** comparison: [[[200                                                                                                    ]]]
+
+/",45396,138,11,11,https://www.imsnsit.org/imsnsit/notifications.php,1188,0,911
+1607000118555,599,Notices,200,OK,Thread Group 1-20,text,false,"Test failed: text expected to equal /
+
+****** received  : [[[<title>NSUT NOTICES / CIRCULARS</title><LINK href='css/METAL/app.css' type=text/css rel=stylesheet>...]]]
+
+****** comparison: [[[200                                                                                                    ]]]
+
+/",45395,138,11,11,https://www.imsnsit.org/imsnsit/notifications.php,283,0,0
+1607000068034,51125,Notices,200,OK,Thread Group 1-8,text,false,"Test failed: text expected to equal /
+
+****** received  : [[[<title>NSUT NOTICES / CIRCULARS</title><LINK href='css/METAL/app.css' type=text/css rel=stylesheet>...]]]
+
+****** comparison: [[[200                                                                                                    ]]]
+
+/",45395,138,11,11,https://www.imsnsit.org/imsnsit/notifications.php,11659,0,0
+1607000119159,1,HelpDoc,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: www.imsnsit.org:443 failed to respond,Thread Group 1-8,text,false,"Test failed: text expected to equal /
+
+****** received  : [[[org.apache.http.NoHttpResponseException: www.imsnsit.org:443 failed to respond
+	at org.apache.http....]]]
+
+****** comparison: [[[200                                                                                                    ]]]
+
+/",2096,0,11,11,https://www.imsnsit.org/imsnsit/nsithelp_doc.php,0,0,0
+1607000118420,744,HelpDoc,200,OK,Thread Group 1-7,text,false,"Test failed: text expected to equal /
+
+****** received  : [[[<LINK href='theme_grey/main.css' type=text/css rel=stylesheet>
+
+<script language=javascript>
+	functi...]]]
+
+****** comparison: [[[200                                                                                                    ]]]
+
+/",2572,267,11,11,https://www.imsnsit.org/imsnsit/blank.htm,543,0,365
+1607000118420,543,HelpDoc-0,302,Found,Thread Group 1-7,text,true,,783,137,11,11,https://www.imsnsit.org/imsnsit/nsithelp_doc.php,543,0,365
+1607000118964,200,HelpDoc-1,200,OK,Thread Group 1-7,text,true,,1789,130,11,11,https://www.imsnsit.org/imsnsit/blank.htm,200,0,0
+1607000118788,409,HelpDoc,200,OK,Thread Group 1-3,text,false,"Test failed: text expected to equal /
+
+****** received  : [[[<LINK href='theme_grey/main.css' type=text/css rel=stylesheet>
+
+<script language=javascript>
+	functi...]]]
+
+****** comparison: [[[200                                                                                                    ]]]
+
+/",2571,267,11,11,https://www.imsnsit.org/imsnsit/blank.htm,200,0,0
+1607000118788,200,HelpDoc-0,302,Found,Thread Group 1-3,text,true,,782,137,11,11,https://www.imsnsit.org/imsnsit/nsithelp_doc.php,200,0,0
+1607000118988,209,HelpDoc-1,200,OK,Thread Group 1-3,text,true,,1789,130,11,11,https://www.imsnsit.org/imsnsit/blank.htm,209,0,0
+1607000118728,591,Notices,200,OK,Thread Group 1-10,text,false,"Test failed: text expected to equal /
+
+****** received  : [[[<title>NSUT NOTICES / CIRCULARS</title><LINK href='css/METAL/app.css' type=text/css rel=stylesheet>...]]]
+
+****** comparison: [[[200                                                                                                    ]]]
+
+/",45395,138,11,11,https://www.imsnsit.org/imsnsit/notifications.php,383,0,0
+1607000118079,1246,Notices,200,OK,Thread Group 1-12,text,false,"Test failed: text expected to equal /
+
+****** received  : [[[<title>NSUT NOTICES / CIRCULARS</title><LINK href='css/METAL/app.css' type=text/css rel=stylesheet>...]]]
+
+****** comparison: [[[200                                                                                                    ]]]
+
+/",45396,138,11,11,https://www.imsnsit.org/imsnsit/notifications.php,919,0,551
+1607000119154,539,HelpDoc,200,OK,Thread Group 1-20,text,false,"Test failed: text expected to equal /
+
+****** received  : [[[<LINK href='theme_grey/main.css' type=text/css rel=stylesheet>
+
+<script language=javascript>
+	functi...]]]
+
+****** comparison: [[[200                                                                                                    ]]]
+
+/",2571,267,11,11,https://www.imsnsit.org/imsnsit/blank.htm,169,0,0
+1607000119154,169,HelpDoc-0,302,Found,Thread Group 1-20,text,true,,782,137,11,11,https://www.imsnsit.org/imsnsit/nsithelp_doc.php,169,0,0
+1607000119324,369,HelpDoc-1,200,OK,Thread Group 1-20,text,true,,1789,130,11,11,https://www.imsnsit.org/imsnsit/blank.htm,369,0,0
+1607000119325,866,HelpDoc,200,OK,Thread Group 1-12,text,false,"Test failed: text expected to equal /
+
+****** received  : [[[<LINK href='theme_grey/main.css' type=text/css rel=stylesheet>
+
+<script language=javascript>
+	functi...]]]
+
+****** comparison: [[[200                                                                                                    ]]]
+
+/",2571,267,10,10,https://www.imsnsit.org/imsnsit/blank.htm,318,0,0
+1607000119325,318,HelpDoc-0,302,Found,Thread Group 1-12,text,true,,782,137,10,10,https://www.imsnsit.org/imsnsit/nsithelp_doc.php,318,0,0
+1607000119643,548,HelpDoc-1,200,OK,Thread Group 1-12,text,true,,1789,130,10,10,https://www.imsnsit.org/imsnsit/blank.htm,548,0,0
+1607000119320,877,HelpDoc,200,OK,Thread Group 1-10,text,false,"Test failed: text expected to equal /
+
+****** received  : [[[<LINK href='theme_grey/main.css' type=text/css rel=stylesheet>
+
+<script language=javascript>
+	functi...]]]
+
+****** comparison: [[[200                                                                                                    ]]]
+
+/",2571,267,10,10,https://www.imsnsit.org/imsnsit/blank.htm,323,0,0
+1607000119320,323,HelpDoc-0,302,Found,Thread Group 1-10,text,true,,782,137,10,10,https://www.imsnsit.org/imsnsit/nsithelp_doc.php,323,0,0
+1607000119643,554,HelpDoc-1,200,OK,Thread Group 1-10,text,true,,1789,130,10,10,https://www.imsnsit.org/imsnsit/blank.htm,554,0,0
+1607000119197,1370,Notices,200,OK,Thread Group 1-3,text,false,"Test failed: text expected to equal /
+
+****** received  : [[[<title>NSUT NOTICES / CIRCULARS</title><LINK href='css/METAL/app.css' type=text/css rel=stylesheet>...]]]
+
+****** comparison: [[[200                                                                                                    ]]]
+
+/",45395,138,10,10,https://www.imsnsit.org/imsnsit/notifications.php,680,0,0
+1607000119164,1506,Notices,200,OK,Thread Group 1-7,text,false,"Test failed: text expected to equal /
+
+****** received  : [[[<title>NSUT NOTICES / CIRCULARS</title><LINK href='css/METAL/app.css' type=text/css rel=stylesheet>...]]]
+
+****** comparison: [[[200                                                                                                    ]]]
+
+/",45395,138,10,10,https://www.imsnsit.org/imsnsit/notifications.php,552,0,0
+1607000082345,38565,Notices,200,OK,Thread Group 1-9,text,false,"Test failed: text expected to equal /
+
+****** received  : [[[<title>NSUT NOTICES / CIRCULARS</title><LINK href='css/METAL/app.css' type=text/css rel=stylesheet>...]]]
+
+****** comparison: [[[200                                                                                                    ]]]
+
+/",45396,138,10,10,https://www.imsnsit.org/imsnsit/notifications.php,36865,0,18195
+1607000120910,1,HelpDoc,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: www.imsnsit.org:443 failed to respond,Thread Group 1-9,text,false,"Test failed: text expected to equal /
+
+****** received  : [[[org.apache.http.NoHttpResponseException: www.imsnsit.org:443 failed to respond
+	at org.apache.http....]]]
+
+****** comparison: [[[200                                                                                                    ]]]
+
+/",2096,0,10,10,https://www.imsnsit.org/imsnsit/nsithelp_doc.php,0,0,0
+1607000120567,665,HelpDoc,200,OK,Thread Group 1-3,text,false,"Test failed: text expected to equal /
+
+****** received  : [[[<LINK href='theme_grey/main.css' type=text/css rel=stylesheet>
+
+<script language=javascript>
+	functi...]]]
+
+****** comparison: [[[200                                                                                                    ]]]
+
+/",2571,267,10,10,https://www.imsnsit.org/imsnsit/blank.htm,353,0,0
+1607000120567,353,HelpDoc-0,302,Found,Thread Group 1-3,text,true,,782,137,10,10,https://www.imsnsit.org/imsnsit/nsithelp_doc.php,353,0,0
+1607000120920,312,HelpDoc-1,200,OK,Thread Group 1-3,text,true,,1789,130,10,10,https://www.imsnsit.org/imsnsit/blank.htm,312,0,0
+1607000120671,566,HelpDoc,200,OK,Thread Group 1-7,text,false,"Test failed: text expected to equal /
+
+****** received  : [[[<LINK href='theme_grey/main.css' type=text/css rel=stylesheet>
+
+<script language=javascript>
+	functi...]]]
+
+****** comparison: [[[200                                                                                                    ]]]
+
+/",2571,267,9,9,https://www.imsnsit.org/imsnsit/blank.htm,282,0,0
+1607000120671,282,HelpDoc-0,302,Found,Thread Group 1-7,text,true,,782,137,9,9,https://www.imsnsit.org/imsnsit/nsithelp_doc.php,282,0,0
+1607000120953,284,HelpDoc-1,200,OK,Thread Group 1-7,text,true,,1789,130,9,9,https://www.imsnsit.org/imsnsit/blank.htm,284,0,0
+1607000120197,1295,Notices,200,OK,Thread Group 1-10,text,false,"Test failed: text expected to equal /
+
+****** received  : [[[<title>NSUT NOTICES / CIRCULARS</title><LINK href='css/METAL/app.css' type=text/css rel=stylesheet>...]]]
+
+****** comparison: [[[200                                                                                                    ]]]
+
+/",45395,138,9,9,https://www.imsnsit.org/imsnsit/notifications.php,756,0,0
+1607000120192,1300,Notices,200,OK,Thread Group 1-12,text,false,"Test failed: text expected to equal /
+
+****** received  : [[[<title>NSUT NOTICES / CIRCULARS</title><LINK href='css/METAL/app.css' type=text/css rel=stylesheet>...]]]
+
+****** comparison: [[[200                                                                                                    ]]]
+
+/",45395,138,9,9,https://www.imsnsit.org/imsnsit/notifications.php,761,0,0
+1607000119161,2600,Notices,200,OK,Thread Group 1-8,text,false,"Test failed: text expected to equal /
+
+****** received  : [[[<title>NSUT NOTICES / CIRCULARS</title><LINK href='css/METAL/app.css' type=text/css rel=stylesheet>...]]]
+
+****** comparison: [[[200                                                                                                    ]]]
+
+/",45396,138,9,9,https://www.imsnsit.org/imsnsit/notifications.php,1932,0,1132
+1607000121492,475,HelpDoc,200,OK,Thread Group 1-12,text,false,"Test failed: text expected to equal /
+
+****** received  : [[[<LINK href='theme_grey/main.css' type=text/css rel=stylesheet>
+
+<script language=javascript>
+	functi...]]]
+
+****** comparison: [[[200                                                                                                    ]]]
+
+/",2571,267,9,9,https://www.imsnsit.org/imsnsit/blank.htm,265,0,0
+1607000121492,265,HelpDoc-0,302,Found,Thread Group 1-12,text,true,,782,137,9,9,https://www.imsnsit.org/imsnsit/nsithelp_doc.php,265,0,0
+1607000121757,210,HelpDoc-1,200,OK,Thread Group 1-12,text,true,,1789,130,9,9,https://www.imsnsit.org/imsnsit/blank.htm,210,0,0
+1607000121492,487,HelpDoc,200,OK,Thread Group 1-10,text,false,"Test failed: text expected to equal /
+
+****** received  : [[[<LINK href='theme_grey/main.css' type=text/css rel=stylesheet>
+
+<script language=javascript>
+	functi...]]]
+
+****** comparison: [[[200                                                                                                    ]]]
+
+/",2571,267,9,9,https://www.imsnsit.org/imsnsit/blank.htm,264,0,0
+1607000121492,264,HelpDoc-0,302,Found,Thread Group 1-10,text,true,,782,137,9,9,https://www.imsnsit.org/imsnsit/nsithelp_doc.php,264,0,0
+1607000121757,222,HelpDoc-1,200,OK,Thread Group 1-10,text,true,,1789,130,9,9,https://www.imsnsit.org/imsnsit/blank.htm,222,0,0
+1607000121238,1002,Notices,200,OK,Thread Group 1-7,text,false,"Test failed: text expected to equal /
+
+****** received  : [[[<title>NSUT NOTICES / CIRCULARS</title><LINK href='css/METAL/app.css' type=text/css rel=stylesheet>...]]]
+
+****** comparison: [[[200                                                                                                    ]]]
+
+/",45395,138,8,8,https://www.imsnsit.org/imsnsit/notifications.php,579,0,0
+1607000121761,503,HelpDoc,200,OK,Thread Group 1-8,text,false,"Test failed: text expected to equal /
+
+****** received  : [[[<LINK href='theme_grey/main.css' type=text/css rel=stylesheet>
+
+<script language=javascript>
+	functi...]]]
+
+****** comparison: [[[200                                                                                                    ]]]
+
+/",2571,267,8,8,https://www.imsnsit.org/imsnsit/blank.htm,207,0,0
+1607000121761,207,HelpDoc-0,302,Found,Thread Group 1-8,text,true,,782,137,8,8,https://www.imsnsit.org/imsnsit/nsithelp_doc.php,207,0,0
+1607000121968,296,HelpDoc-1,200,OK,Thread Group 1-8,text,true,,1789,130,8,8,https://www.imsnsit.org/imsnsit/blank.htm,296,0,0
+1607000121968,853,Notices,200,OK,Thread Group 1-12,text,false,"Test failed: text expected to equal /
+
+****** received  : [[[<title>NSUT NOTICES / CIRCULARS</title><LINK href='css/METAL/app.css' type=text/css rel=stylesheet>...]]]
+
+****** comparison: [[[200                                                                                                    ]]]
+
+/",45395,138,8,8,https://www.imsnsit.org/imsnsit/notifications.php,537,0,0
+1607000122240,598,HelpDoc,200,OK,Thread Group 1-7,text,false,"Test failed: text expected to equal /
+
+****** received  : [[[<LINK href='theme_grey/main.css' type=text/css rel=stylesheet>
+
+<script language=javascript>
+	functi...]]]
+
+****** comparison: [[[200                                                                                                    ]]]
+
+/",2571,267,8,8,https://www.imsnsit.org/imsnsit/blank.htm,222,0,0
+1607000122240,222,HelpDoc-0,302,Found,Thread Group 1-7,text,true,,782,137,8,8,https://www.imsnsit.org/imsnsit/nsithelp_doc.php,222,0,0
+1607000122463,375,HelpDoc-1,200,OK,Thread Group 1-7,text,true,,1789,130,8,8,https://www.imsnsit.org/imsnsit/blank.htm,375,0,0
+1607000120911,1959,Notices,200,OK,Thread Group 1-9,text,false,"Test failed: text expected to equal /
+
+****** received  : [[[<title>NSUT NOTICES / CIRCULARS</title><LINK href='css/METAL/app.css' type=text/css rel=stylesheet>...]]]
+
+****** comparison: [[[200                                                                                                    ]]]
+
+/",45396,138,8,8,https://www.imsnsit.org/imsnsit/notifications.php,1500,0,913
+1607000122264,765,Notices,200,OK,Thread Group 1-8,text,false,"Test failed: text expected to equal /
+
+****** received  : [[[<title>NSUT NOTICES / CIRCULARS</title><LINK href='css/METAL/app.css' type=text/css rel=stylesheet>...]]]
+
+****** comparison: [[[200                                                                                                    ]]]
+
+/",45395,138,8,8,https://www.imsnsit.org/imsnsit/notifications.php,423,0,0
+1607000122822,632,HelpDoc,200,OK,Thread Group 1-12,text,false,"Test failed: text expected to equal /
+
+****** received  : [[[<LINK href='theme_grey/main.css' type=text/css rel=stylesheet>
+
+<script language=javascript>
+	functi...]]]
+
+****** comparison: [[[200                                                                                                    ]]]
+
+/",2571,267,8,8,https://www.imsnsit.org/imsnsit/blank.htm,310,0,0
+1607000122822,310,HelpDoc-0,302,Found,Thread Group 1-12,text,true,,782,137,8,8,https://www.imsnsit.org/imsnsit/nsithelp_doc.php,310,0,0
+1607000123133,321,HelpDoc-1,200,OK,Thread Group 1-12,text,true,,1789,130,8,8,https://www.imsnsit.org/imsnsit/blank.htm,321,0,0
+1607000122871,635,HelpDoc,200,OK,Thread Group 1-9,text,false,"Test failed: text expected to equal /
+
+****** received  : [[[<LINK href='theme_grey/main.css' type=text/css rel=stylesheet>
+
+<script language=javascript>
+	functi...]]]
+
+****** comparison: [[[200                                                                                                    ]]]
+
+/",2571,267,7,7,https://www.imsnsit.org/imsnsit/blank.htm,309,0,0
+1607000122871,309,HelpDoc-0,302,Found,Thread Group 1-9,text,true,,782,137,7,7,https://www.imsnsit.org/imsnsit/nsithelp_doc.php,309,0,0
+1607000123180,326,HelpDoc-1,200,OK,Thread Group 1-9,text,true,,1789,130,7,7,https://www.imsnsit.org/imsnsit/blank.htm,326,0,0
+1607000123029,666,HelpDoc,200,OK,Thread Group 1-8,text,false,"Test failed: text expected to equal /
+
+****** received  : [[[<LINK href='theme_grey/main.css' type=text/css rel=stylesheet>
+
+<script language=javascript>
+	functi...]]]
+
+****** comparison: [[[200                                                                                                    ]]]
+
+/",2571,267,7,7,https://www.imsnsit.org/imsnsit/blank.htm,345,0,0
+1607000123029,346,HelpDoc-0,302,Found,Thread Group 1-8,text,true,,782,137,7,7,https://www.imsnsit.org/imsnsit/nsithelp_doc.php,345,0,0
+1607000123375,320,HelpDoc-1,200,OK,Thread Group 1-8,text,true,,1789,130,7,7,https://www.imsnsit.org/imsnsit/blank.htm,320,0,0
+1607000122838,1046,Notices,200,OK,Thread Group 1-7,text,false,"Test failed: text expected to equal /
+
+****** received  : [[[<title>NSUT NOTICES / CIRCULARS</title><LINK href='css/METAL/app.css' type=text/css rel=stylesheet>...]]]
+
+****** comparison: [[[200                                                                                                    ]]]
+
+/",45395,138,6,6,https://www.imsnsit.org/imsnsit/notifications.php,667,0,0
+1607000055964,68535,Notices,200,OK,Thread Group 1-11,text,false,"Test failed: text expected to equal /
+
+****** received  : [[[<title>NSUT NOTICES / CIRCULARS</title><LINK href='css/METAL/app.css' type=text/css rel=stylesheet>...]]]
+
+****** comparison: [[[200                                                                                                    ]]]
+
+/",45396,138,6,6,https://www.imsnsit.org/imsnsit/notifications.php,31147,0,17745
+1607000123884,731,HelpDoc,200,OK,Thread Group 1-7,text,false,"Test failed: text expected to equal /
+
+****** received  : [[[<LINK href='theme_grey/main.css' type=text/css rel=stylesheet>
+
+<script language=javascript>
+	functi...]]]
+
+****** comparison: [[[200                                                                                                    ]]]
+
+/",2571,267,6,6,https://www.imsnsit.org/imsnsit/blank.htm,315,0,0
+1607000123884,315,HelpDoc-0,302,Found,Thread Group 1-7,text,true,,782,137,6,6,https://www.imsnsit.org/imsnsit/nsithelp_doc.php,315,0,0
+1607000124199,416,HelpDoc-1,200,OK,Thread Group 1-7,text,true,,1789,130,6,6,https://www.imsnsit.org/imsnsit/blank.htm,416,0,0
+1607000123506,1282,Notices,200,OK,Thread Group 1-9,text,false,"Test failed: text expected to equal /
+
+****** received  : [[[<title>NSUT NOTICES / CIRCULARS</title><LINK href='css/METAL/app.css' type=text/css rel=stylesheet>...]]]
+
+****** comparison: [[[200                                                                                                    ]]]
+
+/",45395,138,5,5,https://www.imsnsit.org/imsnsit/notifications.php,692,0,0
+1607000124789,539,HelpDoc,200,OK,Thread Group 1-9,text,false,"Test failed: text expected to equal /
+
+****** received  : [[[<LINK href='theme_grey/main.css' type=text/css rel=stylesheet>
+
+<script language=javascript>
+	functi...]]]
+
+****** comparison: [[[200                                                                                                    ]]]
+
+/",2571,267,5,5,https://www.imsnsit.org/imsnsit/blank.htm,272,0,0
+1607000124789,272,HelpDoc-0,302,Found,Thread Group 1-9,text,true,,782,137,5,5,https://www.imsnsit.org/imsnsit/nsithelp_doc.php,272,0,0
+1607000125062,266,HelpDoc-1,200,OK,Thread Group 1-9,text,true,,1789,130,5,5,https://www.imsnsit.org/imsnsit/blank.htm,265,0,0
+1607000061409,64066,Notices,200,OK,Thread Group 1-17,text,false,"Test failed: text expected to equal /
+
+****** received  : [[[<title>NSUT NOTICES / CIRCULARS</title><LINK href='css/METAL/app.css' type=text/css rel=stylesheet>...]]]
+
+****** comparison: [[[200                                                                                                    ]]]
+
+/",45396,138,4,4,https://www.imsnsit.org/imsnsit/notifications.php,63295,0,10238
+1607000124498,1191,HelpDoc,200,OK,Thread Group 1-11,text,false,"Test failed: text expected to equal /
+
+****** received  : [[[<LINK href='theme_grey/main.css' type=text/css rel=stylesheet>
+
+<script language=javascript>
+	functi...]]]
+
+****** comparison: [[[200                                                                                                    ]]]
+
+/",2572,267,4,4,https://www.imsnsit.org/imsnsit/blank.htm,1049,0,889
+1607000124498,1049,HelpDoc-0,302,Found,Thread Group 1-11,text,true,,783,137,4,4,https://www.imsnsit.org/imsnsit/nsithelp_doc.php,1049,0,889
+1607000125548,141,HelpDoc-1,200,OK,Thread Group 1-11,text,true,,1789,130,4,4,https://www.imsnsit.org/imsnsit/blank.htm,141,0,0
+1607000125475,702,HelpDoc,200,OK,Thread Group 1-17,text,false,"Test failed: text expected to equal /
+
+****** received  : [[[<LINK href='theme_grey/main.css' type=text/css rel=stylesheet>
+
+<script language=javascript>
+	functi...]]]
+
+****** comparison: [[[200                                                                                                    ]]]
+
+/",2572,267,4,4,https://www.imsnsit.org/imsnsit/blank.htm,552,0,410
+1607000125475,552,HelpDoc-0,302,Found,Thread Group 1-17,text,true,,783,137,4,4,https://www.imsnsit.org/imsnsit/nsithelp_doc.php,552,0,410
+1607000126028,149,HelpDoc-1,200,OK,Thread Group 1-17,text,true,,1789,130,4,4,https://www.imsnsit.org/imsnsit/blank.htm,149,0,0
+1607000125689,565,Notices,200,OK,Thread Group 1-11,text,false,"Test failed: text expected to equal /
+
+****** received  : [[[<title>NSUT NOTICES / CIRCULARS</title><LINK href='css/METAL/app.css' type=text/css rel=stylesheet>...]]]
+
+****** comparison: [[[200                                                                                                    ]]]
+
+/",45395,138,4,4,https://www.imsnsit.org/imsnsit/notifications.php,297,0,0
+1607000126255,252,HelpDoc,200,OK,Thread Group 1-11,text,false,"Test failed: text expected to equal /
+
+****** received  : [[[<LINK href='theme_grey/main.css' type=text/css rel=stylesheet>
+
+<script language=javascript>
+	functi...]]]
+
+****** comparison: [[[200                                                                                                    ]]]
+
+/",2571,267,4,4,https://www.imsnsit.org/imsnsit/blank.htm,140,0,0
+1607000126255,140,HelpDoc-0,302,Found,Thread Group 1-11,text,true,,782,137,4,4,https://www.imsnsit.org/imsnsit/nsithelp_doc.php,140,0,0
+1607000126396,111,HelpDoc-1,200,OK,Thread Group 1-11,text,true,,1789,130,4,4,https://www.imsnsit.org/imsnsit/blank.htm,111,0,0
+1607000126178,640,Notices,200,OK,Thread Group 1-17,text,false,"Test failed: text expected to equal /
+
+****** received  : [[[<title>NSUT NOTICES / CIRCULARS</title><LINK href='css/METAL/app.css' type=text/css rel=stylesheet>...]]]
+
+****** comparison: [[[200                                                                                                    ]]]
+
+/",45395,138,4,4,https://www.imsnsit.org/imsnsit/notifications.php,289,0,0
+1607000126507,969,Notices,200,OK,Thread Group 1-11,text,false,"Test failed: text expected to equal /
+
+****** received  : [[[<title>NSUT NOTICES / CIRCULARS</title><LINK href='css/METAL/app.css' type=text/css rel=stylesheet>...]]]
+
+****** comparison: [[[200                                                                                                    ]]]
+
+/",45395,138,4,4,https://www.imsnsit.org/imsnsit/notifications.php,399,0,0
+1607000126819,678,HelpDoc,200,OK,Thread Group 1-17,text,false,"Test failed: text expected to equal /
+
+****** received  : [[[<LINK href='theme_grey/main.css' type=text/css rel=stylesheet>
+
+<script language=javascript>
+	functi...]]]
+
+****** comparison: [[[200                                                                                                    ]]]
+
+/",2571,267,4,4,https://www.imsnsit.org/imsnsit/blank.htm,304,0,0
+1607000126819,304,HelpDoc-0,302,Found,Thread Group 1-17,text,true,,782,137,4,4,https://www.imsnsit.org/imsnsit/nsithelp_doc.php,304,0,0
+1607000127123,374,HelpDoc-1,200,OK,Thread Group 1-17,text,true,,1789,130,4,4,https://www.imsnsit.org/imsnsit/blank.htm,374,0,0
+1607000127476,491,HelpDoc,200,OK,Thread Group 1-11,text,false,"Test failed: text expected to equal /
+
+****** received  : [[[<LINK href='theme_grey/main.css' type=text/css rel=stylesheet>
+
+<script language=javascript>
+	functi...]]]
+
+****** comparison: [[[200                                                                                                    ]]]
+
+/",2571,267,4,4,https://www.imsnsit.org/imsnsit/blank.htm,263,0,0
+1607000127476,263,HelpDoc-0,302,Found,Thread Group 1-11,text,true,,782,137,4,4,https://www.imsnsit.org/imsnsit/nsithelp_doc.php,263,0,0
+1607000127739,228,HelpDoc-1,200,OK,Thread Group 1-11,text,true,,1789,130,4,4,https://www.imsnsit.org/imsnsit/blank.htm,228,0,0
+1607000127497,1141,Notices,200,OK,Thread Group 1-17,text,false,"Test failed: text expected to equal /
+
+****** received  : [[[<title>NSUT NOTICES / CIRCULARS</title><LINK href='css/METAL/app.css' type=text/css rel=stylesheet>...]]]
+
+****** comparison: [[[200                                                                                                    ]]]
+
+/",45395,138,4,4,https://www.imsnsit.org/imsnsit/notifications.php,529,0,0
+1607000127968,1283,Notices,200,OK,Thread Group 1-11,text,false,"Test failed: text expected to equal /
+
+****** received  : [[[<title>NSUT NOTICES / CIRCULARS</title><LINK href='css/METAL/app.css' type=text/css rel=stylesheet>...]]]
+
+****** comparison: [[[200                                                                                                    ]]]
+
+/",45395,138,4,4,https://www.imsnsit.org/imsnsit/notifications.php,755,0,0
+1607000069152,60269,Notices,200,OK,Thread Group 1-1,text,false,"Test failed: text expected to equal /
+
+****** received  : [[[<title>NSUT NOTICES / CIRCULARS</title><LINK href='css/METAL/app.css' type=text/css rel=stylesheet>...]]]
+
+****** comparison: [[[200                                                                                                    ]]]
+
+/",45395,138,4,4,https://www.imsnsit.org/imsnsit/notifications.php,59430,0,0
+1607000128639,843,HelpDoc,200,OK,Thread Group 1-17,text,false,"Test failed: text expected to equal /
+
+****** received  : [[[<LINK href='theme_grey/main.css' type=text/css rel=stylesheet>
+
+<script language=javascript>
+	functi...]]]
+
+****** comparison: [[[200                                                                                                    ]]]
+
+/",2571,267,4,4,https://www.imsnsit.org/imsnsit/blank.htm,465,0,0
+1607000128639,465,HelpDoc-0,302,Found,Thread Group 1-17,text,true,,782,137,4,4,https://www.imsnsit.org/imsnsit/nsithelp_doc.php,465,0,0
+1607000129104,378,HelpDoc-1,200,OK,Thread Group 1-17,text,true,,1789,130,4,4,https://www.imsnsit.org/imsnsit/blank.htm,378,0,0
+1607000129252,687,HelpDoc,200,OK,Thread Group 1-11,text,false,"Test failed: text expected to equal /
+
+****** received  : [[[<LINK href='theme_grey/main.css' type=text/css rel=stylesheet>
+
+<script language=javascript>
+	functi...]]]
+
+****** comparison: [[[200                                                                                                    ]]]
+
+/",2571,267,4,4,https://www.imsnsit.org/imsnsit/blank.htm,314,0,0
+1607000129252,314,HelpDoc-0,302,Found,Thread Group 1-11,text,true,,782,137,4,4,https://www.imsnsit.org/imsnsit/nsithelp_doc.php,314,0,0
+1607000129566,373,HelpDoc-1,200,OK,Thread Group 1-11,text,true,,1789,130,4,4,https://www.imsnsit.org/imsnsit/blank.htm,373,0,0
+1607000129482,984,Notices,200,OK,Thread Group 1-17,text,false,"Test failed: text expected to equal /
+
+****** received  : [[[<title>NSUT NOTICES / CIRCULARS</title><LINK href='css/METAL/app.css' type=text/css rel=stylesheet>...]]]
+
+****** comparison: [[[200                                                                                                    ]]]
+
+/",45395,138,3,3,https://www.imsnsit.org/imsnsit/notifications.php,634,0,0
+1607000129420,1204,HelpDoc,200,OK,Thread Group 1-1,text,false,"Test failed: text expected to equal /
+
+****** received  : [[[<LINK href='theme_grey/main.css' type=text/css rel=stylesheet>
+
+<script language=javascript>
+	functi...]]]
+
+****** comparison: [[[200                                                                                                    ]]]
+
+/",2572,267,3,3,https://www.imsnsit.org/imsnsit/blank.htm,1094,0,929
+1607000129420,1094,HelpDoc-0,302,Found,Thread Group 1-1,text,true,,783,137,3,3,https://www.imsnsit.org/imsnsit/nsithelp_doc.php,1094,0,929
+1607000130514,110,HelpDoc-1,200,OK,Thread Group 1-1,text,true,,1789,130,3,3,https://www.imsnsit.org/imsnsit/blank.htm,109,0,0
+1607000130468,273,HelpDoc,200,OK,Thread Group 1-17,text,false,"Test failed: text expected to equal /
+
+****** received  : [[[<LINK href='theme_grey/main.css' type=text/css rel=stylesheet>
+
+<script language=javascript>
+	functi...]]]
+
+****** comparison: [[[200                                                                                                    ]]]
+
+/",2571,267,3,3,https://www.imsnsit.org/imsnsit/blank.htm,125,0,0
+1607000130468,125,HelpDoc-0,302,Found,Thread Group 1-17,text,true,,782,137,3,3,https://www.imsnsit.org/imsnsit/nsithelp_doc.php,125,0,0
+1607000130593,148,HelpDoc-1,200,OK,Thread Group 1-17,text,true,,1789,130,3,3,https://www.imsnsit.org/imsnsit/blank.htm,148,0,0
+1607000130624,524,Notices,200,OK,Thread Group 1-1,text,false,"Test failed: text expected to equal /
+
+****** received  : [[[<title>NSUT NOTICES / CIRCULARS</title><LINK href='css/METAL/app.css' type=text/css rel=stylesheet>...]]]
+
+****** comparison: [[[200                                                                                                    ]]]
+
+/",45395,138,2,2,https://www.imsnsit.org/imsnsit/notifications.php,274,0,0
+1607000131150,255,HelpDoc,200,OK,Thread Group 1-1,text,false,"Test failed: text expected to equal /
+
+****** received  : [[[<LINK href='theme_grey/main.css' type=text/css rel=stylesheet>
+
+<script language=javascript>
+	functi...]]]
+
+****** comparison: [[[200                                                                                                    ]]]
+
+/",2571,267,2,2,https://www.imsnsit.org/imsnsit/blank.htm,139,0,0
+1607000131150,139,HelpDoc-0,302,Found,Thread Group 1-1,text,true,,782,137,2,2,https://www.imsnsit.org/imsnsit/nsithelp_doc.php,139,0,0
+1607000131289,116,HelpDoc-1,200,OK,Thread Group 1-1,text,true,,1789,130,2,2,https://www.imsnsit.org/imsnsit/blank.htm,116,0,0
+1607000131406,486,Notices,200,OK,Thread Group 1-1,text,false,"Test failed: text expected to equal /
+
+****** received  : [[[<title>NSUT NOTICES / CIRCULARS</title><LINK href='css/METAL/app.css' type=text/css rel=stylesheet>...]]]
+
+****** comparison: [[[200                                                                                                    ]]]
+
+/",45395,138,2,2,https://www.imsnsit.org/imsnsit/notifications.php,269,0,0
+1607000131893,247,HelpDoc,200,OK,Thread Group 1-1,text,false,"Test failed: text expected to equal /
+
+****** received  : [[[<LINK href='theme_grey/main.css' type=text/css rel=stylesheet>
+
+<script language=javascript>
+	functi...]]]
+
+****** comparison: [[[200                                                                                                    ]]]
+
+/",2571,267,2,2,https://www.imsnsit.org/imsnsit/blank.htm,136,0,0
+1607000131893,136,HelpDoc-0,302,Found,Thread Group 1-1,text,true,,782,137,2,2,https://www.imsnsit.org/imsnsit/nsithelp_doc.php,136,0,0
+1607000132029,111,HelpDoc-1,200,OK,Thread Group 1-1,text,true,,1789,130,2,2,https://www.imsnsit.org/imsnsit/blank.htm,111,0,0
+1607000044661,88459,Notices,200,OK,Thread Group 1-13,text,false,"Test failed: text expected to equal /
+
+****** received  : [[[<title>NSUT NOTICES / CIRCULARS</title><LINK href='css/METAL/app.css' type=text/css rel=stylesheet>...]]]
+
+****** comparison: [[[200                                                                                                    ]]]
+
+/",45396,138,1,1,https://www.imsnsit.org/imsnsit/notifications.php,32907,0,11294
+1607000133119,758,HelpDoc,200,OK,Thread Group 1-13,text,false,"Test failed: text expected to equal /
+
+****** received  : [[[<LINK href='theme_grey/main.css' type=text/css rel=stylesheet>
+
+<script language=javascript>
+	functi...]]]
+
+****** comparison: [[[200                                                                                                    ]]]
+
+/",2572,267,1,1,https://www.imsnsit.org/imsnsit/blank.htm,632,0,480
+1607000133119,632,HelpDoc-0,302,Found,Thread Group 1-13,text,true,,783,137,1,1,https://www.imsnsit.org/imsnsit/nsithelp_doc.php,632,0,480
+1607000133752,125,HelpDoc-1,200,OK,Thread Group 1-13,text,true,,1789,130,1,1,https://www.imsnsit.org/imsnsit/blank.htm,125,0,0
+1607000133878,943,Notices,200,OK,Thread Group 1-13,text,false,"Test failed: text expected to equal /
+
+****** received  : [[[<title>NSUT NOTICES / CIRCULARS</title><LINK href='css/METAL/app.css' type=text/css rel=stylesheet>...]]]
+
+****** comparison: [[[200                                                                                                    ]]]
+
+/",45395,138,1,1,https://www.imsnsit.org/imsnsit/notifications.php,316,0,0
+1607000134822,595,HelpDoc,200,OK,Thread Group 1-13,text,false,"Test failed: text expected to equal /
+
+****** received  : [[[<LINK href='theme_grey/main.css' type=text/css rel=stylesheet>
+
+<script language=javascript>
+	functi...]]]
+
+****** comparison: [[[200                                                                                                    ]]]
+
+/",2571,267,1,1,https://www.imsnsit.org/imsnsit/blank.htm,292,0,0
+1607000134822,292,HelpDoc-0,302,Found,Thread Group 1-13,text,true,,782,137,1,1,https://www.imsnsit.org/imsnsit/nsithelp_doc.php,292,0,0
+1607000135114,303,HelpDoc-1,200,OK,Thread Group 1-13,text,true,,1789,130,1,1,https://www.imsnsit.org/imsnsit/blank.htm,303,0,0
+1607000135418,922,Notices,200,OK,Thread Group 1-13,text,false,"Test failed: text expected to equal /
+
+****** received  : [[[<title>NSUT NOTICES / CIRCULARS</title><LINK href='css/METAL/app.css' type=text/css rel=stylesheet>...]]]
+
+****** comparison: [[[200                                                                                                    ]]]
+
+/",45395,138,1,1,https://www.imsnsit.org/imsnsit/notifications.php,358,0,0
+1607000136341,196,HelpDoc,200,OK,Thread Group 1-13,text,false,"Test failed: text expected to equal /
+
+****** received  : [[[<LINK href='theme_grey/main.css' type=text/css rel=stylesheet>
+
+<script language=javascript>
+	functi...]]]
+
+****** comparison: [[[200                                                                                                    ]]]
+
+/",2571,267,1,1,https://www.imsnsit.org/imsnsit/blank.htm,94,0,0
+1607000136341,94,HelpDoc-0,302,Found,Thread Group 1-13,text,true,,782,137,1,1,https://www.imsnsit.org/imsnsit/nsithelp_doc.php,94,0,0
+1607000136435,102,HelpDoc-1,200,OK,Thread Group 1-13,text,true,,1789,130,1,1,https://www.imsnsit.org/imsnsit/blank.htm,102,0,0
+1607000136537,675,Notices,200,OK,Thread Group 1-13,text,false,"Test failed: text expected to equal /
+
+****** received  : [[[<title>NSUT NOTICES / CIRCULARS</title><LINK href='css/METAL/app.css' type=text/css rel=stylesheet>...]]]
+
+****** comparison: [[[200                                                                                                    ]]]
+
+/",45395,138,1,1,https://www.imsnsit.org/imsnsit/notifications.php,226,0,0
+1607000137213,300,HelpDoc,200,OK,Thread Group 1-13,text,false,"Test failed: text expected to equal /
+
+****** received  : [[[<LINK href='theme_grey/main.css' type=text/css rel=stylesheet>
+
+<script language=javascript>
+	functi...]]]
+
+****** comparison: [[[200                                                                                                    ]]]
+
+/",2571,267,1,1,https://www.imsnsit.org/imsnsit/blank.htm,175,0,0
+1607000137213,175,HelpDoc-0,302,Found,Thread Group 1-13,text,true,,782,137,1,1,https://www.imsnsit.org/imsnsit/nsithelp_doc.php,175,0,0
+1607000137389,124,HelpDoc-1,200,OK,Thread Group 1-13,text,true,,1789,130,1,1,https://www.imsnsit.org/imsnsit/blank.htm,124,0,0
